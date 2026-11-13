@@ -2,8 +2,6 @@
 
 <img src="assets/hubble-extreme-deep-field.jpg" alt="Outer Space Research" width="85%">
 
-<sub>Hubble eXtreme Deep Field — almost every dot is a galaxy. Credit: NASA, ESA (public domain), via scikit-image sample data</sub>
-
 # 🌌 Outer Space Research
 
 ### A research node on astronomy and space science, synced into the Research-Vault hub

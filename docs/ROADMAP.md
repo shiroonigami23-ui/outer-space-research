@@ -35,7 +35,6 @@ Status: **growing**.
 ### Phase 4 — Depth
 
 - [ ] Per-track "open questions" pages with competing hypotheses side by side
-- [x] Cross-links with the deep-ocean hub (hadal chemosynthesis ↔ ocean worlds; dark oxygen ↔ biosignature logic)
 - [ ] Euclid DR1 results write-up (after late-Oct 2026 release)
 - [ ] Short explainer write-ups suitable for the Research-Vault papers folder
 

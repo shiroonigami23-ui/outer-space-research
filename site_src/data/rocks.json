@@ -1,0 +1,272 @@
+[
+{
+"name": "Chondrite",
+"rtype": "Stony meteorite",
+"origin": "Undifferentiated asteroids",
+"summary": "The most common meteorites (~86%), full of chondrules: frozen droplets from the solar nebula 4.56 billion years ago.",
+"wiki": "Chondrite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "chondrite"
+},
+{
+"name": "Carbonaceous chondrite",
+"rtype": "Stony meteorite",
+"origin": "Primitive carbon-rich asteroids",
+"summary": "Rich in water and organic molecules, including amino acids; Murchison and Allende are famous examples.",
+"wiki": "Carbonaceous_chondrite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "carbonaceous-chondrite"
+},
+{
+"name": "Achondrite",
+"rtype": "Stony meteorite",
+"origin": "Melted asteroids, Moon, Mars",
+"summary": "Igneous meteorites from bodies that melted.",
+"wiki": "Achondrite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "achondrite"
+},
+{
+"name": "HED meteorites",
+"rtype": "Achondrite",
+"origin": "Asteroid Vesta",
+"summary": "Howardites, eucrites and diogenites, pieces of Vesta's crust.",
+"wiki": "HED_meteorite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "hed-meteorites"
+},
+{
+"name": "Iron meteorite",
+"rtype": "Iron meteorite",
+"origin": "Cores of shattered asteroids",
+"summary": "Iron-nickel alloys showing Widmanstätten patterns that form only with million-year slow cooling.",
+"wiki": "Iron_meteorite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "iron-meteorite"
+},
+{
+"name": "Pallasite",
+"rtype": "Stony-iron meteorite",
+"origin": "Core–mantle boundary of asteroids",
+"summary": "Gem-quality olivine crystals set in iron-nickel metal.",
+"wiki": "Pallasite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "pallasite"
+},
+{
+"name": "Mesosiderite",
+"rtype": "Stony-iron meteorite",
+"origin": "Asteroid collisions",
+"summary": "Breccias of metal and basaltic rock.",
+"wiki": "Mesosiderite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "mesosiderite"
+},
+{
+"name": "Martian meteorite",
+"rtype": "Achondrite",
+"origin": "Mars",
+"summary": "About 400 known, blasted off Mars by impacts; ALH84001 sparked the 1996 'fossil' debate.",
+"wiki": "Martian_meteorite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "martian-meteorite"
+},
+{
+"name": "Lunar meteorite",
+"rtype": "Achondrite",
+"origin": "Moon",
+"summary": "Rocks thrown from the Moon by impacts and found mostly in deserts and Antarctica.",
+"wiki": "Lunar_meteorite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "lunar-meteorite"
+},
+{
+"name": "Hoba meteorite",
+"rtype": "Iron meteorite (ataxite)",
+"origin": "Asteroid core",
+"summary": "The largest known intact meteorite, ~60 tonnes, still in Namibia where it fell.",
+"wiki": "Hoba_meteorite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "hoba-meteorite"
+},
+{
+"name": "Murchison meteorite",
+"rtype": "Carbonaceous chondrite",
+"origin": "Primitive asteroid",
+"summary": "Fell in Australia in 1969; contains over 90 amino acids and presolar grains older than the Sun.",
+"wiki": "Murchison_meteorite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "murchison-meteorite"
+},
+{
+"name": "Allende meteorite",
+"rtype": "Carbonaceous chondrite",
+"origin": "Primitive asteroid",
+"summary": "Contains calcium-aluminium inclusions, the oldest solids in the solar system (~4.567 billion years).",
+"wiki": "Allende_meteorite",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "allende-meteorite"
+},
+{
+"name": "Chelyabinsk meteor",
+"rtype": "Chondrite (LL5)",
+"origin": "Near-Earth asteroid",
+"summary": "A ~20 m asteroid that exploded over Russia in 2013, injuring ~1,500 people with its shock wave.",
+"wiki": "Chelyabinsk_meteor",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "chelyabinsk-meteor"
+},
+{
+"name": "Tunguska event",
+"rtype": "Airburst",
+"origin": "Asteroid or comet",
+"summary": "A 1908 airburst that flattened ~2,000 km² of Siberian forest.",
+"wiki": "Tunguska_event",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "tunguska-event"
+},
+{
+"name": "Lonar crater",
+"rtype": "Impact crater",
+"origin": "Basaltic impact",
+"summary": "A ~1.8 km crater lake in Maharashtra, India, one of the few impact craters in basalt, about 570,000 years old.",
+"wiki": "Lonar_Lake",
+"group": "Meteorite types",
+"emoji": "🌠",
+"slug": "lonar-crater"
+},
+{
+"name": "Lunar basalt",
+"rtype": "Igneous rock",
+"origin": "Moon maria",
+"summary": "Dark volcanic rock filling the Moon's 'seas'; Apollo returned 382 kg of Moon rock.",
+"wiki": "Lunar_mare",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "lunar-basalt"
+},
+{
+"name": "Anorthosite",
+"rtype": "Igneous rock",
+"origin": "Moon highlands",
+"summary": "Bright rock of the lunar highlands, crust from a primordial magma ocean.",
+"wiki": "Anorthosite",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "anorthosite"
+},
+{
+"name": "KREEP",
+"rtype": "Lunar geochemical component",
+"origin": "Moon",
+"summary": "Rich in potassium, rare-earth elements and phosphorus; concentrated on the near side.",
+"wiki": "KREEP",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "kreep"
+},
+{
+"name": "Regolith",
+"rtype": "Soil",
+"origin": "Moon, Mars, asteroids",
+"summary": "Loose layer of dust and broken rock created by micrometeorite bombardment; lunar dust is sharp and clingy.",
+"wiki": "Regolith",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "regolith"
+},
+{
+"name": "Jarosite",
+"rtype": "Mineral",
+"origin": "Mars",
+"summary": "A sulfate mineral that forms only in acidic water, found by Opportunity.",
+"wiki": "Jarosite",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "jarosite"
+},
+{
+"name": "Hematite 'blueberries'",
+"rtype": "Mineral",
+"origin": "Mars",
+"summary": "Small spherical concretions found by Opportunity, evidence of ancient groundwater.",
+"wiki": "Martian_spherules",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "hematite-blueberries"
+},
+{
+"name": "Vivianite and greigite",
+"rtype": "Minerals",
+"origin": "Mars (Jezero Crater)",
+"summary": "Iron minerals in Sapphire Canyon's 'leopard spots' that on Earth are often made by microbes.",
+"wiki": "Cheyava_Falls",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "vivianite-and-greigite"
+},
+{
+"name": "Moissanite",
+"rtype": "Mineral",
+"origin": "Meteorites",
+"summary": "Silicon carbide, first found in a meteorite crater; presolar grains of it came from dying stars.",
+"wiki": "Moissanite",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "moissanite"
+},
+{
+"name": "Tranquillityite",
+"rtype": "Mineral",
+"origin": "Moon",
+"summary": "One of three minerals first discovered in Apollo 11 samples.",
+"wiki": "Tranquillityite",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "tranquillityite"
+},
+{
+"name": "Ice VII and exotic ices",
+"rtype": "Ice",
+"origin": "Ocean worlds, icy moons",
+"summary": "High-pressure ices that may form under deep alien oceans.",
+"wiki": "Ice_VII",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "ice-vii-and-exotic-ices"
+},
+{
+"name": "Tholins",
+"rtype": "Organic compounds",
+"origin": "Titan, Pluto, comets",
+"summary": "Reddish organic gunk made by UV light on methane and nitrogen.",
+"wiki": "Tholin",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "tholins"
+},
+{
+"name": "Diamond planets and space diamonds",
+"rtype": "Carbon",
+"origin": "Meteorites, white dwarfs",
+"summary": "Nanodiamonds in meteorites; crystallised white dwarfs may be like giant diamonds.",
+"wiki": "Diamond",
+"group": "Space rocks & minerals",
+"emoji": "🪨",
+"slug": "diamond-planets-and-space-diamonds"
+}
+]

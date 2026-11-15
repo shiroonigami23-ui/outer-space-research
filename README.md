@@ -23,10 +23,23 @@
 **Outer Space Research** collects concepts, open questions, dated studies and evidence on astronomy, astrophysics
 and space exploration. Every factual claim has a dated source, and every figure is regenerated from code. The repo is
 **mirrored automatically** into [Research-Vault](https://github.com/shiroonigami23-ui/Research-Vault)
-(`connected/outer-space-research/`) by the hub's `sync-research-nodes.yml` workflow, using the same model and
-template as its sister node [under-water-deep-research](https://github.com/shiroonigami23-ui/under-water-deep-research).
+(`connected/outer-space-research/`) by the hub's `sync-research-nodes.yml` workflow.
 
-🌐 **Browse it as a website:** <https://shiroonigami23-ui.github.io/outer-space-research/> · 🌊 Sister hub: [under-water-deep-research](https://github.com/shiroonigami23-ui/under-water-deep-research)
+🌐 **Browse the encyclopedia:** <https://shiroonigami23-ui.github.io/outer-space-research/>
+
+### 🗂 The website (v3)
+
+| Part | What's in it |
+|---|---|
+| 🌌 **Journey of the Universe** | Big Bang, the CMB, first stars and galaxies, how big the universe is, dark matter and dark energy, the fate of the universe |
+| ⭐ **Stars & the Sun** · 🕳 **Black holes & exotic physics** · 🪐 **Planets & life** · 🚀 **Exploration** | 26 explainer articles, from the life cycle of stars and every kind of dwarf star to black holes, white holes, wormholes, cosmic collisions, exoplanet types, space rocks, telescopes since 1608, the Moon landings, rockets and orbits, and India's space programme |
+| 📚 **12 catalogs, 537 entries** | Planets & dwarf planets, moons, stars, cosmic objects (black holes, pulsars, supernovae…), exoplanets, galaxies & nebulae, asteroids & comets, space rocks, missions/rockets/satellites, people & animals in space, telescopes, and all 88 constellations, cross-linked to each other |
+| 📄 **Research papers** | 24 landmark and current papers; openly licensed PDFs are read in a built-in viewer or downloaded, the rest open from arXiv or the publisher |
+| 📡 **Live tracker on every page** | 15 missions and research streams, collapsible, linked to detailed sections |
+| 📊 **Animated statistics** | Charts of the universe's contents, the Hubble tension, redshift records, exoplanet growth, the solar cycle and more |
+| 📷🔊 **Photos and sounds** | Real Wikimedia Commons photos and NASA sonifications/recordings, credited; `prompts.md` and the Photo status page list anything still missing |
+
+Build it locally: `pip install -r scripts/requirements.txt && python scripts/build_site.py`.
 
 ### ✨ Highlights
 
@@ -137,7 +150,6 @@ flowchart LR
     L[labs/orbital-mechanics-lab.html] --- E
   end
   Node -- sync-research-nodes.yml --> RV[(Research-Vault)]
-  UW[under-water-deep-research] -- mirrored --> RV
 ```
 
 ➡️ Full design notes, data flow and design decisions: **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**

@@ -1,0 +1,86 @@
+@file missions.json
+@fields name|agency|launch|target|mtype|status|summary|wiki
+# Firsts & milestones|🛰
+Sputnik 1|USSR|1957|Earth orbit|Satellite|Re-entered 1958|The first artificial satellite (4 October 1957), whose beeps began the Space Age.|Sputnik_1
+Sputnik 2|USSR|1957|Earth orbit|Satellite|Re-entered 1958|Carried Laika, the first animal to orbit Earth.|Sputnik_2
+Explorer 1|USA|1958|Earth orbit|Satellite|Re-entered 1970|First US satellite; discovered the Van Allen radiation belts.|Explorer_1
+Luna 2|USSR|1959|Moon|Impactor|Completed|First human-made object to reach another world.|Luna_2
+Luna 3|USSR|1959|Moon|Flyby|Completed|Took the first photos of the Moon's far side.|Luna_3
+Vostok 1|USSR|1961|Earth orbit|Crewed|Completed|Yuri Gagarin became the first human in space on 12 April 1961.|Vostok_1
+Mariner 2|USA|1962|Venus|Flyby|Completed|First successful planetary flyby.|Mariner_2
+Mariner 4|USA|1964|Mars|Flyby|Completed|First close-up photos of Mars.|Mariner_4
+Luna 9|USSR|1966|Moon|Lander|Completed|First soft landing on the Moon.|Luna_9
+Apollo 8|USA|1968|Moon|Crewed|Completed|First humans to orbit the Moon; took 'Earthrise'.|Apollo_8
+Apollo 11|USA|1969|Moon|Crewed landing|Completed|Armstrong and Aldrin became the first humans to walk on the Moon (20 July 1969).|Apollo_11
+Apollo 13|USA|1970|Moon|Crewed|Aborted, crew survived|An oxygen tank exploded; the crew returned safely in a famous rescue.|Apollo_13
+Apollo 17|USA|1972|Moon|Crewed landing|Completed|The last crewed Moon landing; Cernan was the last person to walk there.|Apollo_17
+Venera 7|USSR|1970|Venus|Lander|Completed|First successful landing on another planet.|Venera_7
+Mars 3|USSR|1971|Mars|Lander|Partial|First soft landing on Mars (transmitted ~20 s).|Mars_3
+Salyut 1|USSR|1971|Earth orbit|Space station|Deorbited|The first space station.|Salyut_1
+Aryabhata|ISRO|1975|Earth orbit|Satellite|Re-entered 1992|India's first satellite, launched on a Soviet rocket.|Aryabhata_(satellite)
+Viking 1|USA|1975|Mars|Orbiter/lander|Completed|First fully successful Mars landing; tested soil for life.|Viking_1
+# Deep space explorers|🚀
+Pioneer 10|USA|1972|Jupiter, interstellar|Flyby|Silent since 2003|First through the asteroid belt and to fly past Jupiter.|Pioneer_10
+Voyager 1|USA|1977|Jupiter, Saturn, interstellar|Flyby|Operating|The most distant human-made object; entered interstellar space in 2012 and reaches one light-day from Earth in November 2026.|Voyager_1
+Voyager 2|USA|1977|All four giant planets|Flyby|Operating|The only spacecraft to visit Uranus and Neptune.|Voyager_2
+Galileo|USA|1989|Jupiter|Orbiter|Completed 2003|Found evidence of Europa's ocean and dropped a probe into Jupiter.|Galileo_(spacecraft)
+Cassini–Huygens|NASA/ESA/ASI|1997|Saturn, Titan|Orbiter/lander|Completed 2017|13 years at Saturn; Huygens landed on Titan; discovered Enceladus's plumes.|Cassini%E2%80%93Huygens
+New Horizons|USA|2006|Pluto, Arrokoth|Flyby|Operating|First flyby of Pluto (2015) and of a Kuiper Belt object (2019).|New_Horizons
+Juno|USA|2011|Jupiter|Orbiter|Operating (extended)|Studying Jupiter's interior, poles and moons.|Juno_(spacecraft)
+Rosetta|ESA|2004|Comet 67P|Orbiter/lander|Completed 2016|First to orbit a comet and land on it (Philae).|Rosetta_(spacecraft)
+Dawn|USA|2007|Vesta, Ceres|Orbiter|Completed 2018|First to orbit two different worlds.|Dawn_(spacecraft)
+Parker Solar Probe|USA|2018|Sun|Orbiter|Operating|Fastest object ever built (~690,000 km/h), skimming 6.1 million km from the Sun.|Parker_Solar_Probe
+BepiColombo|ESA/JAXA|2018|Mercury|Orbiter|Orbit insertion 21 Nov 2026|Two orbiters to study Mercury's magnetic field and interior.|BepiColombo
+JUICE|ESA|2023|Jupiter's icy moons|Orbiter|Cruising|Will orbit Ganymede, the first spacecraft to orbit a moon other than ours.|Jupiter_Icy_Moons_Explorer
+Europa Clipper|USA|2024|Europa|Orbiter|Cruising|Will study Europa's ocean habitability; Earth gravity assist 3 Dec 2026.|Europa_Clipper
+Psyche|USA|2023|Asteroid Psyche|Orbiter|Cruising|First mission to a metal-rich asteroid (arrival 2029).|Psyche_(spacecraft)
+Lucy|USA|2021|Trojan asteroids|Flyby|Operating|Touring Jupiter's Trojan asteroids, 'fossils of planet formation'.|Lucy_(spacecraft)
+OSIRIS-REx / OSIRIS-APEX|USA|2016|Bennu, then Apophis|Sample return|Sample returned 2023; heading to Apophis|Returned 121 g of asteroid Bennu.|OSIRIS-REx
+Hayabusa2|JAXA|2014|Ryugu|Sample return|Extended mission|Returned Ryugu samples in 2020.|Hayabusa2
+DART|USA|2021|Dimorphos|Impactor|Completed 2022|The first test of deflecting an asteroid.|Double_Asteroid_Redirection_Test
+Hera|ESA|2024|Didymos|Orbiter|Arriving 2026|Investigating the aftermath of DART's impact.|Hera_(space_mission)
+Tianwen-2|CNSA|2025|Kamoʻoalewa, comet 311P|Sample return|At asteroid since Jul 2026|Collecting samples from a possible Moon fragment.|Tianwen-2
+# Mars & Moon|🔴
+Mangalyaan (Mars Orbiter Mission)|ISRO|2013|Mars|Orbiter|Ended 2022|India's first interplanetary mission, reaching Mars orbit on the first attempt for ~US$74 million.|Mars_Orbiter_Mission
+Curiosity|USA|2011|Mars (Gale Crater)|Rover|Operating|Found that Mars once had habitable lakes and organic molecules.|Curiosity_(rover)
+Perseverance|USA|2020|Mars (Jezero Crater)|Rover|Operating|Caching samples; found a 'potential biosignature' at Cheyava Falls / Sapphire Canyon.|Perseverance_(rover)
+Ingenuity|USA|2020|Mars|Helicopter|Retired 2024|First powered flight on another planet (72 flights).|Ingenuity_(helicopter)
+Zhurong|CNSA|2020|Mars (Utopia Planitia)|Rover|Dormant|China's first Mars rover.|Zhurong_(rover)
+InSight|USA|2018|Mars|Lander|Ended 2022|Measured marsquakes and Mars's liquid core.|InSight
+Chandrayaan-1|ISRO|2008|Moon|Orbiter|Ended 2009|Its NASA instrument helped confirm water molecules on the Moon.|Chandrayaan-1
+Chandrayaan-2|ISRO|2019|Moon|Orbiter/lander|Orbiter operating|The orbiter maps the Moon; the Vikram lander crashed.|Chandrayaan-2
+Chandrayaan-3|ISRO|2023|Moon (south pole region)|Lander/rover|Completed|India became the first country to land near the lunar south pole (23 August 2023).|Chandrayaan-3
+Chang'e 4|CNSA|2018|Moon far side|Lander/rover|Operating|First landing on the Moon's far side (2019).|Chang%27e_4
+Chang'e 5|CNSA|2020|Moon|Sample return|Completed|First lunar sample return since 1976.|Chang%27e_5
+Chang'e 6|CNSA|2024|Moon far side|Sample return|Completed|First samples from the Moon's far side.|Chang%27e_6
+SLIM|JAXA|2023|Moon|Lander|Completed|Japan's 'Moon sniper' landed within ~10 m of its target, upside down.|Smart_Lander_for_Investigating_Moon
+Intuitive Machines IM-1|USA (commercial)|2024|Moon|Lander|Completed|First commercial lunar landing.|IM-1
+Blue Ghost Mission 1|USA (commercial)|2025|Moon|Lander|Completed|First fully successful commercial Moon landing.|Blue_Ghost_Mission_1
+Artemis I|USA|2022|Moon|Uncrewed test|Completed|Orion's first flight around the Moon.|Artemis_I
+Artemis II|USA|2026|Moon (flyby)|Crewed|Completed (1–10 Apr 2026)|First crewed lunar flight since 1972; set a human distance record of 406,771 km.|Artemis_II
+Aditya-L1|ISRO|2023|Sun–Earth L1|Solar observatory|Operating|India's first solar mission, watching the Sun from L1.|Aditya-L1
+# Rockets|🚀
+V-2|Germany|1942|Suborbital|Rocket|Retired|The first rocket to reach space (1944), ancestor of all space launchers.|V-2_rocket
+R-7 Semyorka / Soyuz|USSR/Russia|1957|Orbit|Rocket|Operating (Soyuz)|Launched Sputnik and Gagarin; Soyuz is the most-flown rocket family.|R-7_Semyorka
+Saturn V|USA|1967|Moon|Rocket|Retired 1973|The rocket that took astronauts to the Moon, 111 m tall.|Saturn_V
+Space Shuttle|USA|1981|Low Earth orbit|Reusable spaceplane|Retired 2011|135 missions; launched Hubble and built the ISS; Challenger and Columbia were lost.|Space_Shuttle
+Falcon 9|SpaceX|2010|Orbit|Reusable rocket|Operating|First orbital booster to land and re-fly, transforming launch costs.|Falcon_9
+Falcon Heavy|SpaceX|2018|Deep space|Rocket|Operating|Launched the Nancy Grace Roman Space Telescope on 30 Aug 2026.|Falcon_Heavy
+Starship|SpaceX|2023|Orbit, Moon, Mars|Fully reusable rocket|Testing|The largest rocket ever; reached orbit on Flight 14 (28 Sep 2026).|SpaceX_Starship
+SLS|NASA|2022|Moon|Rocket|Operating|Launched Artemis I and II.|Space_Launch_System
+PSLV|ISRO|1993|Orbit|Rocket|Operating|India's workhorse; launched Chandrayaan-1, Mangalyaan and a record 104 satellites in 2017.|Polar_Satellite_Launch_Vehicle
+GSLV Mk III / LVM3|ISRO|2014|Orbit|Rocket|Operating|India's heaviest rocket, launched Chandrayaan-2/3 and will fly Gaganyaan.|LVM3
+Long March 5|CNSA|2016|Orbit, Moon, Mars|Rocket|Operating|China's heavy-lift rocket for Tianwen-1 and the Tiangong station.|Long_March_5
+Ariane 6|ESA|2024|Orbit|Rocket|Operating|Europe's new launcher.|Ariane_6
+New Glenn|Blue Origin|2025|Orbit|Rocket|Operating|Blue Origin's heavy rocket.|New_Glenn
+# Satellites & stations|🛰
+International Space Station|NASA/Roscosmos/ESA/JAXA/CSA|1998|Low Earth orbit|Space station|Operating|Continuously crewed since November 2000; to be deorbited ~2030.|International_Space_Station
+Tiangong|CNSA|2021|Low Earth orbit|Space station|Operating|China's modular space station.|Tiangong_space_station
+Mir|USSR/Russia|1986|Low Earth orbit|Space station|Deorbited 2001|Hosted Valeri Polyakov's record 437-day spaceflight.|Mir
+Skylab|USA|1973|Low Earth orbit|Space station|Re-entered 1979|America's first space station.|Skylab
+GPS|USA|1978|Medium Earth orbit|Navigation constellation|Operating|Global positioning, relying on relativity corrections.|Global_Positioning_System
+NavIC|ISRO|2013|Geosynchronous|Navigation constellation|Operating|India's regional navigation system.|Indian_Regional_Navigation_Satellite_System
+Landsat|USA|1972|Earth orbit|Earth observation|Operating|The longest continuous satellite record of Earth's surface.|Landsat_program
+Starlink|SpaceX|2019|Low Earth orbit|Internet constellation|Operating|Thousands of satellites; raises concerns about space debris and astronomy.|Starlink
+NISAR|NASA/ISRO|2025|Earth orbit|Radar satellite|Operating|Joint radar mission launched 30 July 2025 to track Earth's surface changes.|NISAR_(satellite)
+Telstar 1|USA|1962|Earth orbit|Communications|Defunct|Relayed the first live transatlantic TV.|Telstar_1

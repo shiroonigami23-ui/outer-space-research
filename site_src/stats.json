@@ -1,0 +1,239 @@
+{
+ "charts": {
+  "planetsize": {
+   "type": "hbar",
+   "title": "Planet radius compared with Earth",
+   "labels": [
+    "Jupiter",
+    "Saturn",
+    "Uranus",
+    "Neptune",
+    "Earth",
+    "Venus",
+    "Mars",
+    "Mercury",
+    "Pluto"
+   ],
+   "values": [
+    10.97,
+    9.14,
+    3.98,
+    3.86,
+    1,
+    0.95,
+    0.53,
+    0.38,
+    0.19
+   ],
+   "unit": "×",
+   "source": "NASA planetary fact sheets"
+  },
+  "budget": {
+   "type": "donut",
+   "title": "What the universe is made of",
+   "labels": [
+    "Dark energy",
+    "Dark matter",
+    "Ordinary matter"
+   ],
+   "values": [
+    68,
+    27,
+    5
+   ],
+   "note": "Percent of total energy density (Planck 2018)."
+  },
+  "h0": {
+   "type": "hbar",
+   "title": "The Hubble tension: measurements of H₀ (km/s/Mpc)",
+   "labels": [
+    "SH0ES (Cepheids + SNe)",
+    "CCHP (TRGB/JAGB, 2025)",
+    "Planck CMB (ΛCDM)"
+   ],
+   "values": [
+    73.0,
+    70.4,
+    67.4
+   ],
+   "source": "Riess et al.; Freedman et al. 2025; Planck 2018"
+  },
+  "exo": {
+   "type": "line",
+   "title": "Confirmed exoplanets over time (approx.)",
+   "x": [
+    "1995",
+    "2000",
+    "2005",
+    "2010",
+    "2014",
+    "2016",
+    "2018",
+    "2020",
+    "2022",
+    "2025"
+   ],
+   "series": [
+    {
+     "name": "Confirmed exoplanets",
+     "values": [
+      3,
+      50,
+      180,
+      500,
+      1800,
+      3400,
+      3900,
+      4300,
+      5200,
+      6000
+     ]
+    }
+   ],
+   "source": "NASA Exoplanet Archive (rounded milestones)",
+   "ymin": 0
+  },
+  "gw": {
+   "type": "vbar",
+   "title": "Gravitational-wave detections by observing run (approx.)",
+   "labels": [
+    "O1 2015–16",
+    "O2 2016–17",
+    "O3 2019–20",
+    "O4 2023–25"
+   ],
+   "values": [
+    3,
+    8,
+    79,
+    200
+   ],
+   "source": "LIGO–Virgo–KAGRA catalogues (O4 approximate)",
+   "hl": [
+    3
+   ]
+  },
+  "redshift": {
+   "type": "vbar",
+   "title": "Record for the most distant galaxy (redshift z)",
+   "labels": [
+    "2012",
+    "2016 GN-z11",
+    "2022",
+    "2024 JADES-z14",
+    "2025 MoM-z14"
+   ],
+   "values": [
+    10.7,
+    11.1,
+    13.2,
+    14.3,
+    14.44
+   ],
+   "source": "HST/JWST discoveries",
+   "hl": [
+    4
+   ]
+  },
+  "humans": {
+   "type": "vbar",
+   "title": "Farthest humans from Earth (km)",
+   "labels": [
+    "ISS orbit",
+    "Apollo 8 (1968)",
+    "Apollo 13 (1970)",
+    "Artemis II (2026)"
+   ],
+   "values": [
+    420,
+    377000,
+    400171,
+    406771
+   ],
+   "source": "NASA"
+  },
+  "solarcycle": {
+   "type": "line",
+   "title": "Smoothed sunspot number, Solar Cycles 24–25 (approx.)",
+   "x": [
+    "2014",
+    "2016",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "series": [
+    {
+     "name": "Sunspot number",
+     "values": [
+      116,
+      40,
+      7,
+      4,
+      9,
+      30,
+      83,
+      125,
+      161,
+      130
+     ]
+    }
+   ],
+   "source": "SIDC/NOAA SWPC (rounded); Cycle 25 peak Oct 2024 ≈161",
+   "ymin": 0
+  },
+  "stars": {
+   "type": "donut",
+   "title": "What kinds of stars are out there (approx.)",
+   "labels": [
+    "Red dwarfs (M)",
+    "Orange (K)",
+    "Yellow (G, like the Sun)",
+    "White (F)",
+    "Hot blue-white (A, B, O)"
+   ],
+   "values": [
+    76,
+    12,
+    7.6,
+    3,
+    1.4
+   ],
+   "note": "Approximate share of main-sequence stars near the Sun."
+  }
+ },
+ "groups": [
+  {
+   "id": "universe",
+   "title": "🌌 The universe",
+   "charts": [
+    "budget",
+    "h0",
+    "redshift"
+   ]
+  },
+  {
+   "id": "stars",
+   "title": "⭐ Stars, planets and the Sun",
+   "charts": [
+    "planetsize",
+    "stars",
+    "exo",
+    "solarcycle"
+   ]
+  },
+  {
+   "id": "exploring",
+   "title": "🚀 Exploring",
+   "charts": [
+    "gw",
+    "humans"
+   ]
+  }
+ ]
+}

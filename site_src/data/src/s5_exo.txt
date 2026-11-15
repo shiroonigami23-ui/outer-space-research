@@ -1,0 +1,44 @@
+@file exoplanets.json
+@fields name|ptype|star|distance_ly|radius_earth|mass_earth|period_days|method|year|summary|wiki
+# Rocky & Earth-size|🌍
+Proxima Centauri b|Earth-mass, habitable zone|Proxima Centauri|4.24|-|1.07|11.2|Radial velocity|2016|The nearest exoplanet, in its star's habitable zone but blasted by flares.|Proxima_Centauri_b
+TRAPPIST-1e|Earth-size, habitable zone|TRAPPIST-1|40.7|0.92|0.69|6.1|Transit|2017|Most promising TRAPPIST-1 world; 2025 JWST data allow a nitrogen atmosphere but cannot rule out bare rock.|TRAPPIST-1e
+TRAPPIST-1b|Hot rocky|TRAPPIST-1|40.7|1.12|1.37|1.5|Transit|2016|JWST's thermal measurements suggest little or no atmosphere.|TRAPPIST-1b
+TRAPPIST-1f|Earth-size, habitable zone|TRAPPIST-1|40.7|1.05|1.04|9.2|Transit|2017|Possibly icy with an ocean.|TRAPPIST-1f
+Kepler-186f|Earth-size, habitable zone|Kepler-186|580|1.17|-|130|Transit|2014|The first Earth-size planet found in a habitable zone.|Kepler-186f
+Kepler-452b|Super-Earth, habitable zone|Kepler-452|1800|1.6|-|385|Transit|2015|Dubbed 'Earth's cousin', orbiting a Sun-like star.|Kepler-452b
+Teegarden's Star b|Earth-mass, habitable zone|Teegarden's Star|12.5|-|1.05|4.9|Radial velocity|2019|Has one of the highest Earth Similarity Index scores.|Teegarden%27s_Star_b
+LHS 1140 b|Super-Earth/water world|LHS 1140|48|1.73|5.6|24.7|Transit|2017|JWST hints it may be an ocean world with a nitrogen atmosphere.|LHS_1140_b
+55 Cancri e|Lava world|55 Cancri A|41|1.88|8.8|0.74|Transit/RV|2004|A super-Earth so hot its surface may be molten; JWST detected an atmosphere (2024).|55_Cancri_e
+Kepler-10b|Lava world|Kepler-10|608|1.47|3.7|0.84|Transit|2011|Kepler's first confirmed rocky planet.|Kepler-10b
+CoRoT-7b|Lava world|CoRoT-7|489|1.58|4.1|0.85|Transit|2009|The first rocky exoplanet with measured size and mass.|CoRoT-7b
+GJ 1214 b|Sub-Neptune/steam world|GJ 1214|48|2.74|8.2|1.58|Transit|2009|A hazy sub-Neptune whose clouds defeat even JWST.|GJ_1214_b
+K2-18 b|Sub-Neptune, possible Hycean|K2-18|124|2.61|8.6|33|Transit|2015|Methane and CO₂ detected; a claimed dimethyl sulfide 'biosignature' (2025) is contested.|K2-18b
+Kepler-22b|Super-Earth/water world|Kepler-22|635|2.1|-|290|Transit|2011|The first transiting planet found in a habitable zone.|Kepler-22b
+LTT 9779 b|Hot Neptune|LTT 9779|260|4.7|29|0.79|Transit|2020|Has the most reflective atmosphere known, a 'mirror' planet of metal clouds.|LTT_9779_b
+Barnard's Star b|Rocky|Barnard's Star|5.96|-|0.37|3.15|Radial velocity|2024|One of four small planets around the second-nearest single star.|Barnard%27s_Star
+# Gas giants|🪐
+51 Pegasi b|Hot Jupiter|51 Pegasi|50|~19|150|4.2|Radial velocity|1995|The first planet found around a Sun-like star (Nobel Prize 2019, Mayor and Queloz).|51_Pegasi_b
+HD 209458 b|Hot Jupiter|HD 209458|159|15.2|219|3.5|Transit|1999|First transiting exoplanet; first with a detected atmosphere; evaporating 'Osiris'.|HD_209458_b
+HD 189733 b|Hot Jupiter|HD 189733|64.5|12.7|360|2.2|Transit|2005|Blue planet where it may rain glass sideways in 8,000 km/h winds; JWST smelled hydrogen sulfide.|HD_189733_b
+WASP-12b|Hot Jupiter|WASP-12|1410|21|445|1.09|Transit|2008|Being stretched into an egg and spiralling into its star.|WASP-12b
+WASP-121b|Ultra-hot Jupiter|WASP-121|858|19.6|370|1.27|Transit|2015|Has iron and titanium winds; 3D weather mapped in 2025.|WASP-121b
+WASP-39b|Hot Saturn|WASP-39|700|14.2|89|4.06|Transit|2011|JWST's first exoplanet CO₂ detection and first photochemistry (sulfur dioxide).|WASP-39b
+WASP-76b|Ultra-hot Jupiter|WASP-76|634|20.6|290|1.81|Transit|2013|Where iron may rain on the night side.|WASP-76b
+KELT-9b|Ultra-hot Jupiter|KELT-9|670|20.8|920|1.48|Transit|2016|The hottest known exoplanet (~4,300°C day side).|KELT-9b
+TrES-2b|Hot Jupiter|Kepler-1|750|13.7|381|2.47|Transit|2006|Darker than coal, reflecting under 1% of light.|TrES-2b
+HAT-P-7b|Hot Jupiter|HAT-P-7|1040|15.8|560|2.2|Transit|2008|Clouds of corundum (ruby and sapphire).|HAT-P-7b
+Kepler-16b|Circumbinary|Kepler-16|245|8.4|105|229|Transit|2011|A real 'Tatooine' orbiting two suns.|Kepler-16b
+Kepler-7b|Inflated Jupiter|Kepler-7|3000|16.9|140|4.9|Transit|2010|First exoplanet with mapped clouds; density like polystyrene.|Kepler-7b
+TOI-3757 b|Puffy Jupiter|TOI-3757|580|12|85|3.4|Transit|2022|Marshmallow-like density around a red dwarf.|TOI-3757_b
+HR 8799 b|Directly imaged giant|HR 8799|133|13|2200|170000|Direct imaging|2008|One of four giants photographed directly around a young star.|HR_8799
+Beta Pictoris b|Directly imaged giant|Beta Pictoris|63|16|3600|7900|Direct imaging|2008|A young giant in a dusty debris disk.|Beta_Pictoris_b
+51 Eridani b|Directly imaged giant|51 Eridani|97|11|630|15000|Direct imaging|2014|Methane-rich young Jupiter.|51_Eridani_b
+Epsilon Indi Ab|Cold giant (imaged by JWST)|Epsilon Indi A|12|11|2000|~100000|Direct imaging|2024|The coldest exoplanet ever directly imaged.|Epsilon_Indi_Ab
+TOI-1338 b|Circumbinary|TOI-1338|1300|6.9|33|95|Transit|2020|Found by a high-school intern at NASA.|TOI-1338_b
+PSR B1257+12 b|Pulsar planet|PSR B1257+12|2300|-|0.02|25.3|Pulsar timing|1992|Among the first exoplanets ever confirmed, orbiting a dead star.|PSR_B1257%2B12
+PSR B1620-26 b|Ancient circumbinary|PSR B1620-26|12400|-|800|36000|Pulsar timing|2003|'Methuselah', ~12.7 billion years old.|PSR_B1620%E2%88%9226_b
+OGLE-2005-BLG-390Lb|Cold super-Earth|OGLE-2005-BLG-390L|21500|-|5.5|3500|Microlensing|2006|A cold rocky world found by gravitational microlensing.|OGLE-2005-BLG-390Lb
+Rogue planet OTS 44|Free-floating planetary-mass object|-|550|-|3800|-|Direct imaging|2005|A planet-mass object with no star, still forming a disk.|OTS_44
+TOI-700 d|Earth-size, habitable zone|TOI-700|101|1.07|-|37.4|Transit|2020|TESS's first Earth-size habitable-zone planet.|TOI-700_d
+Gliese 581c|Super-Earth|Gliese 581|20.5|-|5.5|12.9|Radial velocity|2007|Once hailed as habitable, now thought too hot.|Gliese_581c

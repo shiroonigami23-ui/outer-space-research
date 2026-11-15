@@ -3,6 +3,20 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
+## [3.0.0] - 2026-11-15 — Encyclopedia website
+
+### Added
+- Multi-page site generator `scripts/build_site.py` with mega-menu navigation, instant search (press `/`), mobile tab bar, collapsible site map, back-to-top, dark/light theme
+- 33 articles across Journey of the Universe, Stars & the Sun, Black Holes & Exotic Physics, Planets & Life, Exploration and Research Now
+- 12 cross-linked catalogs (537 entries) including all 88 constellations
+- Research Papers catalog with built-in PDF reader; `fetch-papers.yml` mirrors openly licensed PDFs into `assets/papers/`
+- Animated SVG charts and a Statistics page; animated starfield hero
+- Live Wikimedia photos and Wikipedia overviews; sounds and sonifications from Wikimedia Commons
+- Live tracker as a collapsible bar on every page; paper analyses exported to PDF
+
+### Removed
+- All cross-links to the under-water repository (the hubs are now separate)
+
 ## [2.0.0] - 2026-11-15 — Research hub
 
 ### Added
@@ -16,7 +30,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 - Cosmology: Hubble-tension section (SH0ES vs CCHP) and Euclid DR1
 - Astrobiology: TRAPPIST-1 e JWST results
 - Tracker: 6 new streams (rows 10–15)
-- README, ROADMAP, ARCHITECTURE updated; cross-linked with the under-water hub
+- README, ROADMAP, ARCHITECTURE updated
 
 ## [1.1.0] - 2026-11-15
 

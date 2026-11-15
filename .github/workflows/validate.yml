@@ -1,4 +1,4 @@
-name: Validate research node
+name: Build & validate research site
 
 on:
   push:
@@ -14,9 +14,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install figure dependencies
-        run: pip install -r scripts/requirements.txt
-      - name: Regenerate all figures (smoke test)
+      - run: pip install -r scripts/requirements.txt
+      - name: Regenerate figures (smoke test)
         run: python scripts/generate_figures.py
-      - name: Check Markdown links and images
+      - name: Build the encyclopedia site (PDF export skipped in CI)
+        run: SKIP_PDF=1 python scripts/build_site.py
+      - name: Check links and images (Markdown + generated HTML)
         run: python scripts/check_links.py

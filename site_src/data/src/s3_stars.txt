@@ -1,0 +1,45 @@
+@file stars.json
+@fields name|constellation|spectral|distance_ly|radius_sun|mass_sun|temp_k|mag|summary|wiki
+# Nearest & brightest stars|⭐
+Sun|-|G2V|0.0000158|1|1|5772|-26.7|Our star, a middle-aged yellow dwarf ~4.6 billion years old that holds 99.86% of the solar system's mass.|Sun
+Proxima Centauri|Centaurus|M5.5Ve|4.24|0.15|0.12|3042|11.1|The nearest star to the Sun, a flaring red dwarf with at least one Earth-mass planet in its habitable zone.|Proxima_Centauri
+Alpha Centauri A|Centaurus|G2V|4.37|1.22|1.08|5790|0.01|A Sun-like star in the nearest star system.|Alpha_Centauri
+Alpha Centauri B|Centaurus|K1V|4.37|0.86|0.91|5260|1.33|Orange companion of Alpha Centauri A.|Alpha_Centauri
+Barnard's Star|Ophiuchus|M4V|5.96|0.19|0.16|3134|9.5|The fastest-moving star across our sky; four small planets confirmed in 2025.|Barnard%27s_Star
+Sirius|Canis Major|A1V|8.6|1.71|2.06|9940|-1.46|The brightest star in the night sky, with a white-dwarf companion (Sirius B).|Sirius
+Vega|Lyra|A0V|25|2.36|2.14|9602|0.03|A bright, rapidly spinning star once used as the zero point of the magnitude scale; it was the pole star ~12,000 years ago.|Vega
+Arcturus|Boötes|K1.5III|36.7|25.4|1.08|4286|-0.05|An orange giant and the brightest star in the northern celestial hemisphere.|Arcturus
+Capella|Auriga|G3III+G0III|42.9|11.9|2.57|4970|0.08|Actually a system of two yellow giants plus two red dwarfs.|Capella
+Rigel|Orion|B8Ia|860|78.9|21|12100|0.13|A blue supergiant marking Orion's foot, ~120,000 times as luminous as the Sun.|Rigel
+Procyon|Canis Minor|F5IV-V|11.5|2.05|1.5|6530|0.34|A nearby star with a white-dwarf companion.|Procyon
+Betelgeuse|Orion|M1-2Ia|550|764|16.5|3600|0.5|A red supergiant that dimmed dramatically in 2019–20 ('Great Dimming') and will one day explode as a supernova.|Betelgeuse
+Achernar|Eridanus|B6Vep|139|7.3|6.7|15000|0.46|Spins so fast it is the flattest star known.|Achernar
+Aldebaran|Taurus|K5III|65|45|1.16|3910|0.86|The orange 'eye of the bull'.|Aldebaran
+Antares|Scorpius|M1.5Iab|550|680|12|3660|1.06|The red supergiant heart of Scorpius, 'rival of Mars'.|Antares
+Spica|Virgo|B1III-IV|250|7.5|11.4|25300|0.97|A close binary of two hot blue stars distorting each other into eggs.|Spica
+Pollux|Gemini|K0III|33.8|9.1|1.9|4586|1.14|An orange giant with a planet (Thestias).|Pollux_(star)
+Fomalhaut|Piscis Austrinus|A3V|25|1.84|1.92|8590|1.16|Surrounded by a dusty debris disk imaged by Hubble and JWST.|Fomalhaut
+Deneb|Cygnus|A2Ia|2600|200|19|8525|1.25|One of the most luminous stars visible to the naked eye.|Deneb
+Altair|Aquila|A7V|16.7|1.8|1.86|7700|0.77|Spins once every ~9 hours, bulging at its equator.|Altair
+Polaris|Ursa Minor|F7Ib|433|46|5.4|6015|1.98|The current North Star, a Cepheid variable.|Polaris
+Canopus|Carina|A9II|310|71|8|7400|-0.74|The second-brightest star; spacecraft use it for navigation.|Canopus
+Regulus|Leo|B8IVn|79|4.35|3.8|12460|1.4|The heart of the lion, spinning near break-up speed.|Regulus
+Mizar and Alcor|Ursa Major|A2Vp|83|2.4|2.2|9000|2.2|A famous naked-eye double in the Big Dipper; Mizar was the first telescopic double and first spectroscopic binary.|Mizar_and_Alcor
+Algol|Perseus|B8V|90|2.7|3.2|13000|2.1|The 'Demon Star', an eclipsing binary that dims every 2.87 days.|Algol
+# Extreme & famous stars|💥
+UY Scuti|Scutum|M4Ia|5900|909|7|3365|9.0|One of the largest known stars by radius.|UY_Scuti
+Stephenson 2-18|Scutum|M6|19000|2150|-|3200|15.0|A red supergiant possibly larger than UY Scuti.|Stephenson_2-18
+R136a1|Dorado (LMC)|WN5h|163000|39|200|46000|12.3|The most massive star known, in the Tarantula Nebula.|R136a1
+Eta Carinae|Carina|LBV|7500|240|100|9400|4.3|A hypergiant binary that erupted in the 1840s, briefly becoming the second-brightest star.|Eta_Carinae
+Earendel|Cetus|B?|28000000000|-|50|20000|-|The most distant single star ever seen (light from ~900 million years after the Big Bang), magnified by gravitational lensing.|Earendel_(star)
+Tabby's Star|Cygnus|F3V|1470|1.58|1.43|6750|11.7|Showed bizarre dips in brightness, now attributed to dust.|Tabby%27s_Star
+TRAPPIST-1|Aquarius|M8V|40.7|0.12|0.09|2566|18.8|An ultracool red dwarf with seven Earth-sized planets.|TRAPPIST-1
+Wolf-Rayet 104|Sagittarius|WC9d+OB|8000|-|-|-|13.5|A 'pinwheel' star spiralling dust that could produce a gamma-ray burst.|WR_104
+Vela Pulsar|Vela|Pulsar|959|0.000014|1.4|-|23.6|A neutron star spinning 11 times a second, left by a supernova ~11,000 years ago.|Vela_Pulsar
+Crab Pulsar|Taurus|Pulsar|6500|0.000014|1.4|-|16.5|The neutron star at the heart of the Crab Nebula, from the supernova seen in 1054 CE.|Crab_Pulsar
+Sirius B|Canis Major|DA2|8.6|0.0084|1.02|25000|8.4|The first white dwarf whose nature was understood: a Sun's mass in an Earth-sized ball.|Sirius
+Przybylski's Star|Centaurus|Ap|356|-|-|6600|8.0|Has a bizarre spectrum full of rare heavy elements.|Przybylski%27s_Star
+SGR 1806-20|Sagittarius|Magnetar|42000|0.000014|1.4|-|-|A magnetar whose 2004 giant flare briefly lit up Earth's upper atmosphere from 42,000 light-years away.|SGR_1806%E2%88%9220
+Sgr A*|Sagittarius|Black hole|26000|-|4300000|-|-|The 4-million-solar-mass black hole at the centre of the Milky Way, imaged by the Event Horizon Telescope in 2022.|Sagittarius_A*
+Gaia BH3|Aquila|Black hole|1926|-|33|-|-|The most massive stellar black hole found in our galaxy (2024), discovered by Gaia.|Gaia_BH3
+Cygnus X-1|Cygnus|Black hole|7200|-|21|-|8.9|The first black hole ever identified (1971), feeding on a blue supergiant.|Cygnus_X-1

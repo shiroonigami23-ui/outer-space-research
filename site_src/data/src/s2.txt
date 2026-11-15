@@ -1,0 +1,38 @@
+@file moons.json
+@fields name|parent|radius_km|discovered|summary|wiki
+# Moons of Earth & Mars|🌙
+Moon|Earth|1737|Prehistoric|Earth's only natural satellite, probably formed from a giant impact ~4.5 billion years ago; it stabilises Earth's tilt and drives tides.|Moon
+Phobos|Mars|11|1877|A potato-shaped moon spiralling inward; it will break apart or crash into Mars in ~50 million years.|Phobos_(moon)
+Deimos|Mars|6|1877|Mars's smaller, outer moon, smooth and dusty.|Deimos_(moon)
+# Moons of Jupiter|🌕
+Io|Jupiter|1822|1610|The most volcanically active body in the solar system, heated by tidal flexing.|Io_(moon)
+Europa|Jupiter|1561|1610|An ice-covered moon with a salty ocean beneath, a prime target in the search for life (Europa Clipper arrives 2030).|Europa_(moon)
+Ganymede|Jupiter|2634|1610|The largest moon in the solar system, bigger than Mercury and with its own magnetic field; target of ESA's JUICE.|Ganymede_(moon)
+Callisto|Jupiter|2410|1610|The most heavily cratered object in the solar system, possibly with a deep ocean.|Callisto_(moon)
+Amalthea|Jupiter|84|1892|A small red inner moon that sheds dust into Jupiter's rings.|Amalthea_(moon)
+Himalia|Jupiter|85|1904|The largest of Jupiter's irregular outer moons.|Himalia_(moon)
+# Moons of Saturn|🪐
+Titan|Saturn|2575|1655|The only moon with a thick atmosphere and lakes of liquid methane and ethane; Huygens landed there in 2005.|Titan_(moon)
+Enceladus|Saturn|252|1789|Sprays water geysers from a global subsurface ocean that contains salts, organics and phosphorus.|Enceladus
+Mimas|Saturn|198|1789|'Death Star' moon with the giant Herschel crater; may hide a young ocean.|Mimas_(moon)
+Iapetus|Saturn|735|1671|Two-toned moon, one side dark as coal and the other bright as snow, with an equatorial ridge.|Iapetus_(moon)
+Rhea|Saturn|764|1672|Saturn's second-largest moon, an icy, cratered world.|Rhea_(moon)
+Dione|Saturn|561|1684|Icy moon with bright ice cliffs.|Dione_(moon)
+Tethys|Saturn|531|1684|Almost pure water ice, with the vast Odysseus crater.|Tethys_(moon)
+Hyperion|Saturn|135|1848|A sponge-like moon that tumbles chaotically.|Hyperion_(moon)
+Phoebe|Saturn|107|1899|A captured Kuiper Belt object orbiting backwards.|Phoebe_(moon)
+Pan|Saturn|14|1990|A 'ravioli'-shaped shepherd moon in the Encke Gap.|Pan_(moon)
+# Moons of Uranus|🧊
+Miranda|Uranus|236|1948|A patchwork moon with the tallest cliff known, Verona Rupes (~20 km).|Miranda_(moon)
+Ariel|Uranus|579|1851|The brightest Uranian moon, with young canyons.|Ariel_(moon)
+Umbriel|Uranus|585|1851|The darkest major moon of Uranus.|Umbriel_(moon)
+Titania|Uranus|789|1787|Uranus's largest moon, discovered by William Herschel.|Titania_(moon)
+Oberon|Uranus|761|1787|Outermost large moon of Uranus, heavily cratered.|Oberon_(moon)
+# Moons of Neptune & beyond|❄️
+Triton|Neptune|1353|1846|A captured Kuiper Belt object orbiting backwards, with nitrogen geysers seen by Voyager 2.|Triton_(moon)
+Nereid|Neptune|170|1949|Has one of the most eccentric orbits of any moon.|Nereid_(moon)
+Proteus|Neptune|210|1989|A dark, box-shaped moon.|Proteus_(moon)
+Charon|Pluto|606|1978|Half Pluto's size, with a red north pole stained by gas escaping from Pluto.|Charon_(moon)
+Dysnomia|Eris|350|2005|Eris's moon, used to measure the dwarf planet's mass.|Dysnomia_(moon)
+Dactyl|Ida (asteroid)|0.7|1993|The first moon of an asteroid ever found (by Galileo).|Dactyl_(moon)
+Dimorphos|Didymos (asteroid)|0.08|2003|The moonlet NASA's DART spacecraft hit in 2022, shortening its orbit by 33 minutes, the first planetary-defence test.|Dimorphos

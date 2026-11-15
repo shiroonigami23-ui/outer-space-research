@@ -1,0 +1,93 @@
+@file constellations.json
+@fields name|abbr|meaning|hemisphere|brightest|area_sqdeg|summary|wiki
+# Zodiac|♈
+Aries|Ari|Ram|Northern|Hamal|441|The ram of the Golden Fleece; the 'first point of Aries' once marked the spring equinox (Mesha in Indian astronomy).|Aries_(constellation)
+Taurus|Tau|Bull|Northern|Aldebaran|797|Home to the Pleiades, Hyades and the Crab Nebula (Vrishabha).|Taurus_(constellation)
+Gemini|Gem|Twins|Northern|Pollux|514|The twins Castor and Pollux (Mithuna).|Gemini_(constellation)
+Cancer|Cnc|Crab|Northern|Al Tarf|506|Faint, but holds the Beehive Cluster (Karka).|Cancer_(constellation)
+Leo|Leo|Lion|Northern|Regulus|947|Its 'sickle' is the radiant of the Leonid meteor shower (Simha).|Leo_(constellation)
+Virgo|Vir|Maiden|Equatorial|Spica|1294|The second-largest constellation, with the Virgo galaxy cluster (Kanya).|Virgo_(constellation)
+Libra|Lib|Scales|Southern|Zubeneschamali|538|The only zodiac sign that is an object (Tula).|Libra_(constellation)
+Scorpius|Sco|Scorpion|Southern|Antares|497|A striking scorpion with red Antares at its heart (Vrishchika).|Scorpius
+Ophiuchus|Oph|Serpent-bearer|Equatorial|Rasalhague|948|The '13th zodiac constellation' the Sun crosses but astrology ignores.|Ophiuchus
+Sagittarius|Sgr|Archer|Southern|Kaus Australis|867|Points to the centre of the Milky Way and Sgr A* (Dhanu).|Sagittarius_(constellation)
+Capricornus|Cap|Sea-goat|Southern|Deneb Algedi|414|A goat with a fish's tail (Makara).|Capricornus
+Aquarius|Aqr|Water-bearer|Southern|Sadalsuud|980|Contains the Helix Nebula and TRAPPIST-1 (Kumbha).|Aquarius_(constellation)
+Pisces|Psc|Fishes|Northern|Alpherg|889|Now holds the March equinox point (Meena).|Pisces_(constellation)
+# Northern sky|✨
+Ursa Major|UMa|Great Bear|Northern|Alioth|1280|Contains the Big Dipper, known in India as the Saptarishi (Seven Sages).|Ursa_Major
+Ursa Minor|UMi|Little Bear|Northern|Polaris|256|Holds Polaris, the North Star (Dhruva tara).|Ursa_Minor
+Cassiopeia|Cas|Queen|Northern|Schedar|598|A bright 'W' opposite the Big Dipper around Polaris.|Cassiopeia_(constellation)
+Cepheus|Cep|King|Northern|Alderamin|588|Home of Delta Cephei, the prototype Cepheid variable.|Cepheus_(constellation)
+Draco|Dra|Dragon|Northern|Eltanin|1083|Thuban in Draco was the pole star when the pyramids were built.|Draco_(constellation)
+Cygnus|Cyg|Swan|Northern|Deneb|804|The 'Northern Cross', lying along the Milky Way; home to Cygnus X-1.|Cygnus_(constellation)
+Lyra|Lyr|Lyre|Northern|Vega|286|Small but contains Vega and the Ring Nebula.|Lyra
+Aquila|Aql|Eagle|Equatorial|Altair|652|Altair forms the Summer Triangle with Vega and Deneb.|Aquila_(constellation)
+Perseus|Per|Hero|Northern|Mirfak|615|Radiant of the Perseid meteor shower; contains Algol.|Perseus_(constellation)
+Andromeda|And|Princess|Northern|Alpheratz|722|Contains the Andromeda Galaxy.|Andromeda_(constellation)
+Pegasus|Peg|Winged horse|Northern|Enif|1121|Its Great Square is an autumn landmark; 51 Pegasi b orbits here.|Pegasus_(constellation)
+Auriga|Aur|Charioteer|Northern|Capella|657|Bright Capella and three open clusters.|Auriga
+Boötes|Boo|Herdsman|Northern|Arcturus|907|Arcturus guides you 'arc to Arcturus' from the Big Dipper.|Bo%C3%B6tes
+Hercules|Her|Hero|Northern|Kornephoros|1225|Contains the great globular cluster M13, target of the 1974 Arecibo message.|Hercules_(constellation)
+Corona Borealis|CrB|Northern crown|Northern|Alphecca|179|Home of the recurrent nova T Coronae Borealis.|Corona_Borealis
+Canes Venatici|CVn|Hunting dogs|Northern|Cor Caroli|465|Contains the Whirlpool Galaxy.|Canes_Venatici
+Coma Berenices|Com|Berenice's hair|Northern|Beta Comae Berenices|386|Faint but rich in galaxies.|Coma_Berenices
+Lynx|Lyn|Lynx|Northern|Alpha Lyncis|545|So faint you need a lynx's eyes to see it.|Lynx_(constellation)
+Camelopardalis|Cam|Giraffe|Northern|Beta Camelopardalis|757|A large, faint northern constellation.|Camelopardalis
+Leo Minor|LMi|Little lion|Northern|Praecipua|232|Small and faint.|Leo_Minor
+Lacerta|Lac|Lizard|Northern|Alpha Lacertae|201|Prototype of BL Lacertae blazars.|Lacerta
+Vulpecula|Vul|Fox|Northern|Anser|268|Contains the Dumbbell Nebula and the first pulsar found.|Vulpecula
+Sagitta|Sge|Arrow|Northern|Gamma Sagittae|80|The third-smallest constellation.|Sagitta
+Delphinus|Del|Dolphin|Northern|Rotanev|189|A small, charming dolphin shape.|Delphinus
+Equuleus|Equ|Little horse|Northern|Kitalpha|72|The second-smallest constellation.|Equuleus
+Triangulum|Tri|Triangle|Northern|Beta Trianguli|132|Contains the Triangulum Galaxy.|Triangulum
+# Equatorial & southern sky|🌠
+Orion|Ori|Hunter|Equatorial|Rigel|594|The most recognisable constellation, with Betelgeuse, Rigel, the Belt and the Orion Nebula (Mriga in Indian tradition).|Orion_(constellation)
+Canis Major|CMa|Great dog|Southern|Sirius|380|Contains Sirius, the brightest star.|Canis_Major
+Canis Minor|CMi|Little dog|Equatorial|Procyon|183|Procyon forms the Winter Triangle with Sirius and Betelgeuse.|Canis_Minor
+Monoceros|Mon|Unicorn|Equatorial|Beta Monocerotis|482|Contains the Rosette Nebula.|Monoceros
+Lepus|Lep|Hare|Southern|Arneb|290|The hare at Orion's feet.|Lepus_(constellation)
+Eridanus|Eri|River|Southern|Achernar|1138|A long celestial river ending at Achernar.|Eridanus_(constellation)
+Cetus|Cet|Whale/sea monster|Equatorial|Diphda|1231|Contains Mira, the first known variable star.|Cetus
+Hydra|Hya|Water snake|Equatorial|Alphard|1303|The largest constellation.|Hydra_(constellation)
+Crater|Crt|Cup|Southern|Labrum|282|Rests on Hydra's back.|Crater_(constellation)
+Corvus|Crv|Crow|Southern|Gienah|184|Contains the Antennae Galaxies.|Corvus_(constellation)
+Sextans|Sex|Sextant|Equatorial|Alpha Sextantis|314|Faint modern constellation.|Sextans
+Serpens|Ser|Serpent|Equatorial|Unukalhai|637|The only constellation split in two; contains the Eagle Nebula.|Serpens
+Scutum|Sct|Shield|Southern|Alpha Scuti|109|Holds UY Scuti and the Wild Duck Cluster.|Scutum_(constellation)
+Centaurus|Cen|Centaur|Southern|Alpha Centauri|1060|Holds the nearest star system and Omega Centauri.|Centaurus
+Crux|Cru|Southern Cross|Southern|Acrux|68|The smallest constellation, on many southern flags.|Crux
+Carina|Car|Keel|Southern|Canopus|494|Part of the old ship Argo Navis; Carina Nebula.|Carina_(constellation)
+Vela|Vel|Sails|Southern|Gamma Velorum|500|Contains the Vela Pulsar.|Vela_(constellation)
+Puppis|Pup|Stern|Southern|Naos|673|Third part of Argo Navis.|Puppis
+Pyxis|Pyx|Compass|Southern|Alpha Pyxidis|221|A ship's compass.|Pyxis
+Columba|Col|Dove|Southern|Phact|270|Noah's dove.|Columba_(constellation)
+Lupus|Lup|Wolf|Southern|Alpha Lupi|334|Rich in bright blue stars.|Lupus_(constellation)
+Ara|Ara|Altar|Southern|Beta Arae|237|An altar in the Milky Way.|Ara_(constellation)
+Corona Australis|CrA|Southern crown|Southern|Meridiana|128|A small arc of stars.|Corona_Australis
+Triangulum Australe|TrA|Southern triangle|Southern|Atria|110|A bright small triangle.|Triangulum_Australe
+Norma|Nor|Carpenter's square|Southern|Gamma2 Normae|165|Contains the Norma Arm direction.|Norma_(constellation)
+Circinus|Cir|Compass|Southern|Alpha Circini|93|Holds the Circinus Galaxy.|Circinus_(constellation)
+Musca|Mus|Fly|Southern|Alpha Muscae|138|A small fly near Crux.|Musca
+Chamaeleon|Cha|Chameleon|Southern|Alpha Chamaeleontis|132|Near the south celestial pole.|Chamaeleon
+Apus|Aps|Bird of paradise|Southern|Alpha Apodis|206|Faint polar constellation.|Apus
+Octans|Oct|Octant|Southern|Nu Octantis|291|Contains the south celestial pole (faint Sigma Octantis).|Octans
+Pavo|Pav|Peacock|Southern|Peacock|378|A peacock of the southern sky.|Pavo_(constellation)
+Grus|Gru|Crane|Southern|Alnair|366|A crane's long neck.|Grus_(constellation)
+Phoenix|Phe|Phoenix|Southern|Ankaa|469|Contains the Phoenix Cluster.|Phoenix_(constellation)
+Tucana|Tuc|Toucan|Southern|Alpha Tucanae|295|Holds the Small Magellanic Cloud and 47 Tucanae.|Tucana
+Hydrus|Hyi|Male water snake|Southern|Beta Hydri|243|Near the Magellanic Clouds.|Hydrus
+Dorado|Dor|Swordfish|Southern|Alpha Doradus|179|Contains most of the Large Magellanic Cloud.|Dorado
+Mensa|Men|Table mountain|Southern|Alpha Mensae|153|The faintest constellation, named after Table Mountain.|Mensa_(constellation)
+Volans|Vol|Flying fish|Southern|Beta Volantis|141|A flying fish.|Volans
+Pictor|Pic|Painter's easel|Southern|Alpha Pictoris|247|Holds Beta Pictoris and its planets.|Pictor
+Caelum|Cae|Chisel|Southern|Alpha Caeli|125|A sculptor's chisel.|Caelum
+Horologium|Hor|Pendulum clock|Southern|Alpha Horologii|249|A pendulum clock.|Horologium_(constellation)
+Reticulum|Ret|Reticle|Southern|Alpha Reticuli|114|An eyepiece reticle.|Reticulum
+Fornax|For|Furnace|Southern|Alpha Fornacis|398|Site of the Hubble Ultra Deep Field.|Fornax
+Sculptor|Scl|Sculptor|Southern|Alpha Sculptoris|475|Contains the south galactic pole.|Sculptor_(constellation)
+Antlia|Ant|Air pump|Southern|Alpha Antliae|239|An air pump.|Antlia
+Telescopium|Tel|Telescope|Southern|Alpha Telescopii|252|A telescope.|Telescopium
+Microscopium|Mic|Microscope|Southern|Gamma Microscopii|210|A microscope.|Microscopium
+Indus|Ind|Indian|Southern|Alpha Indi|294|Represents an Indigenous person; contains Epsilon Indi.|Indus_(constellation)
+Piscis Austrinus|PsA|Southern fish|Southern|Fomalhaut|245|Contains Fomalhaut.|Piscis_Austrinus

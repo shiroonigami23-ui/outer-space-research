@@ -1,0 +1,34 @@
+@file smallbodies.json
+@fields name|btype|size_km|discovered|orbit|summary|wiki
+# Asteroids|🪨
+Vesta|Main-belt asteroid|525|1807|2.36 AU|A protoplanet with a huge south-pole impact basin; source of HED meteorites; orbited by Dawn.|4_Vesta
+Pallas|Main-belt asteroid|512|1802|2.77 AU|Third-largest asteroid, on a steeply tilted orbit.|2_Pallas
+Hygiea|Main-belt asteroid|434|1849|3.14 AU|Nearly round; could qualify as a dwarf planet.|10_Hygiea
+Psyche|Metal-rich asteroid|226|1852|2.92 AU|Possibly the exposed core of a protoplanet; NASA's Psyche arrives in 2029.|16_Psyche
+Bennu|Near-Earth asteroid|0.49|1999|1.13 AU|Carbon-rich rubble pile sampled by OSIRIS-REx; samples hold amino acids and all five nucleobases (2025).|101955_Bennu
+Ryugu|Near-Earth asteroid|0.9|1999|1.19 AU|Sampled by Hayabusa2 (returned 2020).|162173_Ryugu
+Itokawa|Near-Earth asteroid|0.33|1998|1.32 AU|First asteroid sample return (Hayabusa, 2010).|25143_Itokawa
+Eros|Near-Earth asteroid|16.8|1898|1.46 AU|First asteroid orbited and landed on (NEAR Shoemaker, 2001).|433_Eros
+Apophis|Near-Earth asteroid|0.34|2004|0.92 AU|Will pass within ~32,000 km of Earth on 13 April 2029, closer than geostationary satellites; no impact risk for 100+ years.|99942_Apophis
+Didymos|Binary near-Earth asteroid|0.78|1996|1.64 AU|Target of DART's 2022 impact on its moon Dimorphos; ESA's Hera arrives 2026.|65803_Didymos
+Kamoʻoalewa|Quasi-satellite|0.05|2016|1.0 AU|A possible fragment of the Moon that circles near Earth; China's Tianwen-2 has been studying it since July 2026.|469219_Kamo%CA%BBoalewa
+2024 YR4|Near-Earth asteroid|0.06|2024|2.5 AU|Briefly had a ~3% chance of hitting Earth in 2032 before being ruled out; still a small chance to hit the Moon.|2024_YR4
+Arrokoth|Kuiper Belt object|36|2014|44.6 AU|A pristine 'snowman' contact binary visited by New Horizons (2019).|486958_Arrokoth
+Sedna|Detached object|995|2003|~500 AU average|One of the most distant known objects, taking ~11,000 years to orbit.|90377_Sedna
+Gonggong|Scattered disc object|1230|2007|67 AU|A large reddish dwarf-planet candidate with a moon.|225088_Gonggong
+Quaoar|Kuiper Belt object|1110|2002|43.7 AU|Has a ring far outside where theory says rings can exist.|50000_Quaoar
+Chicxulub impactor|Asteroid (extinct)|10|1980|-|The ~10 km asteroid that hit Mexico 66 million years ago and ended the dinosaurs.|Chicxulub_impactor
+# Comets|☄️
+Halley's Comet|Periodic comet|11|-240|76 years|The most famous comet, recorded since 240 BCE; returns in 2061.|Halley%27s_Comet
+Comet Hale–Bopp|Long-period comet|60|1995|~2,500 years|One of the brightest comets of the 20th century, visible for 18 months.|Comet_Hale%E2%80%93Bopp
+Comet 67P/Churyumov–Gerasimenko|Jupiter-family comet|4.1|1969|6.4 years|Orbited by Rosetta and landed on by Philae (2014).|67P/Churyumov%E2%80%93Gerasimenko
+Comet Shoemaker–Levy 9|Destroyed comet|1.8|1993|-|Broke apart and smashed into Jupiter in July 1994.|Comet_Shoemaker%E2%80%93Levy_9
+Comet NEOWISE|Long-period comet|5|2020|~6,800 years|The brightest Northern Hemisphere comet since Hale-Bopp.|C/2020_F3_(NEOWISE)
+Comet Tsuchinshan–ATLAS|Long-period comet|-|2023|-|The bright 'comet of the year' in October 2024.|C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)
+Comet Tempel 1|Periodic comet|6|1867|5.5 years|NASA's Deep Impact fired a projectile into it in 2005.|Tempel_1
+Comet Wild 2|Periodic comet|5.5|1978|6.4 years|Stardust collected its dust and returned it in 2006.|81P/Wild
+Comet Encke|Periodic comet|4.8|1786|3.3 years|The shortest-period known major comet.|Comet_Encke
+# Interstellar objects|🛸
+ʻOumuamua|Interstellar object|0.1–0.4|2017|Hyperbolic|The first known interstellar visitor; cigar- or pancake-shaped, with non-gravitational acceleration.|%CA%BBOumuamua
+2I/Borisov|Interstellar comet|0.4–1|2019|Hyperbolic|The first clearly cometary interstellar visitor.|2I/Borisov
+3I/ATLAS|Interstellar comet|<5|2025|Hyperbolic|The third interstellar object, possibly ~7 billion years old; perihelion 29 October 2025.|3I/ATLAS

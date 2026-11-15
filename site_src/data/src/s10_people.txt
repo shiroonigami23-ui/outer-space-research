@@ -1,0 +1,48 @@
+@file people.json
+@fields name|country|year|mission|summary|wiki
+# Moonwalkers|👨‍🚀
+Neil Armstrong|USA|1969|Apollo 11|First person to walk on the Moon: 'That's one small step for [a] man, one giant leap for mankind.'|Neil_Armstrong
+Buzz Aldrin|USA|1969|Apollo 11|Second person on the Moon.|Buzz_Aldrin
+Pete Conrad|USA|1969|Apollo 12|Third moonwalker; visited the Surveyor 3 probe.|Pete_Conrad
+Alan Bean|USA|1969|Apollo 12|Fourth moonwalker and later a painter of lunar scenes.|Alan_Bean
+Alan Shepard|USA|1971|Apollo 14|First American in space (1961) and the only one to golf on the Moon.|Alan_Shepard
+Edgar Mitchell|USA|1971|Apollo 14|Sixth moonwalker.|Edgar_Mitchell
+David Scott|USA|1971|Apollo 15|First to drive the Lunar Roving Vehicle; dropped a hammer and feather to test Galileo.|David_Scott
+James Irwin|USA|1971|Apollo 15|Found the 'Genesis Rock'.|James_Irwin
+John Young|USA|1972|Apollo 16|Later commanded the first Space Shuttle flight.|John_Young_(astronaut)
+Charles Duke|USA|1972|Apollo 16|Youngest moonwalker (36); left a family photo on the Moon.|Charles_Duke
+Eugene Cernan|USA|1972|Apollo 17|The last person to walk on the Moon (so far).|Eugene_Cernan
+Harrison Schmitt|USA|1972|Apollo 17|The only geologist and scientist to walk on the Moon.|Harrison_Schmitt
+# Space pioneers|🧑‍🚀
+Yuri Gagarin|USSR|1961|Vostok 1|First human in space, orbiting Earth once in 108 minutes.|Yuri_Gagarin
+Valentina Tereshkova|USSR|1963|Vostok 6|First woman in space.|Valentina_Tereshkova
+Alexei Leonov|USSR|1965|Voskhod 2|First spacewalk.|Alexei_Leonov
+John Glenn|USA|1962|Friendship 7|First American to orbit Earth; flew again at 77.|John_Glenn
+Sally Ride|USA|1983|STS-7|First American woman in space.|Sally_Ride
+Svetlana Savitskaya|USSR|1984|Salyut 7|First woman to spacewalk.|Svetlana_Savitskaya
+Valeri Polyakov|Russia|1994|Mir|Record single spaceflight: 437 days.|Valeri_Polyakov
+Yang Liwei|China|2003|Shenzhou 5|China's first astronaut.|Yang_Liwei
+Peggy Whitson|USA|2008|ISS|American record holder for total time in space (over 675 days).|Peggy_Whitson
+Oleg Kononenko|Russia|2024|ISS|First person to log over 1,000 days in space.|Oleg_Kononenko
+Christina Koch|USA|2026|Artemis II|First woman to fly around the Moon.|Christina_Koch
+Victor Glover|USA|2026|Artemis II|First person of colour to travel around the Moon.|Victor_Glover
+Jeremy Hansen|Canada|2026|Artemis II|First non-American to fly around the Moon.|Jeremy_Hansen
+Reid Wiseman|USA|2026|Artemis II|Commander of Artemis II.|Reid_Wiseman
+# Indian astronauts|🇮🇳
+Rakesh Sharma|India|1984|Soyuz T-11 / Salyut 7|First Indian in space: 'Saare Jahan Se Achha'.|Rakesh_Sharma
+Kalpana Chawla|India/USA|1997|STS-87, STS-107|First woman of Indian origin in space; died in the Columbia disaster (2003).|Kalpana_Chawla
+Sunita Williams|USA|2006|ISS, Boeing Starliner|Spent ~9 months on the ISS in 2024–25 after Starliner's problems.|Sunita_Williams
+Shubhanshu Shukla|India|2025|Axiom Mission 4|First Indian to visit the ISS (June–July 2025), a step toward Gaganyaan.|Shubhanshu_Shukla
+# Animals in space|🐒
+Fruit flies (1947)|USA|1947|V-2 rocket|The first animals in space, launched to study radiation; recovered alive.|Animals_in_space
+Albert II|USA|1949|V-2|First monkey (and primate) in space; died on impact.|Albert_II_(monkey)
+Laika|USSR|1957|Sputnik 2|First animal to orbit Earth; died of overheating within hours.|Laika
+Belka and Strelka|USSR|1960|Korabl-Sputnik 2|Dogs that orbited Earth and returned alive.|Belka_and_Strelka
+Ham the chimp|USA|1961|Mercury-Redstone 2|First great ape in space; survived.|Ham_(chimpanzee)
+Félicette|France|1963|Véronique AGI|The only cat to go to space and return alive.|F%C3%A9licette
+Zond 5 tortoises|USSR|1968|Zond 5|First animals to fly around the Moon and return.|Zond_5
+Arabella and Anita|USA|1973|Skylab|Spiders that learned to spin webs in microgravity.|Arabella_(spider)
+Tardigrades (FOTON-M3)|ESA|2007|FOTON-M3|Survived exposure to open space vacuum and radiation.|Tardigrade
+Mice on the ISS|USA|2015|Rodent Research|Mice studied for muscle and bone loss in microgravity.|Animals_in_space
+Medaka fish|Japan|1994|STS-65|First vertebrates to mate in orbit.|Japanese_rice_fish
+Jellyfish (STS-40)|USA|1991|STS-40|Thousands of jellyfish flown to study gravity sensing.|Animals_in_space

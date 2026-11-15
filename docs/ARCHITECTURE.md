@@ -10,7 +10,6 @@ workflow that mirrors all nodes into one place for browsing and cross-linking.
 ```mermaid
 flowchart LR
   OS[outer-space-research] -- mirrored by sync-research-nodes.yml --> RV[(Research-Vault)]
-  UW[under-water-deep-research] -- mirrored --> RV
   RV --> P[Papers & PDFs]
 ```
 
@@ -29,7 +28,7 @@ flowchart LR
 | **New tracks** | `small-bodies/`, `black-holes-gw/`, `heliophysics/` | Same template as the original five |
 | **Paper library** | `papers/` | One file per paper, fixed template, states its analysis basis |
 | **Transit lab** | `labs/transit-lab.html` | Grid-integrated limb-darkened transit light curves |
-| **Hub homepage** | `index.html` + `.nojekyll` | GitHub Pages landing page; shared generator with the under-water hub |
+| **Hub homepage** | `index.html` + `.nojekyll` | GitHub Pages landing page |
 | **Glossary** | `GLOSSARY.md` | Shared vocabulary |
 | **Hub link** | `connected/Research-Vault-README.md` | Pointer to the Vault |
 

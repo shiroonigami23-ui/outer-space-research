@@ -17,4 +17,3 @@ How we would know if we found life, and why every claim so far is still at step 
 
 - [`biosignatures-and-habitability.md`](./biosignatures-and-habitability.md): case studies (K2-18 b, Mars, Venus, Enceladus) and sources
 
-Cross-link: the deep-sea chemosynthesis notes in [under-water-deep-research](https://github.com/shiroonigami23-ui/under-water-deep-research) are the Earth analogue for ocean-world life.

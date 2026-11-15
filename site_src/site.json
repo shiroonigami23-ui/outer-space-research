@@ -1,0 +1,1408 @@
+{
+ "name": "Outer Space Research",
+ "logo": "🌌",
+ "kicker": "The space-science encyclopedia",
+ "tagline": "From the Big Bang to black holes, from Galileo's telescope to Artemis II: in-depth, sourced articles and 500+ catalog entries on everything in the universe, with real photos, sounds, animated charts and a live mission tracker.",
+ "footer": "An independent space-science encyclopedia built from NASA, ESA, ISRO, JAXA and CNSA data, peer-reviewed papers and observatory releases.",
+ "github": "shiroonigami23-ui/outer-space-research",
+ "theme_default": "dark",
+ "reviewed": "2026-11-15",
+ "hero_anim": "stars",
+ "stats": [
+  [
+   "13.8 bn yrs",
+   "age of the universe"
+  ],
+  [
+   "6,000+",
+   "confirmed exoplanets"
+  ],
+  [
+   "z = 14.44",
+   "most distant galaxy (MoM-z14)"
+  ],
+  [
+   "1 light-day",
+   "Voyager 1's distance (Nov 2026)"
+  ],
+  [
+   "406,771 km",
+   "farthest humans have travelled (Artemis II)"
+  ],
+  [
+   "513",
+   "catalog entries"
+  ]
+ ],
+ "featured": [
+  "big-bang",
+  "how-black-holes-work",
+  "white-holes-and-wormholes",
+  "types-of-planets",
+  "how-big-is-the-universe",
+  "india-in-space"
+ ],
+ "repo_map": {
+  "papers/desi-2025-dr2-dark-energy.md": "/wiki/library/desi-2025.html",
+  "papers/naidu-2026-mom-z14.md": "/wiki/library/naidu-2026.html",
+  "papers/freedman-2025-cchp-h0.md": "/wiki/library/freedman-2025.html",
+  "papers/lvk-2025-gw250114.md": "/wiki/library/lvk-2025.html",
+  "papers/seligman-2025-3i-atlas.md": "/wiki/library/seligman-2025.html",
+  "papers/hurowitz-2025-sapphire-canyon.md": "/wiki/library/hurowitz-2025.html",
+  "papers/k2-18b-2025-debate.md": "/wiki/library/k2-18b-debate.html",
+  "papers/trappist-1e-2025-jwst.md": "/wiki/library/trappist-1e-2025.html",
+  "cosmology/cosmology-core.md": "/wiki/research/cosmology-now.html",
+  "black-holes-gw/gravitational-waves-and-black-holes.md": "/wiki/research/gravitational-waves-now.html",
+  "planetary/solar-system-worlds.md": "/wiki/research/solar-system-now.html",
+  "stellar/stellar-evolution-and-exoplanets.md": "/wiki/research/stars-and-exoplanets-now.html",
+  "small-bodies/interstellar-objects-and-asteroids.md": "/wiki/research/small-bodies-now.html",
+  "astrobiology/biosignatures-and-habitability.md": "/wiki/research/biosignatures-now.html",
+  "exploration/missions-and-instruments.md": "/wiki/research/missions-now.html",
+  "heliophysics/parker-and-space-weather.md": "/wiki/research/sun-and-space-weather-now.html"
+ },
+ "sections": [
+  {
+   "id": "cosmos",
+   "icon": "🌌",
+   "title": "Journey of the Universe",
+   "desc": "From the Big Bang and the first light to the first stars, the size of the cosmos, dark matter and energy, and how it all ends.",
+   "pages": [
+    "big-bang",
+    "cosmic-microwave-background",
+    "first-stars-and-galaxies",
+    "how-big-is-the-universe",
+    "dark-matter-and-dark-energy",
+    "fate-of-the-universe"
+   ]
+  },
+  {
+   "id": "stars",
+   "icon": "⭐",
+   "title": "Stars & the Sun",
+   "desc": "How stars are born, live and die; supernovae; white dwarfs, neutron stars and pulsars; every kind of dwarf star; star patterns; and our Sun.",
+   "pages": [
+    "life-cycle-of-stars",
+    "supernovae",
+    "dead-stars",
+    "brown-and-red-dwarfs",
+    "star-patterns",
+    "the-sun-and-space-weather"
+   ]
+  },
+  {
+   "id": "black-holes",
+   "icon": "🕳",
+   "title": "Black Holes & Exotic Physics",
+   "desc": "How black holes work, gravitational waves, white holes and wormholes, and cosmic collisions.",
+   "pages": [
+    "how-black-holes-work",
+    "gravitational-waves",
+    "white-holes-and-wormholes",
+    "cosmic-collisions"
+   ]
+  },
+  {
+   "id": "planets",
+   "icon": "🪐",
+   "title": "Planets & Life",
+   "desc": "How planets form, every type of planet discovered, how we find them, space rocks, and the search for life.",
+   "pages": [
+    "how-planets-form",
+    "types-of-planets",
+    "finding-exoplanets",
+    "space-rocks",
+    "habitability-and-life"
+   ]
+  },
+  {
+   "id": "exploration",
+   "icon": "🚀",
+   "title": "Exploration",
+   "desc": "Telescopes from 1608 to JWST, the space race and Moon landings, how rockets and orbits work, living in space, and India's space programme.",
+   "pages": [
+    "history-of-telescopes",
+    "space-race-and-moon-landings",
+    "rockets-and-orbits",
+    "living-in-space",
+    "india-in-space"
+   ]
+  },
+  {
+   "id": "research",
+   "icon": "🔬",
+   "title": "Research Now (2026)",
+   "desc": "Up-to-date research notes on cosmology, gravitational waves, the solar system, exoplanets, small bodies, biosignatures, missions and the Sun.",
+   "pages": [
+    "cosmology-now",
+    "gravitational-waves-now",
+    "solar-system-now",
+    "stars-and-exoplanets-now",
+    "small-bodies-now",
+    "biosignatures-now",
+    "missions-now",
+    "sun-and-space-weather-now"
+   ]
+  },
+  {
+   "id": "library",
+   "icon": "📚",
+   "title": "Paper Library",
+   "desc": "Structured analyses of key papers, each readable as a PDF.",
+   "pdf": true,
+   "pages": [
+    "desi-2025",
+    "naidu-2026",
+    "freedman-2025",
+    "lvk-2025",
+    "seligman-2025",
+    "hurowitz-2025",
+    "k2-18b-debate",
+    "trappist-1e-2025",
+    "reading-list"
+   ]
+  },
+  {
+   "id": "data",
+   "icon": "📊",
+   "title": "Data & Tools",
+   "desc": "The live tracker, interactive labs, figure gallery and open datasets.",
+   "pages": [
+    "tracker",
+    "interactive-labs",
+    "figure-gallery",
+    "open-datasets"
+   ]
+  }
+ ],
+ "collections": [
+  {
+   "id": "planets",
+   "icon": "🪐",
+   "title": "Planets & Dwarf Planets",
+   "short": "8 planets + 5 dwarf planets",
+   "noun": "planets",
+   "desc": "Every planet and the major dwarf planets: size, distance, day and year, moons, temperature, surface, atmosphere, interior and the missions that explored them, with NASA sonifications where available.",
+   "file": "data/planets.json",
+   "name_key": "name",
+   "sub_key": "group",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "radius_km",
+     "Radius (km)"
+    ],
+    [
+     "mass_earth",
+     "Mass (Earth = 1)"
+    ],
+    [
+     "distance_au",
+     "Distance from Sun (AU)"
+    ],
+    [
+     "day",
+     "Day length"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "moons",
+     "Known moons"
+    ],
+    [
+     "temp_c",
+     "Temperature (°C)"
+    ]
+   ],
+   "texts": [
+    [
+     "surface",
+     "Surface"
+    ],
+    [
+     "atmosphere",
+     "Atmosphere"
+    ],
+    [
+     "interior",
+     "Interior"
+    ],
+    [
+     "exploration",
+     "Exploration"
+    ],
+    [
+     "facts_list",
+     "Quick facts"
+    ]
+   ],
+   "columns": [
+    [
+     "radius_km",
+     "Radius km"
+    ],
+    [
+     "distance_au",
+     "Distance AU"
+    ],
+    [
+     "moons",
+     "Moons"
+    ],
+    [
+     "temp_c",
+     "Temp °C"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "top",
+     "key": "radius_km",
+     "title": "Radius (km)",
+     "n": 13,
+     "log": true
+    },
+    {
+     "type": "top",
+     "key": "moons",
+     "title": "Known moons",
+     "n": 10
+    }
+   ],
+   "links": [
+    {
+     "type": "backname",
+     "coll": "moons",
+     "theirs": "parent",
+     "label": "🌙 Moons"
+    },
+    {
+     "type": "backname",
+     "coll": "missions",
+     "theirs": "target",
+     "label": "🚀 Missions that visited"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "visual": {
+    "type": "size",
+    "key": "radius_km",
+    "ref": 6371,
+    "refname": "Earth",
+    "label": "name"
+   },
+   "sounds": true,
+   "vocal_groups": [
+    "Planets",
+    "Dwarf planets"
+   ],
+   "sound_kind": "object"
+  },
+  {
+   "id": "moons",
+   "icon": "🌙",
+   "title": "Moons",
+   "short": "31 moons",
+   "noun": "moons",
+   "desc": "The most important moons in the solar system, from Earth's Moon to ocean worlds like Europa and Enceladus.",
+   "file": "data/moons.json",
+   "name_key": "name",
+   "sub_key": "parent",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "parent",
+     "Orbits"
+    ],
+    [
+     "radius_km",
+     "Radius (km)"
+    ],
+    [
+     "discovered",
+     "Discovered"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "parent",
+     "Orbits"
+    ],
+    [
+     "radius_km",
+     "Radius km"
+    ],
+    [
+     "discovered",
+     "Discovered"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "top",
+     "key": "radius_km",
+     "title": "Largest moons (radius, km)",
+     "n": 15
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "planets",
+     "mine": "parent",
+     "label": "🪐 Parent world"
+    },
+    {
+     "type": "backname",
+     "coll": "missions",
+     "theirs": "target",
+     "label": "🚀 Missions"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "visual": {
+    "type": "size",
+    "key": "radius_km",
+    "ref": 1737,
+    "refname": "Earth's Moon",
+    "label": "name"
+   }
+  },
+  {
+   "id": "stars",
+   "icon": "⭐",
+   "title": "Stars",
+   "short": "41 notable stars",
+   "noun": "stars",
+   "desc": "The nearest, brightest, biggest and strangest stars: spectral type, distance, size, mass, temperature and brightness.",
+   "file": "data/stars.json",
+   "name_key": "name",
+   "sub_key": "spectral",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "constellation",
+     "Constellation"
+    ],
+    [
+     "spectral",
+     "Spectral type"
+    ],
+    [
+     "distance_ly",
+     "Distance (light-years)"
+    ],
+    [
+     "radius_sun",
+     "Radius (Sun = 1)"
+    ],
+    [
+     "mass_sun",
+     "Mass (Sun = 1)"
+    ],
+    [
+     "temp_k",
+     "Surface temperature (K)"
+    ],
+    [
+     "mag",
+     "Apparent magnitude"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "constellation",
+     "Constellation"
+    ],
+    [
+     "spectral",
+     "Type"
+    ],
+    [
+     "distance_ly",
+     "Distance ly"
+    ],
+    [
+     "temp_k",
+     "Temp K"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "scatter",
+     "x": "temp_k",
+     "y": "radius_sun",
+     "xlabel": "Surface temperature (K)",
+     "ylabel": "Radius (Sun = 1)",
+     "logx": true,
+     "logy": true,
+     "note": "A simplified Hertzsprung–Russell view: giants top, dwarfs bottom.",
+     "title": "Temperature vs size of notable stars"
+    },
+    {
+     "type": "top",
+     "key": "radius_sun",
+     "title": "Biggest stars (radius, Sun = 1)",
+     "n": 12,
+     "log": true
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "constellations",
+     "mine": "constellation",
+     "label": "✨ Constellation"
+    },
+    {
+     "type": "backname",
+     "coll": "exoplanets",
+     "theirs": "star",
+     "label": "🌍 Known planets"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "sounds": true,
+   "vocal_groups": [],
+   "sound_kind": "object"
+  },
+  {
+   "id": "objects",
+   "icon": "🕳",
+   "title": "Cosmic Objects & Phenomena",
+   "short": "Black holes, supernovae…",
+   "noun": "objects",
+   "desc": "Black holes, white holes, wormholes, neutron stars, pulsars, magnetars, supernovae, kilonovae, galaxy collisions, gravitational waves, dark matter, voids and more, with how each works and the evidence for it.",
+   "file": "data/objects.json",
+   "name_key": "name",
+   "sub_key": "status",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "status",
+     "Status"
+    ]
+   ],
+   "texts": [
+    [
+     "how",
+     "How it works"
+    ],
+    [
+     "evidence",
+     "Evidence"
+    ]
+   ],
+   "columns": [
+    [
+     "status",
+     "Status"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "status",
+     "title": "Observed vs theoretical"
+    },
+    {
+     "type": "count",
+     "key": "group",
+     "title": "Objects by family"
+    }
+   ],
+   "links": [],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "sounds": true,
+   "vocal_groups": [],
+   "sound_kind": "object"
+  },
+  {
+   "id": "exoplanets",
+   "icon": "🌍",
+   "title": "Exoplanets",
+   "short": "40 alien worlds",
+   "noun": "exoplanets",
+   "desc": "Planets around other stars: hot Jupiters, super-Earths, lava worlds, water worlds, circumbinary and rogue planets, with how they were found.",
+   "file": "data/exoplanets.json",
+   "name_key": "name",
+   "sub_key": "ptype",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "ptype",
+     "Planet type"
+    ],
+    [
+     "star",
+     "Star"
+    ],
+    [
+     "distance_ly",
+     "Distance (light-years)"
+    ],
+    [
+     "radius_earth",
+     "Radius (Earth = 1)"
+    ],
+    [
+     "mass_earth",
+     "Mass (Earth = 1)"
+    ],
+    [
+     "period_days",
+     "Orbital period (days)"
+    ],
+    [
+     "method",
+     "Discovery method"
+    ],
+    [
+     "year",
+     "Discovered"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "ptype",
+     "Type"
+    ],
+    [
+     "distance_ly",
+     "Distance ly"
+    ],
+    [
+     "radius_earth",
+     "Radius ⊕"
+    ],
+    [
+     "method",
+     "Method"
+    ],
+    [
+     "year",
+     "Year"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "scatter",
+     "x": "period_days",
+     "y": "radius_earth",
+     "xlabel": "Orbital period (days)",
+     "ylabel": "Radius (Earth = 1)",
+     "logx": true,
+     "logy": true,
+     "title": "Exoplanets: orbital period vs size"
+    },
+    {
+     "type": "count",
+     "key": "method",
+     "title": "Discovery methods (this catalog)"
+    },
+    {
+     "type": "timeline_count",
+     "key": "year",
+     "bin": 5,
+     "title": "Discoveries by 5-year period (this catalog)"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "stars",
+     "mine": "star",
+     "label": "⭐ Host star"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Scientifically plausible artist's impression of exoplanet {name} ({ptype}) orbiting {star}, realistic lighting, 16:9, no text",
+   "visual": {
+    "type": "size",
+    "key": "radius_earth",
+    "ref": 1,
+    "refname": "Earth",
+    "label": "name"
+   }
+  },
+  {
+   "id": "galaxies",
+   "icon": "🌌",
+   "title": "Galaxies & Nebulae",
+   "short": "43 galaxies, nebulae, clusters",
+   "noun": "galaxies and nebulae",
+   "desc": "Galaxies from the Milky Way to the most distant ever seen, plus famous nebulae, star clusters and superclusters.",
+   "file": "data/galaxies.json",
+   "name_key": "name",
+   "sub_key": "gtype",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "gtype",
+     "Type"
+    ],
+    [
+     "constellation",
+     "Constellation"
+    ],
+    [
+     "distance_ly",
+     "Distance (light-years)"
+    ],
+    [
+     "size_ly",
+     "Size (light-years)"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "gtype",
+     "Type"
+    ],
+    [
+     "distance_ly",
+     "Distance ly"
+    ],
+    [
+     "size_ly",
+     "Size ly"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "gtype",
+     "title": "Types"
+    },
+    {
+     "type": "top",
+     "key": "distance_ly",
+     "title": "Most distant (light-years)",
+     "n": 12,
+     "log": true
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "constellations",
+     "mine": "constellation",
+     "label": "✨ Constellation"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+  },
+  {
+   "id": "smallbodies",
+   "icon": "☄️",
+   "title": "Asteroids & Comets",
+   "short": "29 asteroids, comets, interstellar visitors",
+   "noun": "small bodies",
+   "desc": "Asteroids, comets and interstellar objects: sizes, orbits, discoveries and the missions that visited them.",
+   "file": "data/smallbodies.json",
+   "name_key": "name",
+   "sub_key": "btype",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "btype",
+     "Type"
+    ],
+    [
+     "size_km",
+     "Size (km)"
+    ],
+    [
+     "discovered",
+     "Discovered"
+    ],
+    [
+     "orbit",
+     "Orbit"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "btype",
+     "Type"
+    ],
+    [
+     "size_km",
+     "Size km"
+    ],
+    [
+     "discovered",
+     "Discovered"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "btype",
+     "title": "Types"
+    }
+   ],
+   "links": [
+    {
+     "type": "backname",
+     "coll": "missions",
+     "theirs": "target",
+     "label": "🚀 Missions"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+  },
+  {
+   "id": "rocks",
+   "icon": "🪨",
+   "title": "Space Rocks & Minerals",
+   "short": "Meteorites, lunar & Martian rocks",
+   "noun": "rocks",
+   "desc": "Meteorite types, famous falls and impacts, Moon and Mars rocks and space minerals, and what they reveal about the solar system's birth.",
+   "file": "data/rocks.json",
+   "name_key": "name",
+   "sub_key": "rtype",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "rtype",
+     "Type"
+    ],
+    [
+     "origin",
+     "Origin"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "rtype",
+     "Type"
+    ],
+    [
+     "origin",
+     "Origin"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "rtype",
+     "title": "Types"
+    }
+   ],
+   "links": [],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+  },
+  {
+   "id": "missions",
+   "icon": "🚀",
+   "title": "Missions, Rockets & Satellites",
+   "short": "79 spacecraft, rockets, stations",
+   "noun": "missions",
+   "desc": "Every era of spaceflight: firsts, deep-space explorers, Moon and Mars missions (including ISRO's), rockets, space stations and satellites.",
+   "file": "data/missions.json",
+   "name_key": "name",
+   "sub_key": "agency",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "agency",
+     "Agency"
+    ],
+    [
+     "launch",
+     "Launched"
+    ],
+    [
+     "target",
+     "Target"
+    ],
+    [
+     "mtype",
+     "Type"
+    ],
+    [
+     "status",
+     "Status"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "agency",
+     "Agency"
+    ],
+    [
+     "launch",
+     "Launch"
+    ],
+    [
+     "target",
+     "Target"
+    ],
+    [
+     "status",
+     "Status"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "timeline_count",
+     "key": "launch",
+     "bin": 10,
+     "title": "Missions in this catalog by decade"
+    },
+    {
+     "type": "count",
+     "key": "agency",
+     "title": "By agency",
+     "n": 15
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "planets",
+     "mine": "target",
+     "label": "🪐 Destination"
+    },
+    {
+     "type": "text",
+     "coll": "moons",
+     "mine": "target",
+     "label": "🌙 Moon visited"
+    },
+    {
+     "type": "text",
+     "coll": "smallbodies",
+     "mine": "target",
+     "label": "☄️ Small body visited"
+    },
+    {
+     "type": "backname",
+     "coll": "people",
+     "theirs": "mission",
+     "label": "👨‍🚀 Crew"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "sounds": true,
+   "vocal_groups": [],
+   "sound_kind": "object"
+  },
+  {
+   "id": "people",
+   "icon": "👨‍🚀",
+   "title": "People & Animals in Space",
+   "short": "Moonwalkers, pioneers, animals",
+   "noun": "people and animals",
+   "desc": "All 12 moonwalkers, space pioneers, India's astronauts and the animals that flew first.",
+   "file": "data/people.json",
+   "name_key": "name",
+   "sub_key": "country",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "mission",
+     "Mission"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "country",
+     "Country"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "mission",
+     "Mission"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "timeline_count",
+     "key": "year",
+     "bin": 10,
+     "title": "By decade"
+    },
+    {
+     "type": "count",
+     "key": "country",
+     "title": "By country"
+    }
+   ],
+   "links": [
+    {
+     "type": "text",
+     "coll": "missions",
+     "mine": "mission",
+     "label": "🚀 Mission"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "sounds": true,
+   "vocal_groups": [
+    "Moonwalkers"
+   ],
+   "sound_kind": "person"
+  },
+  {
+   "id": "telescopes",
+   "icon": "🔭",
+   "title": "Telescopes & Observatories",
+   "short": "From 1608 to JWST",
+   "noun": "telescopes",
+   "desc": "The telescopes that revealed the universe, from Lippershey and Galileo to JWST, Rubin, the Event Horizon Telescope and India's GMRT.",
+   "file": "data/telescopes.json",
+   "name_key": "name",
+   "sub_key": "ttype",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "ttype",
+     "Type"
+    ],
+    [
+     "aperture_m",
+     "Aperture (m)"
+    ],
+    [
+     "location",
+     "Location"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "ttype",
+     "Type"
+    ],
+    [
+     "aperture_m",
+     "Aperture m"
+    ],
+    [
+     "location",
+     "Location"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "scatter",
+     "x": "year",
+     "y": "aperture_m",
+     "xlabel": "Year",
+     "ylabel": "Aperture (m)",
+     "logy": true,
+     "note": "Telescope size has grown ~1,000× since Galileo.",
+     "title": "Telescope aperture through history"
+    },
+    {
+     "type": "timeline_count",
+     "key": "year",
+     "bin": 50,
+     "title": "By half-century"
+    }
+   ],
+   "links": [],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+  },
+  {
+   "id": "constellations",
+   "icon": "✨",
+   "title": "Constellations",
+   "short": "All 88",
+   "noun": "constellations",
+   "desc": "All 88 official constellations: meaning, hemisphere, brightest star, area, and the stars, galaxies and nebulae inside each.",
+   "file": "data/constellations.json",
+   "name_key": "name",
+   "sub_key": "meaning",
+   "group_key": "group",
+   "live_photos": true,
+   "facts": [
+    [
+     "abbr",
+     "Abbreviation"
+    ],
+    [
+     "meaning",
+     "Meaning"
+    ],
+    [
+     "hemisphere",
+     "Hemisphere"
+    ],
+    [
+     "brightest",
+     "Brightest star"
+    ],
+    [
+     "area_sqdeg",
+     "Area (square degrees)"
+    ]
+   ],
+   "texts": [],
+   "columns": [
+    [
+     "meaning",
+     "Meaning"
+    ],
+    [
+     "hemisphere",
+     "Hemisphere"
+    ],
+    [
+     "brightest",
+     "Brightest"
+    ],
+    [
+     "area_sqdeg",
+     "Area sq°"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "top",
+     "key": "area_sqdeg",
+     "title": "Largest constellations (square degrees)",
+     "n": 15
+    },
+    {
+     "type": "count",
+     "key": "hemisphere",
+     "title": "By hemisphere"
+    }
+   ],
+   "links": [
+    {
+     "type": "backname",
+     "coll": "stars",
+     "theirs": "constellation",
+     "label": "⭐ Stars"
+    },
+    {
+     "type": "backname",
+     "coll": "galaxies",
+     "theirs": "constellation",
+     "label": "🌌 Galaxies and nebulae"
+    }
+   ],
+   "source_tpl": [
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/{wiki}"
+    ]
+   ],
+   "prompt": "Realistic night-sky photograph of the constellation {name} ({meaning}) with its main stars subtly connected by thin lines, Milky Way background, 16:9, no text"
+  },
+  {
+   "id": "papers",
+   "icon": "📄",
+   "title": "Research Papers",
+   "short": "Read or download the PDFs",
+   "noun": "papers",
+   "file": "data/papers.json",
+   "name_key": "name",
+   "sub_key": "authors",
+   "group_key": "topic",
+   "paperbox": true,
+   "no_prompt": true,
+   "facts": [
+    [
+     "authors",
+     "Authors"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "journal",
+     "Journal"
+    ],
+    [
+     "doi",
+     "DOI"
+    ],
+    [
+     "access",
+     "Access"
+    ],
+    [
+     "license",
+     "Licence"
+    ]
+   ],
+   "texts": [
+    [
+     "summary",
+     "What it found"
+    ]
+   ],
+   "columns": [
+    [
+     "authors",
+     "Authors"
+    ],
+    [
+     "year",
+     "Year"
+    ],
+    [
+     "journal",
+     "Journal"
+    ],
+    [
+     "access",
+     "Access"
+    ]
+   ],
+   "charts": [
+    {
+     "type": "count",
+     "key": "access",
+     "title": "Access type"
+    },
+    {
+     "type": "timeline_count",
+     "key": "year",
+     "bin": 10,
+     "title": "Papers by decade"
+    }
+   ],
+   "source_tpl": [],
+   "desc": "Landmark and current space-science papers. Read openly licensed ones in the built-in PDF reader, download them, or open the arXiv/publisher PDF in a new tab."
+  }
+ ],
+ "tracker": [
+  {
+   "id": "artemis",
+   "icon": "🌙",
+   "name": "Artemis (NASA)",
+   "status": "Artemis II flown (Apr 1–10, 2026)",
+   "next": "Artemis III LEO docking test, target mid-2027; first landing (Artemis IV) target 2028"
+  },
+  {
+   "id": "gaganyaan",
+   "icon": "🇮🇳",
+   "name": "Gaganyaan (ISRO)",
+   "status": "Separation tests done (Oct 2026)",
+   "next": "G1 uncrewed flight, Q4 2026 (NET Nov); crewed H1 2027"
+  },
+  {
+   "id": "chandrayaan-4-5",
+   "icon": "🌕",
+   "name": "Chandrayaan-4 / -5 (ISRO, JAXA)",
+   "status": "Development / design",
+   "next": "Sample return ~2027–28; LUPEX ~2028"
+  },
+  {
+   "id": "europa-clipper",
+   "icon": "🧊",
+   "name": "Europa Clipper (NASA)",
+   "status": "Cruise, healthy",
+   "next": "Earth gravity assist 2026-12-03; Jupiter Apr 2030"
+  },
+  {
+   "id": "tianwen-2",
+   "icon": "🪨",
+   "name": "Tianwen-2 (CNSA)",
+   "status": "Operating at Kamoʻoalewa since Jul 2026",
+   "next": "Sampling; departure Apr 2027; capsule return Nov 2027"
+  },
+  {
+   "id": "rubin-lsst",
+   "icon": "🔭",
+   "name": "Rubin LSST",
+   "status": "Survey running since 2026-06-29/30",
+   "next": "Early data previews and alert-broker results"
+  },
+  {
+   "id": "dark-energy",
+   "icon": "🌌",
+   "name": "Dark energy (DESI)",
+   "status": "2.8–4.2σ hint of evolution (DR2, Mar 2025)",
+   "next": "Further DESI analyses; Euclid cosmology"
+  },
+  {
+   "id": "early-galaxies",
+   "icon": "🌠",
+   "name": "Early galaxies (JWST)",
+   "status": "Record MoM-z14, z = 14.44",
+   "next": "Attempts at z > 15"
+  },
+  {
+   "id": "biosignatures",
+   "icon": "🧬",
+   "name": "Biosignatures",
+   "status": "K2-18 b DMS contested; Mars Sapphire Canyon \"potential\"",
+   "next": "MIRI systematics follow-ups; Mars sample-return plan"
+  },
+  {
+   "id": "hubble-tension",
+   "icon": "📏",
+   "name": "Hubble tension",
+   "status": "SH0ES ≈73 vs CCHP ≈70.4 vs Planck ≈67.4",
+   "next": "Larger TRGB/JAGB samples; lensing time delays"
+  },
+  {
+   "id": "euclid",
+   "icon": "🛰",
+   "name": "Euclid",
+   "status": "DR1 (first cosmology release, ~2,000 deg²) scheduled late Oct 2026",
+   "next": "DR1 weak-lensing dark-energy results"
+  },
+  {
+   "id": "interstellar-objects",
+   "icon": "☄️",
+   "name": "Interstellar objects",
+   "status": "3I/ATLAS passed perihelion 29 Oct 2025; outbound",
+   "next": "LSST discoveries of new ISOs"
+  },
+  {
+   "id": "trappist-1-e",
+   "icon": "🪐",
+   "name": "TRAPPIST-1 e (JWST)",
+   "status": "4 transits: N₂+CH₄ fits, bare rock not excluded",
+   "next": "~15 more transits incl. b/e back-to-back"
+  },
+  {
+   "id": "gravitational-waves",
+   "icon": "🌊",
+   "name": "Gravitational waves",
+   "status": "GW250114 confirms the area law at ~99.999%",
+   "next": "LVK O4/O5 catalogues"
+  },
+  {
+   "id": "parker-solar-probe",
+   "icon": "☀️",
+   "name": "Parker Solar Probe",
+   "status": "Repeating 6.1–6.2 million km perihelia (27th on 11 Mar 2026)",
+   "next": "Extended-mission decision (late 2026)"
+  }
+ ],
+ "tracker_page": "data/tracker",
+ "nav_order": [
+  {
+   "id": "planets",
+   "title": "Planets"
+  },
+  {
+   "id": "objects",
+   "title": "Black holes & more"
+  },
+  {
+   "id": "exoplanets",
+   "title": "Exoplanets"
+  },
+  {
+   "id": "missions",
+   "title": "Missions"
+  }
+ ],
+ "prompt_style": "Ultra-realistic astronomical illustration, scientifically accurate, 16:9, no text or labels"
+}

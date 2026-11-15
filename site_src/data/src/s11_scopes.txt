@@ -1,0 +1,42 @@
+@file telescopes.json
+@fields name|year|ttype|aperture_m|location|summary|wiki
+# Early telescopes & observatories|🔭
+Lippershey's spyglass|1608|Refractor|0.02|Netherlands|The first patent application for a telescope, by spectacle-maker Hans Lippershey.|Hans_Lipperhey
+Galileo's telescope|1609|Refractor|0.037|Padua, Italy|Galileo turned a ~20× telescope to the sky and discovered Jupiter's moons, Venus's phases and lunar mountains (1610).|Galileo%27s_telescope
+Kepler's telescope|1611|Refractor (Keplerian)|-|Prague|Johannes Kepler's design with two convex lenses, the basis of later refractors.|Keplerian_telescope
+Newton's reflector|1668|Reflector|0.033|England|Isaac Newton's mirror telescope avoided colour fringes of lenses.|Newtonian_telescope
+Herschel's 40-foot telescope|1789|Reflector|1.26|Slough, England|William Herschel's giant; he had discovered Uranus in 1781 with a smaller one.|Herschel%27s_40-foot_telescope
+Jantar Mantar|1724|Naked-eye observatory|-|Jaipur, India|Sawai Jai Singh II's giant masonry instruments, including the world's largest stone sundial.|Jantar_Mantar,_Jaipur
+Leviathan of Parsonstown|1845|Reflector|1.83|Ireland|Revealed the spiral structure of the Whirlpool Galaxy.|Leviathan_of_Parsonstown
+Yerkes refractor|1897|Refractor|1.02|Wisconsin, USA|The largest refracting telescope used for astronomy.|Yerkes_Observatory
+Hooker Telescope|1917|Reflector|2.54|Mount Wilson, USA|Edwin Hubble used it to show galaxies exist beyond ours (1924) and that the universe expands (1929).|Hooker_Telescope
+Hale Telescope|1948|Reflector|5.1|Palomar, USA|The world's largest telescope for decades.|Hale_Telescope
+# Modern ground observatories|🏔
+Keck Observatory|1993|Segmented reflector|10|Maunakea, Hawaii|Twin 10 m telescopes that pioneered segmented mirrors and adaptive optics.|W._M._Keck_Observatory
+Very Large Telescope|1998|Reflector array|8.2|Paranal, Chile|Four 8.2 m telescopes; took the first image of an exoplanet (2004).|Very_Large_Telescope
+Gran Telescopio Canarias|2009|Segmented reflector|10.4|La Palma|The largest single-aperture optical telescope.|Gran_Telescopio_Canarias
+Extremely Large Telescope|2029|Segmented reflector|39|Cerro Armazones, Chile|Under construction; will be the largest optical telescope ever.|Extremely_Large_Telescope
+Thirty Meter Telescope|-|Segmented reflector|30|Planned|Planned giant telescope with Indian participation (site disputed).|Thirty_Meter_Telescope
+Vera C. Rubin Observatory|2025|Survey telescope|8.4|Cerro Pachón, Chile|Began the 10-year Legacy Survey of Space and Time in 2026, with the largest digital camera ever (3,200 megapixels).|Vera_C._Rubin_Observatory
+Arecibo Telescope|1963|Radio dish|305|Puerto Rico|Sent the Arecibo message (1974) and found the first binary pulsar; collapsed in 2020.|Arecibo_Telescope
+FAST|2016|Radio dish|500|Guizhou, China|The largest single-dish radio telescope.|Five-hundred-meter_Aperture_Spherical_Telescope
+Giant Metrewave Radio Telescope|1995|Radio array|45|Pune, India|One of the world's largest low-frequency radio arrays, part of pulsar timing gravitational-wave searches.|Giant_Metrewave_Radio_Telescope
+ALMA|2011|Radio interferometer|12|Atacama, Chile|66 dishes imaging planet-forming disks.|Atacama_Large_Millimeter_Array
+Event Horizon Telescope|2017|Global radio interferometer|-|Worldwide|An Earth-sized virtual telescope that imaged M87* and Sgr A*.|Event_Horizon_Telescope
+Square Kilometre Array|2028|Radio array|-|Australia and South Africa|Under construction; India is a member.|Square_Kilometre_Array
+LIGO|2015|Gravitational-wave detector|-|USA|First to detect gravitational waves (2015). LIGO-India is being built in Maharashtra.|LIGO
+IceCube|2010|Neutrino detector|-|South Pole|A cubic kilometre of ice watching for neutrinos.|IceCube_Neutrino_Observatory
+Devasthal Optical Telescope|2016|Reflector|3.6|Nainital, India|India's largest optical telescope.|Devasthal_Optical_Telescope
+# Space telescopes|🛰
+Hubble Space Telescope|1990|Reflector (space)|2.4|Low Earth orbit|Revolutionised astronomy: the Deep Field, the universe's expansion rate, dark energy evidence.|Hubble_Space_Telescope
+James Webb Space Telescope|2021|Infrared (space)|6.5|Sun–Earth L2|Sees the first galaxies and analyses exoplanet atmospheres.|James_Webb_Space_Telescope
+Chandra X-ray Observatory|1999|X-ray (space)|1.2|High Earth orbit|Images hot gas, black holes and supernova remnants.|Chandra_X-ray_Observatory
+Spitzer|2003|Infrared (space)|0.85|Earth-trailing orbit|Found TRAPPIST-1's seven planets; retired 2020.|Spitzer_Space_Telescope
+Kepler|2009|Photometer (space)|0.95|Earth-trailing orbit|Found over 2,600 exoplanets and showed planets outnumber stars.|Kepler_space_telescope
+TESS|2018|Photometer (space)|0.1|High Earth orbit|Surveying bright nearby stars for transiting planets.|Transiting_Exoplanet_Survey_Satellite
+Gaia|2013|Astrometry (space)|1.45|Sun–Earth L2|Mapped ~2 billion stars in 3D; retired in 2025.|Gaia_(spacecraft)
+Planck|2009|Microwave (space)|1.5|Sun–Earth L2|Made the definitive map of the cosmic microwave background.|Planck_(spacecraft)
+Euclid|2023|Optical/infrared (space)|1.2|Sun–Earth L2|Mapping dark matter and dark energy; first cosmology release in 2026.|Euclid_(spacecraft)
+AstroSat|2015|Multi-wavelength (space)|-|Low Earth orbit|India's first dedicated space observatory.|Astrosat
+Nancy Grace Roman Space Telescope|2026|Wide-field infrared (space)|2.4|Sun–Earth L2|Launched 30 August 2026 on Falcon Heavy to survey dark energy and exoplanets.|Nancy_Grace_Roman_Space_Telescope
+XRISM|2023|X-ray spectroscopy (space)|-|Low Earth orbit|Japan–NASA X-ray spectrometer.|X-Ray_Imaging_and_Spectroscopy_Mission

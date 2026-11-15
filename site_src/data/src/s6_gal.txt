@@ -1,0 +1,47 @@
+@file galaxies.json
+@fields name|gtype|constellation|distance_ly|size_ly|summary|wiki
+# Galaxies|🌌
+Milky Way|Barred spiral|-|0|100000|Our home galaxy, with 100–400 billion stars and a 4-million-solar-mass black hole at its centre.|Milky_Way
+Andromeda Galaxy (M31)|Spiral|Andromeda|2500000|220000|The nearest large galaxy, visible to the naked eye; may merge with the Milky Way in ~4–5 billion years.|Andromeda_Galaxy
+Triangulum Galaxy (M33)|Spiral|Triangulum|2730000|60000|Third-largest Local Group galaxy.|Triangulum_Galaxy
+Large Magellanic Cloud|Irregular|Dorado|160000|32000|Satellite galaxy hosting the Tarantula Nebula and SN 1987A.|Large_Magellanic_Cloud
+Small Magellanic Cloud|Dwarf irregular|Tucana|200000|19000|Companion of the LMC, being torn apart.|Small_Magellanic_Cloud
+Sagittarius Dwarf|Dwarf spheroidal|Sagittarius|70000|10000|Being shredded by the Milky Way; its passages may have triggered spiral arms.|Sagittarius_Dwarf_Spheroidal_Galaxy
+Whirlpool Galaxy (M51)|Spiral (interacting)|Canes Venatici|23000000|76000|Classic grand-design spiral tugging on a companion.|Whirlpool_Galaxy
+Sombrero Galaxy (M104)|Spiral/lenticular|Virgo|31000000|50000|A bright bulge and dust lane like a hat; JWST showed its clumpy ring.|Sombrero_Galaxy
+M87|Giant elliptical|Virgo|53000000|240000|Home of the first black hole ever imaged (2019) and a 5,000-light-year jet.|Messier_87
+Centaurus A|Elliptical (peculiar)|Centaurus|12000000|60000|The nearest active galaxy, with radio lobes a million light-years long.|Centaurus_A
+Cartwheel Galaxy|Ring|Sculptor|500000000|150000|Shaped by a head-on collision with a smaller galaxy.|Cartwheel_Galaxy
+Antennae Galaxies|Merging spirals|Corvus|45000000|500000|Two galaxies colliding, igniting bursts of star formation.|Antennae_Galaxies
+Pinwheel Galaxy (M101)|Spiral|Ursa Major|21000000|170000|Hosted supernova SN 2023ixf, the closest in a decade.|Pinwheel_Galaxy
+Cigar Galaxy (M82)|Starburst|Ursa Major|12000000|37000|Forming stars 10× faster than the Milky Way, blowing out superwinds.|Messier_82
+Hoag's Object|Ring|Serpens|600000000|100000|An almost perfect ring galaxy of unknown origin.|Hoag%27s_Object
+IC 1101|Supergiant elliptical|Virgo|1000000000|4000000|One of the largest galaxies known.|IC_1101
+GN-z11|Early galaxy|Ursa Major|32000000000|1300|Seen 400 million years after the Big Bang, with an active black hole.|GN-z11
+JADES-GS-z14-0|Early galaxy|Fornax|33000000000|1600|Confirmed at z = 14.3 (2024), about 290 million years after the Big Bang.|JADES-GS-z14-0
+MoM-z14|Early galaxy|-|-|-|The most distant confirmed galaxy (z = 14.44), ~280 million years after the Big Bang (2025–26).|MoM-z14
+Dragonfly 44|Ultra-diffuse|Coma Berenices|300000000|60000|A galaxy thought to be mostly dark matter.|Dragonfly_44
+NGC 1052-DF2|Ultra-diffuse|Cetus|65000000|-|Appeared to have almost no dark matter.|NGC_1052-DF2
+Phoenix Cluster|Galaxy cluster|Phoenix|5700000000|-|A cluster with a central galaxy forming stars at a record rate.|Phoenix_Cluster
+Bullet Cluster|Colliding clusters|Carina|3700000000|-|Colliding clusters whose separated mass and gas offer key evidence for dark matter.|Bullet_Cluster
+El Gordo|Colliding clusters|Phoenix|7000000000|-|The largest known distant galaxy cluster.|ACT-CL_J0102%E2%88%924915
+Virgo Cluster|Galaxy cluster|Virgo|54000000|-|Over 1,300 galaxies; centre of our Local Supercluster.|Virgo_Cluster
+Laniakea Supercluster|Supercluster|-|250000000|520000000|Our home supercluster (defined 2014), containing ~100,000 galaxies.|Laniakea_Supercluster
+Hercules–Corona Borealis Great Wall|Structure|-|10000000000|10000000000|Possibly the largest structure known in the universe.|Hercules%E2%80%93Corona_Borealis_Great_Wall
+# Nebulae & clusters|🌫
+Orion Nebula (M42)|Emission nebula|Orion|1344|24|The nearest massive star-forming region, visible to the naked eye.|Orion_Nebula
+Pillars of Creation (Eagle Nebula)|Star-forming pillars|Serpens|6500|4|Iconic columns of gas imaged by Hubble (1995) and JWST (2022).|Pillars_of_Creation
+Crab Nebula (M1)|Supernova remnant|Taurus|6500|11|Remains of the supernova recorded by Chinese astronomers in 1054.|Crab_Nebula
+Carina Nebula|Emission nebula|Carina|8500|460|Home to Eta Carinae; its 'Cosmic Cliffs' were among JWST's first images.|Carina_Nebula
+Ring Nebula (M57)|Planetary nebula|Lyra|2570|2.6|A dying Sun-like star's shell.|Ring_Nebula
+Helix Nebula|Planetary nebula|Aquarius|655|2.9|The 'Eye of God', one of the nearest planetary nebulae.|Helix_Nebula
+Cat's Eye Nebula|Planetary nebula|Draco|3300|0.4|One of the most complex planetary nebulae.|Cat%27s_Eye_Nebula
+Horsehead Nebula|Dark nebula|Orion|1375|3.5|A dark dust cloud shaped like a horse's head.|Horsehead_Nebula
+Tarantula Nebula|Emission nebula|Dorado (LMC)|161000|1000|The most active starburst region in the Local Group.|Tarantula_Nebula
+Lagoon Nebula (M8)|Emission nebula|Sagittarius|4100|110|Bright naked-eye star nursery.|Lagoon_Nebula
+Veil Nebula|Supernova remnant|Cygnus|2400|110|Delicate filaments from a supernova ~10,000 years ago.|Veil_Nebula
+Cassiopeia A|Supernova remnant|Cassiopeia|11000|10|The youngest known Milky Way supernova remnant (~340 years).|Cassiopeia_A
+Pleiades (M45)|Open cluster|Taurus|444|86|The Seven Sisters, a young cluster known to cultures worldwide (Krittika in India).|Pleiades
+Omega Centauri|Globular cluster|Centaurus|17090|150|The largest globular cluster, possibly the core of a swallowed galaxy, hosting an intermediate-mass black hole.|Omega_Centauri
+47 Tucanae|Globular cluster|Tucana|13000|120|A dense ball of ~a million old stars.|47_Tucanae
+Hyades|Open cluster|Taurus|153|30|The nearest open cluster.|Hyades_(star_cluster)

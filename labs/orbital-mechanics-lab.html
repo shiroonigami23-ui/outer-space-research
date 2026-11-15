@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Orbital Mechanics Lab — Outer Space Research</title>
+<style>
+  :root { --bg:#0b1020; --panel:#121a33; --fg:#e8ecf8; --muted:#9aa4c2; --line:#24304f;
+          --a:#6ea8fe; --b:#ff7a90; --t:#f6b94c; --g:#5ad1a4; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; background:var(--bg); color:var(--fg); }
+  header { padding:18px 22px 6px; }
+  h1 { margin:0; font-size:1.35rem; }
+  header p { margin:6px 0 0; color:var(--muted); font-size:.92rem; max-width:70ch; }
+  main { display:grid; grid-template-columns: minmax(0,1fr) 340px; gap:16px; padding:14px 22px 24px; }
+  @media (max-width: 860px) { main { grid-template-columns: 1fr; } }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px; }
+  canvas { width:100%; aspect-ratio:1/1; display:block; border-radius:10px; background:#070b18; }
+  label { display:block; font-size:.85rem; color:var(--muted); margin:12px 0 4px; }
+  select, input[type=range] { width:100%; }
+  select { background:#0b1226; color:var(--fg); border:1px solid var(--line); border-radius:8px; padding:7px; }
+  .row { display:flex; justify-content:space-between; font-variant-numeric: tabular-nums; }
+  table { width:100%; border-collapse:collapse; margin-top:10px; font-size:.9rem; }
+  td { padding:6px 4px; border-bottom:1px solid var(--line); }
+  td:last-child { text-align:right; font-variant-numeric: tabular-nums; font-weight:600; }
+  .btns { display:flex; gap:8px; margin-top:12px; }
+  button { flex:1; background:var(--a); color:#0b1020; border:0; border-radius:8px; padding:9px; font-weight:700; cursor:pointer; }
+  button.alt { background:transparent; color:var(--fg); border:1px solid var(--line); }
+  .legend { display:flex; gap:14px; flex-wrap:wrap; font-size:.82rem; color:var(--muted); margin-top:10px; }
+  .dot { display:inline-block; width:10px; height:10px; border-radius:50%; margin-right:5px; vertical-align:-1px; }
+  .note { font-size:.8rem; color:var(--muted); margin-top:10px; line-height:1.45; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🛰 Orbital Mechanics Lab</h1>
+  <p>Pick a central body and two circular orbits. The lab computes the Hohmann transfer between them
+     (two burns, half an ellipse) and animates the launch window: the target has to be at the right
+     phase angle when you leave.</p>
+</header>
+<main>
+  <div class="card">
+    <canvas id="c" width="900" height="900" aria-label="Orbit animation"></canvas>
+    <div class="legend">
+      <span><span class="dot" style="background:var(--a)"></span>Departure body</span>
+      <span><span class="dot" style="background:var(--b)"></span>Target body</span>
+      <span><span class="dot" style="background:var(--t)"></span>Spacecraft / transfer orbit</span>
+    </div>
+  </div>
+  <div class="card">
+    <label for="preset">Preset</label>
+    <select id="preset">
+      <option value="em">Earth → Mars (Sun)</option>
+      <option value="ev">Venus ↔ Earth (Sun)</option>
+      <option value="ej">Earth → Jupiter (Sun)</option>
+      <option value="lg">LEO 400 km → GEO (Earth)</option>
+      <option value="custom">Custom (Sun)</option>
+    </select>
+
+    <label>Inner orbit radius <span class="row"><span></span><span id="r1v"></span></span></label>
+    <input id="r1" type="range" min="0.3" max="10" step="0.01" value="1">
+    <label>Outer orbit radius <span class="row"><span></span><span id="r2v"></span></span></label>
+    <input id="r2" type="range" min="0.3" max="10" step="0.01" value="1.524">
+    <label>Animation speed</label>
+    <input id="spd" type="range" min="0.2" max="4" step="0.1" value="1">
+
+    <table>
+      <tr><td>Δv₁ (departure burn)</td><td id="dv1"></td></tr>
+      <tr><td>Δv₂ (arrival burn)</td><td id="dv2"></td></tr>
+      <tr><td>Total Δv</td><td id="dvt"></td></tr>
+      <tr><td>Transfer time</td><td id="tof"></td></tr>
+      <tr><td>Target lead angle at launch</td><td id="phase"></td></tr>
+      <tr><td>Launch window repeats every</td><td id="syn"></td></tr>
+      <tr><td>Inner / outer orbital period</td><td id="per"></td></tr>
+    </table>
+    <div class="btns">
+      <button id="go">▶ Launch</button>
+      <button id="reset" class="alt">Reset</button>
+    </div>
+    <p class="note">Assumes circular, coplanar orbits and impulsive burns. Δv and transfer time are the same in either direction. Real missions also pay for
+      escaping the departure planet and being captured at the target. Kepler III: T = 2π√(a³/μ).
+      Part of <a style="color:var(--a)" href="https://github.com/shiroonigami23-ui/outer-space-research">outer-space-research</a>.</p>
+  </div>
+</main>
+<script>
+(() => {
+  const AU = 1.495978707e11, MU_SUN = 1.32712440018e20, MU_EARTH = 3.986004418e14, R_EARTH = 6.371e6;
+  const presets = {
+    em: { sys: "sun", r1: 1.0,   r2: 1.524 },
+    ev: { sys: "sun", r1: 0.723, r2: 1.0 },
+    ej: { sys: "sun", r1: 1.0,   r2: 5.203 },
+    lg: { sys: "earth", r1: (R_EARTH + 400e3) / 1e3, r2: 42164 },
+    custom: { sys: "sun", r1: 1.0, r2: 2.0 },
+  };
+  const $ = id => document.getElementById(id);
+  const cv = $("c"), ctx = cv.getContext("2d");
+  let sys = "sun", t = 0, running = false, launched = false, last = null, trail = [];
+
+  function units() { return sys === "sun" ? { mu: MU_SUN, scale: AU, unit: "AU" } : { mu: MU_EARTH, scale: 1e3, unit: "km" }; }
+  function setSliders(p) {
+    sys = p.sys;
+    const r1 = $("r1"), r2 = $("r2");
+    if (sys === "sun") { for (const r of [r1, r2]) { r.min = 0.3; r.max = 10; r.step = 0.001; } }
+    else { for (const r of [r1, r2]) { r.min = 6600; r.max = 50000; r.step = 1; } }
+    r1.value = p.r1; r2.value = p.r2;
+  }
+  function fmtTime(s) {
+    const d = s / 86400;
+    if (d < 1) return (s / 3600).toFixed(2) + " h";
+    if (d < 800) return d.toFixed(0) + " days";
+    return (d / 365.25).toFixed(2) + " yr";
+  }
+  function compute() {
+    const { mu, scale, unit } = units();
+    let a = +$("r1").value, b = +$("r2").value;
+    if (b <= a) { b = a + (sys === "sun" ? 0.05 : 100); $("r2").value = b; }
+    $("r1v").textContent = a + " " + unit; $("r2v").textContent = b + " " + unit;
+    const r1 = a * scale, r2 = b * scale, at = (r1 + r2) / 2;
+    const v1 = Math.sqrt(mu / r1), v2 = Math.sqrt(mu / r2);
+    const dv1 = v1 * (Math.sqrt(2 * r2 / (r1 + r2)) - 1);
+    const dv2 = v2 * (1 - Math.sqrt(2 * r1 / (r1 + r2)));
+    const tof = Math.PI * Math.sqrt(at ** 3 / mu);
+    const T1 = 2 * Math.PI * Math.sqrt(r1 ** 3 / mu), T2 = 2 * Math.PI * Math.sqrt(r2 ** 3 / mu);
+    const lead = Math.PI - 2 * Math.PI * tof / T2;         // outward transfer
+    const syn = 1 / Math.abs(1 / T1 - 1 / T2);
+    return { a, b, r1, r2, dv1, dv2, tof, T1, T2, lead, syn, e: (r2 - r1) / (r2 + r1) };
+  }
+  function show(m) {
+    $("dv1").textContent = (m.dv1 / 1e3).toFixed(2) + " km/s";
+    $("dv2").textContent = (m.dv2 / 1e3).toFixed(2) + " km/s";
+    $("dvt").textContent = ((m.dv1 + m.dv2) / 1e3).toFixed(2) + " km/s";
+    $("tof").textContent = fmtTime(m.tof);
+    let deg = m.lead * 180 / Math.PI;
+    deg = ((deg + 540) % 360) - 180;
+    $("phase").textContent = deg.toFixed(1) + "°";
+    $("syn").textContent = fmtTime(m.syn);
+    $("per").textContent = fmtTime(m.T1) + " / " + fmtTime(m.T2);
+  }
+  function solveE(M, e) { let E = M; for (let i = 0; i < 25; i++) E -= (E - e * Math.sin(E) - M) / (1 - e * Math.cos(E)); return E; }
+
+  function draw(m) {
+    const W = cv.width, cx = W / 2, cy = W / 2;
+    const px = (W * 0.44) / m.b;
+    ctx.clearRect(0, 0, W, W);
+    // stars
+    ctx.fillStyle = "#1c2645";
+    for (let i = 0; i < 120; i++) { const x = (i * 9973) % W, y = (i * 7919) % W; ctx.fillRect(x, y, 2, 2); }
+    // central body
+    ctx.beginPath(); ctx.fillStyle = sys === "sun" ? "#ffd34d" : "#4f9cf0";
+    ctx.arc(cx, cy, sys === "sun" ? 16 : Math.max(8, R_EARTH / 1e3 * px), 0, 7); ctx.fill();
+    // orbits
+    const ring = (r, col) => { ctx.beginPath(); ctx.strokeStyle = col; ctx.lineWidth = 2; ctx.arc(cx, cy, r * px, 0, 7); ctx.stroke(); };
+    ring(m.a, "#6ea8fe88"); ring(m.b, "#ff7a9088");
+    // transfer ellipse (dashed): periapsis on the inner orbit at angle 0
+    const at = (m.a + m.b) / 2, e = m.e;
+    ctx.setLineDash([8, 8]); ctx.strokeStyle = "#f6b94c66"; ctx.lineWidth = 2; ctx.beginPath();
+    for (let k = 0; k <= 180; k++) {
+      const nu = Math.PI * k / 180, r = at * (1 - e * e) / (1 + e * Math.cos(nu));
+      const x = cx + r * Math.cos(nu) * px, y = cy - r * Math.sin(nu) * px;
+      k ? ctx.lineTo(x, y) : ctx.moveTo(x, y);
+    }
+    ctx.stroke(); ctx.setLineDash([]);
+
+    // departure body starts at angle 0; target leads by the Hohmann phase angle
+    const dep = 2 * Math.PI * t / m.T1, tgt = m.lead + 2 * Math.PI * t / m.T2;
+    const body = (r, ang, col, rad) => { ctx.beginPath(); ctx.fillStyle = col; ctx.arc(cx + r * Math.cos(ang) * px, cy - r * Math.sin(ang) * px, rad, 0, 7); ctx.fill(); };
+    body(m.a, dep, "#6ea8fe", 9); body(m.b, tgt, "#ff7a90", 8);
+
+    if (launched) {
+      const tt = Math.min(t, m.tof);
+      const E = solveE(Math.PI * tt / m.tof, e);   // mean anomaly runs 0 -> pi over the half-orbit
+      const nu = 2 * Math.atan2(Math.sqrt(1 + e) * Math.sin(E / 2), Math.sqrt(1 - e) * Math.cos(E / 2));
+      const r = at * (1 - e * Math.cos(E)), x = r * Math.cos(nu), y = r * Math.sin(nu);
+      trail.push([x, y]);
+      ctx.strokeStyle = "#f6b94c"; ctx.lineWidth = 3; ctx.beginPath();
+      trail.forEach(([u, v], i) => { const X = cx + u * px, Y = cy - v * px; i ? ctx.lineTo(X, Y) : ctx.moveTo(X, Y); });
+      ctx.stroke();
+      ctx.beginPath(); ctx.fillStyle = "#f6b94c"; ctx.arc(cx + x * px, cy - y * px, 6, 0, 7); ctx.fill();
+      if (t >= m.tof) { running = false; ctx.fillStyle = "#5ad1a4"; ctx.font = "bold 26px system-ui"; ctx.fillText("Arrived — rendezvous!", 24, 44); }
+    }
+    ctx.fillStyle = "#9aa4c2"; ctx.font = "22px system-ui";
+    ctx.fillText("t = " + fmtTime(t), 24, W - 24);
+  }
+
+  function frame(ts) {
+    const m = compute();
+    if (running) {
+      if (last != null) t += (ts - last) / 1000 * (m.tof / 6) * +$("spd").value;
+      last = ts;
+    } else last = null;
+    draw(m);
+    requestAnimationFrame(frame);
+  }
+  function reset() { t = 0; trail = []; launched = false; running = false; }
+  $("preset").onchange = e => { setSliders(presets[e.target.value]); reset(); show(compute()); };
+  for (const id of ["r1", "r2"]) $(id).oninput = () => { if ($("preset").value !== "custom" && sys === "sun") $("preset").value = "custom"; reset(); show(compute()); };
+  $("go").onclick = () => { reset(); launched = true; running = true; };
+  $("reset").onclick = reset;
+  setSliders(presets.em); show(compute());
+  if (location.hash === "#launch") { launched = true; running = true; }
+  requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>

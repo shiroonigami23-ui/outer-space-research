@@ -3,6 +3,16 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
+## [3.2.0] - 2026-11-15 — In-depth entries, research panels, auto-sound, larger layout
+
+### Added
+- **In depth** section on every catalog entry (full Wikipedia article in collapsible sections) and a **Research & studies** panel (OpenAlex papers with free PDFs)
+- Sounds auto-load with 'What it sounds like' notes
+- 20 more exoplanets, 16 stars and 20 missions; sound descriptions for every entry (Mars wind, Titan descent, Sputnik beeps, NASA sonifications)
+
+### Changed
+- Fluid, larger layout for tablets and wide screens
+
 ## [3.0.0] - 2026-11-15 — Encyclopedia website
 
 ### Added

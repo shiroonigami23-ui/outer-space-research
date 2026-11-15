@@ -11,7 +11,9 @@
 "wiki": "Sun",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "sun"
+"slug": "sun",
+"sound_desc": "The Sun rings like a bell: SOHO measured acoustic waves bouncing inside it (helioseismology), which, sped up, become an audible low hum.",
+"sound": "Sun sonification SOHO"
 },
 {
 "name": "Proxima Centauri",
@@ -26,7 +28,8 @@
 "wiki": "Proxima_Centauri",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "proxima-centauri"
+"slug": "proxima-centauri",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Alpha Centauri A",
@@ -41,7 +44,8 @@
 "wiki": "Alpha_Centauri",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "alpha-centauri-a"
+"slug": "alpha-centauri-a",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Alpha Centauri B",
@@ -56,7 +60,8 @@
 "wiki": "Alpha_Centauri",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "alpha-centauri-b"
+"slug": "alpha-centauri-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Barnard's Star",
@@ -71,7 +76,8 @@
 "wiki": "Barnard%27s_Star",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "barnards-star"
+"slug": "barnards-star",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Sirius",
@@ -86,7 +92,8 @@
 "wiki": "Sirius",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "sirius"
+"slug": "sirius",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Vega",
@@ -101,7 +108,8 @@
 "wiki": "Vega",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "vega"
+"slug": "vega",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Arcturus",
@@ -116,7 +124,8 @@
 "wiki": "Arcturus",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "arcturus"
+"slug": "arcturus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Capella",
@@ -131,7 +140,8 @@
 "wiki": "Capella",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "capella"
+"slug": "capella",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Rigel",
@@ -146,7 +156,8 @@
 "wiki": "Rigel",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "rigel"
+"slug": "rigel",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Procyon",
@@ -161,7 +172,8 @@
 "wiki": "Procyon",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "procyon"
+"slug": "procyon",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Betelgeuse",
@@ -176,7 +188,8 @@
 "wiki": "Betelgeuse",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "betelgeuse"
+"slug": "betelgeuse",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Achernar",
@@ -191,7 +204,8 @@
 "wiki": "Achernar",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "achernar"
+"slug": "achernar",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Aldebaran",
@@ -206,7 +220,8 @@
 "wiki": "Aldebaran",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "aldebaran"
+"slug": "aldebaran",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Antares",
@@ -221,7 +236,8 @@
 "wiki": "Antares",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "antares"
+"slug": "antares",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Spica",
@@ -236,7 +252,8 @@
 "wiki": "Spica",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "spica"
+"slug": "spica",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Pollux",
@@ -251,7 +268,8 @@
 "wiki": "Pollux_(star)",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "pollux"
+"slug": "pollux",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Fomalhaut",
@@ -266,7 +284,8 @@
 "wiki": "Fomalhaut",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "fomalhaut"
+"slug": "fomalhaut",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Deneb",
@@ -281,7 +300,8 @@
 "wiki": "Deneb",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "deneb"
+"slug": "deneb",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Altair",
@@ -296,7 +316,8 @@
 "wiki": "Altair",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "altair"
+"slug": "altair",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Polaris",
@@ -311,7 +332,8 @@
 "wiki": "Polaris",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "polaris"
+"slug": "polaris",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Canopus",
@@ -326,7 +348,8 @@
 "wiki": "Canopus",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "canopus"
+"slug": "canopus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Regulus",
@@ -341,7 +364,8 @@
 "wiki": "Regulus",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "regulus"
+"slug": "regulus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Mizar and Alcor",
@@ -356,7 +380,8 @@
 "wiki": "Mizar_and_Alcor",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "mizar-and-alcor"
+"slug": "mizar-and-alcor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Algol",
@@ -371,7 +396,8 @@
 "wiki": "Algol",
 "group": "Nearest & brightest stars",
 "emoji": "⭐",
-"slug": "algol"
+"slug": "algol",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "UY Scuti",
@@ -386,7 +412,8 @@
 "wiki": "UY_Scuti",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "uy-scuti"
+"slug": "uy-scuti",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Stephenson 2-18",
@@ -400,7 +427,8 @@
 "wiki": "Stephenson_2-18",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "stephenson-2-18"
+"slug": "stephenson-2-18",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "R136a1",
@@ -415,7 +443,8 @@
 "wiki": "R136a1",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "r136a1"
+"slug": "r136a1",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Eta Carinae",
@@ -430,7 +459,8 @@
 "wiki": "Eta_Carinae",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "eta-carinae"
+"slug": "eta-carinae",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Earendel",
@@ -443,7 +473,8 @@
 "wiki": "Earendel_(star)",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "earendel"
+"slug": "earendel",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Tabby's Star",
@@ -458,7 +489,8 @@
 "wiki": "Tabby%27s_Star",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "tabbys-star"
+"slug": "tabbys-star",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "TRAPPIST-1",
@@ -473,7 +505,8 @@
 "wiki": "TRAPPIST-1",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "trappist-1"
+"slug": "trappist-1",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Wolf-Rayet 104",
@@ -485,7 +518,8 @@
 "wiki": "WR_104",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "wolf-rayet-104"
+"slug": "wolf-rayet-104",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Vela Pulsar",
@@ -499,7 +533,9 @@
 "wiki": "Vela_Pulsar",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "vela-pulsar"
+"slug": "vela-pulsar",
+"sound_desc": "A pulsar's radio pulses, played as sound, make a rhythmic clicking or buzzing; the Vela pulsar ticks 11 times a second.",
+"sound": "pulsar sound"
 },
 {
 "name": "Crab Pulsar",
@@ -513,7 +549,9 @@
 "wiki": "Crab_Pulsar",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "crab-pulsar"
+"slug": "crab-pulsar",
+"sound_desc": "A pulsar's radio pulses, played as sound, make a rhythmic clicking or buzzing; the Vela pulsar ticks 11 times a second.",
+"sound": "pulsar sound"
 },
 {
 "name": "Sirius B",
@@ -528,7 +566,8 @@
 "wiki": "Sirius",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "sirius-b"
+"slug": "sirius-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Przybylski's Star",
@@ -541,7 +580,8 @@
 "wiki": "Przybylski%27s_Star",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "przybylskis-star"
+"slug": "przybylskis-star",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "SGR 1806-20",
@@ -554,7 +594,8 @@
 "wiki": "SGR_1806%E2%88%9220",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "sgr-1806-20"
+"slug": "sgr-1806-20",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Sgr A*",
@@ -566,7 +607,9 @@
 "wiki": "Sagittarius_A*",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "sgr-a"
+"slug": "sgr-a",
+"sound_desc": "NASA's Chandra team sonified the Galactic Centre, turning X-ray, optical and infrared images into a layered musical piece.",
+"sound": "Galactic center sonification"
 },
 {
 "name": "Gaia BH3",
@@ -578,7 +621,8 @@
 "wiki": "Gaia_BH3",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "gaia-bh3"
+"slug": "gaia-bh3",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
 },
 {
 "name": "Cygnus X-1",
@@ -591,6 +635,253 @@
 "wiki": "Cygnus_X-1",
 "group": "Extreme & famous stars",
 "emoji": "💥",
-"slug": "cygnus-x-1"
+"slug": "cygnus-x-1",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology, measured by Kepler and TESS), but no sonification of this star is widely available."
+},
+{
+"name": "Wolf 359",
+"constellation": "Leo",
+"spectral": "M6V",
+"distance_ly": 7.9,
+"radius_sun": 0.14,
+"mass_sun": 0.11,
+"temp_k": 2800,
+"mag": 13.5,
+"summary": "One of the nearest stars, a faint flaring red dwarf.",
+"wiki": "Wolf_359",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "wolf-359",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Lalande 21185",
+"constellation": "Ursa Major",
+"spectral": "M2V",
+"distance_ly": 8.3,
+"radius_sun": 0.39,
+"mass_sun": 0.39,
+"temp_k": 3550,
+"mag": 7.5,
+"summary": "A bright red dwarf with at least two planets.",
+"wiki": "Lalande_21185",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "lalande-21185",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Epsilon Eridani",
+"constellation": "Eridanus",
+"spectral": "K2V",
+"distance_ly": 10.5,
+"radius_sun": 0.74,
+"mass_sun": 0.82,
+"temp_k": 5084,
+"mag": 3.7,
+"summary": "A young Sun-like star with a debris disk and a giant planet.",
+"wiki": "Epsilon_Eridani",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "epsilon-eridani",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Tau Ceti",
+"constellation": "Cetus",
+"spectral": "G8.5V",
+"distance_ly": 11.9,
+"radius_sun": 0.79,
+"mass_sun": 0.78,
+"temp_k": 5344,
+"mag": 3.5,
+"summary": "A nearby Sun-like star with planet candidates.",
+"wiki": "Tau_Ceti",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "tau-ceti",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "61 Cygni",
+"constellation": "Cygnus",
+"spectral": "K5V+K7V",
+"distance_ly": 11.4,
+"radius_sun": 0.67,
+"mass_sun": 0.7,
+"temp_k": 4526,
+"mag": 5.2,
+"summary": "The first star whose distance was measured (Bessel, 1838).",
+"wiki": "61_Cygni",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "61-cygni",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Castor",
+"constellation": "Gemini",
+"spectral": "A1V",
+"distance_ly": 51,
+"radius_sun": 2.4,
+"mass_sun": 2.8,
+"temp_k": 10300,
+"mag": 1.58,
+"summary": "A sextuple star system.",
+"wiki": "Castor_(star)",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "castor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Bellatrix",
+"constellation": "Orion",
+"spectral": "B2III",
+"distance_ly": 250,
+"radius_sun": 5.75,
+"mass_sun": 7.7,
+"temp_k": 21800,
+"mag": 1.64,
+"summary": "Orion's left shoulder.",
+"wiki": "Bellatrix",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "bellatrix",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Alnilam",
+"constellation": "Orion",
+"spectral": "B0Ia",
+"distance_ly": 1200,
+"radius_sun": 42,
+"mass_sun": 40,
+"temp_k": 27500,
+"mag": 1.69,
+"summary": "The middle star of Orion's Belt.",
+"wiki": "Alnilam",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "alnilam",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Mira",
+"constellation": "Cetus",
+"spectral": "M7IIIe",
+"distance_ly": 300,
+"radius_sun": 332,
+"mass_sun": 1.2,
+"temp_k": 2918,
+"mag": 3.5,
+"summary": "The first known variable star, with a 13-light-year comet-like tail.",
+"wiki": "Mira",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "mira",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Hadar",
+"constellation": "Centaurus",
+"spectral": "B1III",
+"distance_ly": 390,
+"radius_sun": 8,
+"mass_sun": 12,
+"temp_k": 25000,
+"mag": 0.61,
+"summary": "A bright blue giant pointer to the Southern Cross.",
+"wiki": "Beta_Centauri",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "hadar",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Acrux",
+"constellation": "Crux",
+"spectral": "B0.5IV",
+"distance_ly": 320,
+"radius_sun": 7.8,
+"mass_sun": 17.8,
+"temp_k": 28000,
+"mag": 0.76,
+"summary": "The brightest star of the Southern Cross.",
+"wiki": "Acrux",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "acrux",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Mintaka",
+"constellation": "Orion",
+"spectral": "O9.5II",
+"distance_ly": 1200,
+"radius_sun": 16.5,
+"mass_sun": 24,
+"temp_k": 29500,
+"mag": 2.23,
+"summary": "The westernmost Belt star, sitting on the celestial equator.",
+"wiki": "Mintaka",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "mintaka",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "VY Canis Majoris",
+"constellation": "Canis Major",
+"spectral": "M3-4II",
+"distance_ly": 3900,
+"radius_sun": 1420,
+"mass_sun": 17,
+"temp_k": 3490,
+"mag": 7.9,
+"summary": "A red hypergiant shedding huge amounts of mass.",
+"wiki": "VY_Canis_Majoris",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "vy-canis-majoris",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Betelgeuse's companion (Siwarha)",
+"constellation": "Orion",
+"distance_ly": 550,
+"mass_sun": 1.5,
+"summary": "A small companion star around Betelgeuse imaged in 2025.",
+"wiki": "Betelgeuse",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "betelgeuses-companion-siwarha",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Magnetar SGR 1935+2154",
+"constellation": "Vulpecula",
+"spectral": "Magnetar",
+"distance_ly": 30000,
+"radius_sun": 1.4e-05,
+"mass_sun": 1.4,
+"summary": "The Milky Way magnetar that produced a fast radio burst in 2020.",
+"wiki": "SGR_1935%2B2154",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "magnetar-sgr-1935-2154",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
+},
+{
+"name": "Swift J1644+57 host",
+"constellation": "Draco",
+"spectral": "Tidal disruption",
+"distance_ly": 3900000000,
+"summary": "A star shredded by a black hole, launching a jet aimed at Earth (2011).",
+"wiki": "Swift_J1644%2B57",
+"group": "Nearest & brightest stars",
+"emoji": "⭐",
+"slug": "swift-j1644-57-host",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Stars do 'ring' with internal sound waves (asteroseismology), but no sonification of this star is widely available."
 }
 ]

@@ -8,7 +8,9 @@
 "wiki": "Milky_Way",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "milky-way"
+"slug": "milky-way",
+"sound_desc": "NASA's Chandra team turned telescope images of this object into sound ('sonification'), mapping brightness and position to pitch and volume.",
+"sound": "Galactic center sonification"
 },
 {
 "name": "Andromeda Galaxy (M31)",
@@ -20,7 +22,8 @@
 "wiki": "Andromeda_Galaxy",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "andromeda-galaxy-m31"
+"slug": "andromeda-galaxy-m31",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Triangulum Galaxy (M33)",
@@ -32,7 +35,8 @@
 "wiki": "Triangulum_Galaxy",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "triangulum-galaxy-m33"
+"slug": "triangulum-galaxy-m33",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Large Magellanic Cloud",
@@ -44,7 +48,8 @@
 "wiki": "Large_Magellanic_Cloud",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "large-magellanic-cloud"
+"slug": "large-magellanic-cloud",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Small Magellanic Cloud",
@@ -56,7 +61,8 @@
 "wiki": "Small_Magellanic_Cloud",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "small-magellanic-cloud"
+"slug": "small-magellanic-cloud",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Sagittarius Dwarf",
@@ -68,7 +74,8 @@
 "wiki": "Sagittarius_Dwarf_Spheroidal_Galaxy",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "sagittarius-dwarf"
+"slug": "sagittarius-dwarf",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Whirlpool Galaxy (M51)",
@@ -80,7 +87,9 @@
 "wiki": "Whirlpool_Galaxy",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "whirlpool-galaxy-m51"
+"slug": "whirlpool-galaxy-m51",
+"sound_desc": "NASA's Chandra team turned telescope images of this object into sound ('sonification'), mapping brightness and position to pitch and volume.",
+"sound": "Whirlpool galaxy sonification"
 },
 {
 "name": "Sombrero Galaxy (M104)",
@@ -92,7 +101,8 @@
 "wiki": "Sombrero_Galaxy",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "sombrero-galaxy-m104"
+"slug": "sombrero-galaxy-m104",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "M87",
@@ -104,7 +114,9 @@
 "wiki": "Messier_87",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "m87"
+"slug": "m87",
+"sound_desc": "NASA's Chandra team turned telescope images of this object into sound ('sonification'), mapping brightness and position to pitch and volume.",
+"sound": "black hole sonification M87"
 },
 {
 "name": "Centaurus A",
@@ -116,7 +128,8 @@
 "wiki": "Centaurus_A",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "centaurus-a"
+"slug": "centaurus-a",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Cartwheel Galaxy",
@@ -128,7 +141,8 @@
 "wiki": "Cartwheel_Galaxy",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "cartwheel-galaxy"
+"slug": "cartwheel-galaxy",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Antennae Galaxies",
@@ -140,7 +154,8 @@
 "wiki": "Antennae_Galaxies",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "antennae-galaxies"
+"slug": "antennae-galaxies",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Pinwheel Galaxy (M101)",
@@ -152,7 +167,8 @@
 "wiki": "Pinwheel_Galaxy",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "pinwheel-galaxy-m101"
+"slug": "pinwheel-galaxy-m101",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Cigar Galaxy (M82)",
@@ -164,7 +180,8 @@
 "wiki": "Messier_82",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "cigar-galaxy-m82"
+"slug": "cigar-galaxy-m82",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Hoag's Object",
@@ -176,7 +193,8 @@
 "wiki": "Hoag%27s_Object",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "hoags-object"
+"slug": "hoags-object",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "IC 1101",
@@ -188,7 +206,8 @@
 "wiki": "IC_1101",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "ic-1101"
+"slug": "ic-1101",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "GN-z11",
@@ -200,7 +219,8 @@
 "wiki": "GN-z11",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "gn-z11"
+"slug": "gn-z11",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "JADES-GS-z14-0",
@@ -212,7 +232,8 @@
 "wiki": "JADES-GS-z14-0",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "jades-gs-z14-0"
+"slug": "jades-gs-z14-0",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "MoM-z14",
@@ -221,7 +242,8 @@
 "wiki": "MoM-z14",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "mom-z14"
+"slug": "mom-z14",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Dragonfly 44",
@@ -233,7 +255,8 @@
 "wiki": "Dragonfly_44",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "dragonfly-44"
+"slug": "dragonfly-44",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "NGC 1052-DF2",
@@ -244,7 +267,8 @@
 "wiki": "NGC_1052-DF2",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "ngc-1052-df2"
+"slug": "ngc-1052-df2",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Phoenix Cluster",
@@ -255,7 +279,8 @@
 "wiki": "Phoenix_Cluster",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "phoenix-cluster"
+"slug": "phoenix-cluster",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Bullet Cluster",
@@ -266,7 +291,9 @@
 "wiki": "Bullet_Cluster",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "bullet-cluster"
+"slug": "bullet-cluster",
+"sound_desc": "NASA's Chandra team turned telescope images of this object into sound ('sonification'), mapping brightness and position to pitch and volume.",
+"sound": "Bullet Cluster sonification"
 },
 {
 "name": "El Gordo",
@@ -277,7 +304,8 @@
 "wiki": "ACT-CL_J0102%E2%88%924915",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "el-gordo"
+"slug": "el-gordo",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Virgo Cluster",
@@ -288,7 +316,8 @@
 "wiki": "Virgo_Cluster",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "virgo-cluster"
+"slug": "virgo-cluster",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Laniakea Supercluster",
@@ -299,7 +328,8 @@
 "wiki": "Laniakea_Supercluster",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "laniakea-supercluster"
+"slug": "laniakea-supercluster",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Hercules–Corona Borealis Great Wall",
@@ -310,7 +340,8 @@
 "wiki": "Hercules%E2%80%93Corona_Borealis_Great_Wall",
 "group": "Galaxies",
 "emoji": "🌌",
-"slug": "hercules-corona-borealis-great-wall"
+"slug": "hercules-corona-borealis-great-wall",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Orion Nebula (M42)",
@@ -322,7 +353,8 @@
 "wiki": "Orion_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "orion-nebula-m42"
+"slug": "orion-nebula-m42",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Pillars of Creation (Eagle Nebula)",
@@ -334,7 +366,9 @@
 "wiki": "Pillars_of_Creation",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "pillars-of-creation-eagle-nebula"
+"slug": "pillars-of-creation-eagle-nebula",
+"sound_desc": "NASA's Chandra team turned telescope images of this object into sound ('sonification'), mapping brightness and position to pitch and volume.",
+"sound": "Pillars of Creation sonification"
 },
 {
 "name": "Crab Nebula (M1)",
@@ -346,7 +380,9 @@
 "wiki": "Crab_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "crab-nebula-m1"
+"slug": "crab-nebula-m1",
+"sound_desc": "NASA's Chandra team turned telescope images of this object into sound ('sonification'), mapping brightness and position to pitch and volume.",
+"sound": "Crab nebula sonification"
 },
 {
 "name": "Carina Nebula",
@@ -358,7 +394,8 @@
 "wiki": "Carina_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "carina-nebula"
+"slug": "carina-nebula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Ring Nebula (M57)",
@@ -370,7 +407,8 @@
 "wiki": "Ring_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "ring-nebula-m57"
+"slug": "ring-nebula-m57",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Helix Nebula",
@@ -382,7 +420,8 @@
 "wiki": "Helix_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "helix-nebula"
+"slug": "helix-nebula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Cat's Eye Nebula",
@@ -394,7 +433,8 @@
 "wiki": "Cat%27s_Eye_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "cats-eye-nebula"
+"slug": "cats-eye-nebula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Horsehead Nebula",
@@ -406,7 +446,8 @@
 "wiki": "Horsehead_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "horsehead-nebula"
+"slug": "horsehead-nebula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Tarantula Nebula",
@@ -418,7 +459,8 @@
 "wiki": "Tarantula_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "tarantula-nebula"
+"slug": "tarantula-nebula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Lagoon Nebula (M8)",
@@ -430,7 +472,8 @@
 "wiki": "Lagoon_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "lagoon-nebula-m8"
+"slug": "lagoon-nebula-m8",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Veil Nebula",
@@ -442,7 +485,8 @@
 "wiki": "Veil_Nebula",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "veil-nebula"
+"slug": "veil-nebula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Cassiopeia A",
@@ -454,7 +498,9 @@
 "wiki": "Cassiopeia_A",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "cassiopeia-a"
+"slug": "cassiopeia-a",
+"sound_desc": "NASA's Chandra team turned telescope images of this object into sound ('sonification'), mapping brightness and position to pitch and volume.",
+"sound": "Cassiopeia A sonification"
 },
 {
 "name": "Pleiades (M45)",
@@ -466,7 +512,8 @@
 "wiki": "Pleiades",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "pleiades-m45"
+"slug": "pleiades-m45",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Omega Centauri",
@@ -478,7 +525,8 @@
 "wiki": "Omega_Centauri",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "omega-centauri"
+"slug": "omega-centauri",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "47 Tucanae",
@@ -490,7 +538,8 @@
 "wiki": "47_Tucanae",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "47-tucanae"
+"slug": "47-tucanae",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 },
 {
 "name": "Hyades",
@@ -502,6 +551,7 @@
 "wiki": "Hyades_(star_cluster)",
 "group": "Nebulae & clusters",
 "emoji": "🌫",
-"slug": "hyades"
+"slug": "hyades",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sonification of this object is widely available yet."
 }
 ]

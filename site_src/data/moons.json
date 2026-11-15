@@ -8,7 +8,9 @@
 "wiki": "Moon",
 "group": "Moons of Earth & Mars",
 "emoji": "🌙",
-"slug": "moon"
+"slug": "moon",
+"sound_desc": "The Moon has no air, so it is silent. Apollo astronauts heard sounds only through their suits and spacecraft; Apollo 10's crew reported eerie 'music' on the far side, later explained as radio interference.",
+"sound": "Apollo 10 far side music"
 },
 {
 "name": "Phobos",
@@ -19,7 +21,9 @@
 "wiki": "Phobos_(moon)",
 "group": "Moons of Earth & Mars",
 "emoji": "🌙",
-"slug": "phobos"
+"slug": "phobos",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Deimos",
@@ -30,7 +34,9 @@
 "wiki": "Deimos_(moon)",
 "group": "Moons of Earth & Mars",
 "emoji": "🌙",
-"slug": "deimos"
+"slug": "deimos",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Io",
@@ -41,7 +47,9 @@
 "wiki": "Io_(moon)",
 "group": "Moons of Jupiter",
 "emoji": "🌕",
-"slug": "io"
+"slug": "io",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Europa",
@@ -52,7 +60,9 @@
 "wiki": "Europa_(moon)",
 "group": "Moons of Jupiter",
 "emoji": "🌕",
-"slug": "europa"
+"slug": "europa",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Ganymede",
@@ -63,7 +73,9 @@
 "wiki": "Ganymede_(moon)",
 "group": "Moons of Jupiter",
 "emoji": "🌕",
-"slug": "ganymede"
+"slug": "ganymede",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Callisto",
@@ -74,7 +86,9 @@
 "wiki": "Callisto_(moon)",
 "group": "Moons of Jupiter",
 "emoji": "🌕",
-"slug": "callisto"
+"slug": "callisto",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Amalthea",
@@ -85,7 +99,9 @@
 "wiki": "Amalthea_(moon)",
 "group": "Moons of Jupiter",
 "emoji": "🌕",
-"slug": "amalthea"
+"slug": "amalthea",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Himalia",
@@ -96,7 +112,9 @@
 "wiki": "Himalia_(moon)",
 "group": "Moons of Jupiter",
 "emoji": "🌕",
-"slug": "himalia"
+"slug": "himalia",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Titan",
@@ -107,7 +125,9 @@
 "wiki": "Titan_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "titan"
+"slug": "titan",
+"sound_desc": "ESA's Huygens probe recorded the sound of its 2.5-hour descent through Titan's thick atmosphere in 2005, the most distant sound ever recorded.",
+"sound": "Huygens Titan descent sound"
 },
 {
 "name": "Enceladus",
@@ -118,7 +138,9 @@
 "wiki": "Enceladus",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "enceladus"
+"slug": "enceladus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Mimas",
@@ -129,7 +151,9 @@
 "wiki": "Mimas_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "mimas"
+"slug": "mimas",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Iapetus",
@@ -140,7 +164,9 @@
 "wiki": "Iapetus_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "iapetus"
+"slug": "iapetus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Rhea",
@@ -151,7 +177,9 @@
 "wiki": "Rhea_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "rhea"
+"slug": "rhea",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Dione",
@@ -162,7 +190,9 @@
 "wiki": "Dione_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "dione"
+"slug": "dione",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Tethys",
@@ -173,7 +203,9 @@
 "wiki": "Tethys_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "tethys"
+"slug": "tethys",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Hyperion",
@@ -184,7 +216,9 @@
 "wiki": "Hyperion_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "hyperion"
+"slug": "hyperion",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Phoebe",
@@ -195,7 +229,9 @@
 "wiki": "Phoebe_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "phoebe"
+"slug": "phoebe",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Pan",
@@ -206,7 +242,9 @@
 "wiki": "Pan_(moon)",
 "group": "Moons of Saturn",
 "emoji": "🪐",
-"slug": "pan"
+"slug": "pan",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Miranda",
@@ -217,7 +255,9 @@
 "wiki": "Miranda_(moon)",
 "group": "Moons of Uranus",
 "emoji": "🧊",
-"slug": "miranda"
+"slug": "miranda",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Ariel",
@@ -228,7 +268,9 @@
 "wiki": "Ariel_(moon)",
 "group": "Moons of Uranus",
 "emoji": "🧊",
-"slug": "ariel"
+"slug": "ariel",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Umbriel",
@@ -239,7 +281,9 @@
 "wiki": "Umbriel_(moon)",
 "group": "Moons of Uranus",
 "emoji": "🧊",
-"slug": "umbriel"
+"slug": "umbriel",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Titania",
@@ -250,7 +294,9 @@
 "wiki": "Titania_(moon)",
 "group": "Moons of Uranus",
 "emoji": "🧊",
-"slug": "titania"
+"slug": "titania",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Oberon",
@@ -261,7 +307,9 @@
 "wiki": "Oberon_(moon)",
 "group": "Moons of Uranus",
 "emoji": "🧊",
-"slug": "oberon"
+"slug": "oberon",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Triton",
@@ -272,7 +320,9 @@
 "wiki": "Triton_(moon)",
 "group": "Moons of Neptune & beyond",
 "emoji": "❄️",
-"slug": "triton"
+"slug": "triton",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Nereid",
@@ -283,7 +333,9 @@
 "wiki": "Nereid_(moon)",
 "group": "Moons of Neptune & beyond",
 "emoji": "❄️",
-"slug": "nereid"
+"slug": "nereid",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Proteus",
@@ -294,7 +346,9 @@
 "wiki": "Proteus_(moon)",
 "group": "Moons of Neptune & beyond",
 "emoji": "❄️",
-"slug": "proteus"
+"slug": "proteus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Charon",
@@ -305,7 +359,9 @@
 "wiki": "Charon_(moon)",
 "group": "Moons of Neptune & beyond",
 "emoji": "❄️",
-"slug": "charon"
+"slug": "charon",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Dysnomia",
@@ -316,7 +372,9 @@
 "wiki": "Dysnomia_(moon)",
 "group": "Moons of Neptune & beyond",
 "emoji": "❄️",
-"slug": "dysnomia"
+"slug": "dysnomia",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Dactyl",
@@ -327,7 +385,9 @@
 "wiki": "Dactyl_(moon)",
 "group": "Moons of Neptune & beyond",
 "emoji": "❄️",
-"slug": "dactyl"
+"slug": "dactyl",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 },
 {
 "name": "Dimorphos",
@@ -338,6 +398,8 @@
 "wiki": "Dimorphos",
 "group": "Moons of Neptune & beyond",
 "emoji": "❄️",
-"slug": "dimorphos"
+"slug": "dimorphos",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. This moon has no thick atmosphere, so no sound has been recorded.",
+"silent": true
 }
 ]

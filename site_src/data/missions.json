@@ -10,7 +10,9 @@
 "wiki": "Sputnik_1",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "sputnik-1"
+"slug": "sputnik-1",
+"sound_desc": "Its famous radio 'beep-beep' at 20 and 40 MHz, heard by radio amateurs worldwide in 1957.",
+"sound": "Sputnik beep"
 },
 {
 "name": "Sputnik 2",
@@ -23,7 +25,8 @@
 "wiki": "Sputnik_2",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "sputnik-2"
+"slug": "sputnik-2",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Explorer 1",
@@ -36,7 +39,8 @@
 "wiki": "Explorer_1",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "explorer-1"
+"slug": "explorer-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Luna 2",
@@ -49,7 +53,8 @@
 "wiki": "Luna_2",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "luna-2"
+"slug": "luna-2",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Luna 3",
@@ -62,7 +67,8 @@
 "wiki": "Luna_3",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "luna-3"
+"slug": "luna-3",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Vostok 1",
@@ -75,7 +81,8 @@
 "wiki": "Vostok_1",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "vostok-1"
+"slug": "vostok-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Mariner 2",
@@ -88,7 +95,8 @@
 "wiki": "Mariner_2",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "mariner-2"
+"slug": "mariner-2",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Mariner 4",
@@ -101,7 +109,8 @@
 "wiki": "Mariner_4",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "mariner-4"
+"slug": "mariner-4",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Luna 9",
@@ -114,7 +123,8 @@
 "wiki": "Luna_9",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "luna-9"
+"slug": "luna-9",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Apollo 8",
@@ -127,7 +137,8 @@
 "wiki": "Apollo_8",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "apollo-8"
+"slug": "apollo-8",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Apollo 11",
@@ -140,7 +151,9 @@
 "wiki": "Apollo_11",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "apollo-11"
+"slug": "apollo-11",
+"sound_desc": "Mission audio: Armstrong's 'That's one small step for [a] man…' from the lunar surface.",
+"sound": "Apollo 11 one small step"
 },
 {
 "name": "Apollo 13",
@@ -153,7 +166,8 @@
 "wiki": "Apollo_13",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "apollo-13"
+"slug": "apollo-13",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Apollo 17",
@@ -166,7 +180,8 @@
 "wiki": "Apollo_17",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "apollo-17"
+"slug": "apollo-17",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Venera 7",
@@ -179,7 +194,8 @@
 "wiki": "Venera_7",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "venera-7"
+"slug": "venera-7",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Mars 3",
@@ -192,7 +208,8 @@
 "wiki": "Mars_3",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "mars-3"
+"slug": "mars-3",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Salyut 1",
@@ -205,7 +222,8 @@
 "wiki": "Salyut_1",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "salyut-1"
+"slug": "salyut-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Aryabhata",
@@ -218,7 +236,8 @@
 "wiki": "Aryabhata_(satellite)",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "aryabhata"
+"slug": "aryabhata",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Viking 1",
@@ -231,7 +250,8 @@
 "wiki": "Viking_1",
 "group": "Firsts & milestones",
 "emoji": "🛰",
-"slug": "viking-1"
+"slug": "viking-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Pioneer 10",
@@ -244,7 +264,8 @@
 "wiki": "Pioneer_10",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "pioneer-10"
+"slug": "pioneer-10",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Voyager 1",
@@ -257,7 +278,9 @@
 "wiki": "Voyager_1",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "voyager-1"
+"slug": "voyager-1",
+"sound_desc": "Carries the Golden Record of Earth sounds; its plasma-wave instrument recorded the 'sound' of interstellar plasma.",
+"sound": "Voyager interstellar plasma sound"
 },
 {
 "name": "Voyager 2",
@@ -270,7 +293,9 @@
 "wiki": "Voyager_2",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "voyager-2"
+"slug": "voyager-2",
+"sound_desc": "Carries the Golden Record; recorded plasma waves around all four giant planets.",
+"sound": "Voyager 2 Uranus sounds"
 },
 {
 "name": "Galileo",
@@ -283,7 +308,8 @@
 "wiki": "Galileo_(spacecraft)",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "galileo"
+"slug": "galileo",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Cassini–Huygens",
@@ -296,7 +322,9 @@
 "wiki": "Cassini%E2%80%93Huygens",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "cassini-huygens"
+"slug": "cassini-huygens",
+"sound_desc": "Cassini recorded Saturn's radio emissions; Huygens recorded its descent on Titan.",
+"sound": "Huygens Titan descent sound"
 },
 {
 "name": "New Horizons",
@@ -309,7 +337,8 @@
 "wiki": "New_Horizons",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "new-horizons"
+"slug": "new-horizons",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Juno",
@@ -322,7 +351,9 @@
 "wiki": "Juno_(spacecraft)",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "juno"
+"slug": "juno",
+"sound_desc": "Recorded radio emissions from Jupiter and Ganymede, released as audio.",
+"sound": "Juno Ganymede sound"
 },
 {
 "name": "Rosetta",
@@ -335,7 +366,8 @@
 "wiki": "Rosetta_(spacecraft)",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "rosetta"
+"slug": "rosetta",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Dawn",
@@ -348,7 +380,8 @@
 "wiki": "Dawn_(spacecraft)",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "dawn"
+"slug": "dawn",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Parker Solar Probe",
@@ -361,7 +394,8 @@
 "wiki": "Parker_Solar_Probe",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "parker-solar-probe"
+"slug": "parker-solar-probe",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "BepiColombo",
@@ -374,7 +408,8 @@
 "wiki": "BepiColombo",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "bepicolombo"
+"slug": "bepicolombo",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "JUICE",
@@ -387,7 +422,8 @@
 "wiki": "Jupiter_Icy_Moons_Explorer",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "juice"
+"slug": "juice",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Europa Clipper",
@@ -400,7 +436,8 @@
 "wiki": "Europa_Clipper",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "europa-clipper"
+"slug": "europa-clipper",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Psyche",
@@ -413,7 +450,8 @@
 "wiki": "Psyche_(spacecraft)",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "psyche"
+"slug": "psyche",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Lucy",
@@ -426,7 +464,8 @@
 "wiki": "Lucy_(spacecraft)",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "lucy"
+"slug": "lucy",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "OSIRIS-REx / OSIRIS-APEX",
@@ -439,7 +478,8 @@
 "wiki": "OSIRIS-REx",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "osiris-rex-osiris-apex"
+"slug": "osiris-rex-osiris-apex",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Hayabusa2",
@@ -452,7 +492,8 @@
 "wiki": "Hayabusa2",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "hayabusa2"
+"slug": "hayabusa2",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "DART",
@@ -465,7 +506,8 @@
 "wiki": "Double_Asteroid_Redirection_Test",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "dart"
+"slug": "dart",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Hera",
@@ -478,7 +520,8 @@
 "wiki": "Hera_(space_mission)",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "hera"
+"slug": "hera",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Tianwen-2",
@@ -491,7 +534,8 @@
 "wiki": "Tianwen-2",
 "group": "Deep space explorers",
 "emoji": "🚀",
-"slug": "tianwen-2"
+"slug": "tianwen-2",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Mangalyaan (Mars Orbiter Mission)",
@@ -504,7 +548,8 @@
 "wiki": "Mars_Orbiter_Mission",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "mangalyaan-mars-orbiter-mission"
+"slug": "mangalyaan-mars-orbiter-mission",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Curiosity",
@@ -517,7 +562,8 @@
 "wiki": "Curiosity_(rover)",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "curiosity"
+"slug": "curiosity",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Perseverance",
@@ -530,7 +576,9 @@
 "wiki": "Perseverance_(rover)",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "perseverance"
+"slug": "perseverance",
+"sound_desc": "Carries two microphones and recorded the first sounds on Mars.",
+"sound": "Perseverance microphone Mars wind"
 },
 {
 "name": "Ingenuity",
@@ -543,7 +591,9 @@
 "wiki": "Ingenuity_(helicopter)",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "ingenuity"
+"slug": "ingenuity",
+"sound_desc": "Perseverance recorded Ingenuity's rotors humming on Mars.",
+"sound": "Ingenuity helicopter sound Mars"
 },
 {
 "name": "Zhurong",
@@ -556,7 +606,8 @@
 "wiki": "Zhurong_(rover)",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "zhurong"
+"slug": "zhurong",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "InSight",
@@ -569,7 +620,8 @@
 "wiki": "InSight",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "insight"
+"slug": "insight",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Chandrayaan-1",
@@ -582,7 +634,8 @@
 "wiki": "Chandrayaan-1",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "chandrayaan-1"
+"slug": "chandrayaan-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Chandrayaan-2",
@@ -595,7 +648,8 @@
 "wiki": "Chandrayaan-2",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "chandrayaan-2"
+"slug": "chandrayaan-2",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Chandrayaan-3",
@@ -608,7 +662,8 @@
 "wiki": "Chandrayaan-3",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "chandrayaan-3"
+"slug": "chandrayaan-3",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Chang'e 4",
@@ -621,7 +676,8 @@
 "wiki": "Chang%27e_4",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "change-4"
+"slug": "change-4",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Chang'e 5",
@@ -634,7 +690,8 @@
 "wiki": "Chang%27e_5",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "change-5"
+"slug": "change-5",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Chang'e 6",
@@ -647,7 +704,8 @@
 "wiki": "Chang%27e_6",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "change-6"
+"slug": "change-6",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "SLIM",
@@ -660,7 +718,8 @@
 "wiki": "Smart_Lander_for_Investigating_Moon",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "slim"
+"slug": "slim",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Intuitive Machines IM-1",
@@ -673,7 +732,8 @@
 "wiki": "IM-1",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "intuitive-machines-im-1"
+"slug": "intuitive-machines-im-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Blue Ghost Mission 1",
@@ -686,7 +746,8 @@
 "wiki": "Blue_Ghost_Mission_1",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "blue-ghost-mission-1"
+"slug": "blue-ghost-mission-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Artemis I",
@@ -699,7 +760,8 @@
 "wiki": "Artemis_I",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "artemis-i"
+"slug": "artemis-i",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Artemis II",
@@ -712,7 +774,8 @@
 "wiki": "Artemis_II",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "artemis-ii"
+"slug": "artemis-ii",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Aditya-L1",
@@ -725,7 +788,8 @@
 "wiki": "Aditya-L1",
 "group": "Mars & Moon",
 "emoji": "🔴",
-"slug": "aditya-l1"
+"slug": "aditya-l1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "V-2",
@@ -738,7 +802,8 @@
 "wiki": "V-2_rocket",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "v-2"
+"slug": "v-2",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "R-7 Semyorka / Soyuz",
@@ -751,7 +816,8 @@
 "wiki": "R-7_Semyorka",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "r-7-semyorka-soyuz"
+"slug": "r-7-semyorka-soyuz",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Saturn V",
@@ -764,7 +830,9 @@
 "wiki": "Saturn_V",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "saturn-v"
+"slug": "saturn-v",
+"sound_desc": "The loudest rocket ever flown, about 204 dB near the pad.",
+"sound": "Saturn V launch sound"
 },
 {
 "name": "Space Shuttle",
@@ -777,7 +845,8 @@
 "wiki": "Space_Shuttle",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "space-shuttle"
+"slug": "space-shuttle",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Falcon 9",
@@ -790,7 +859,9 @@
 "wiki": "Falcon_9",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "falcon-9"
+"slug": "falcon-9",
+"sound_desc": "Launch roar and sonic booms as boosters return to land.",
+"sound": "Falcon 9 sonic boom"
 },
 {
 "name": "Falcon Heavy",
@@ -803,7 +874,8 @@
 "wiki": "Falcon_Heavy",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "falcon-heavy"
+"slug": "falcon-heavy",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Starship",
@@ -816,7 +888,8 @@
 "wiki": "SpaceX_Starship",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "starship"
+"slug": "starship",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "SLS",
@@ -829,7 +902,8 @@
 "wiki": "Space_Launch_System",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "sls"
+"slug": "sls",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "PSLV",
@@ -842,7 +916,8 @@
 "wiki": "Polar_Satellite_Launch_Vehicle",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "pslv"
+"slug": "pslv",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "GSLV Mk III / LVM3",
@@ -855,7 +930,8 @@
 "wiki": "LVM3",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "gslv-mk-iii-lvm3"
+"slug": "gslv-mk-iii-lvm3",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Long March 5",
@@ -868,7 +944,8 @@
 "wiki": "Long_March_5",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "long-march-5"
+"slug": "long-march-5",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Ariane 6",
@@ -881,7 +958,8 @@
 "wiki": "Ariane_6",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "ariane-6"
+"slug": "ariane-6",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "New Glenn",
@@ -894,7 +972,8 @@
 "wiki": "New_Glenn",
 "group": "Rockets",
 "emoji": "🚀",
-"slug": "new-glenn"
+"slug": "new-glenn",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "International Space Station",
@@ -907,7 +986,8 @@
 "wiki": "International_Space_Station",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "international-space-station"
+"slug": "international-space-station",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Tiangong",
@@ -920,7 +1000,8 @@
 "wiki": "Tiangong_space_station",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "tiangong"
+"slug": "tiangong",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Mir",
@@ -933,7 +1014,8 @@
 "wiki": "Mir",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "mir"
+"slug": "mir",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Skylab",
@@ -946,7 +1028,8 @@
 "wiki": "Skylab",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "skylab"
+"slug": "skylab",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "GPS",
@@ -959,7 +1042,8 @@
 "wiki": "Global_Positioning_System",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "gps"
+"slug": "gps",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "NavIC",
@@ -972,7 +1056,8 @@
 "wiki": "Indian_Regional_Navigation_Satellite_System",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "navic"
+"slug": "navic",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Landsat",
@@ -985,7 +1070,8 @@
 "wiki": "Landsat_program",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "landsat"
+"slug": "landsat",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Starlink",
@@ -998,7 +1084,8 @@
 "wiki": "Starlink",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "starlink"
+"slug": "starlink",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "NISAR",
@@ -1011,7 +1098,8 @@
 "wiki": "NISAR_(satellite)",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "nisar"
+"slug": "nisar",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 },
 {
 "name": "Telstar 1",
@@ -1024,6 +1112,287 @@
 "wiki": "Telstar_1",
 "group": "Satellites & stations",
 "emoji": "🛰",
-"slug": "telstar-1"
+"slug": "telstar-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Mariner 10",
+"agency": "USA",
+"launch": 1973,
+"target": "Venus, Mercury",
+"mtype": "Flyby",
+"status": "Completed",
+"summary": "First gravity assist and first Mercury flyby.",
+"wiki": "Mariner_10",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "mariner-10",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "MESSENGER",
+"agency": "USA",
+"launch": 2004,
+"target": "Mercury",
+"mtype": "Orbiter",
+"status": "Completed 2015",
+"summary": "First Mercury orbiter; found water ice in polar craters.",
+"wiki": "MESSENGER",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "messenger",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Magellan",
+"agency": "USA",
+"launch": 1989,
+"target": "Venus",
+"mtype": "Orbiter",
+"status": "Completed 1994",
+"summary": "Radar-mapped 98% of Venus's surface.",
+"wiki": "Magellan_(spacecraft)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "magellan",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Venus Express",
+"agency": "ESA",
+"launch": 2005,
+"target": "Venus",
+"mtype": "Orbiter",
+"status": "Completed 2014",
+"summary": "Studied Venus's atmosphere and possible active volcanism.",
+"wiki": "Venus_Express",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "venus-express",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Akatsuki",
+"agency": "JAXA",
+"launch": 2010,
+"target": "Venus",
+"mtype": "Orbiter",
+"status": "Ended 2024",
+"summary": "Reached Venus orbit at the second attempt after five years.",
+"wiki": "Akatsuki_(spacecraft)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "akatsuki",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Mars Reconnaissance Orbiter",
+"agency": "USA",
+"launch": 2005,
+"target": "Mars",
+"mtype": "Orbiter",
+"status": "Operating",
+"summary": "HiRISE camera images Mars at ~30 cm resolution.",
+"wiki": "Mars_Reconnaissance_Orbiter",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "mars-reconnaissance-orbiter",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "MAVEN",
+"agency": "USA",
+"launch": 2013,
+"target": "Mars",
+"mtype": "Orbiter",
+"status": "Operating",
+"summary": "Showed how Mars lost its atmosphere to the solar wind.",
+"wiki": "MAVEN",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "maven",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Tianwen-1",
+"agency": "CNSA",
+"launch": 2020,
+"target": "Mars",
+"mtype": "Orbiter/lander/rover",
+"status": "Operating",
+"summary": "China's first Mars mission, delivering Zhurong.",
+"wiki": "Tianwen-1",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "tianwen-1",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Hope (Emirates Mars Mission)",
+"agency": "UAE",
+"launch": 2020,
+"target": "Mars",
+"mtype": "Orbiter",
+"status": "Operating",
+"summary": "The Arab world's first interplanetary mission.",
+"wiki": "Emirates_Mars_Mission",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "hope-emirates-mars-mission",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Spirit",
+"agency": "USA",
+"launch": 2003,
+"target": "Mars",
+"mtype": "Rover",
+"status": "Ended 2010",
+"summary": "Found evidence of hot springs on Mars.",
+"wiki": "Spirit_(rover)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "spirit",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Opportunity",
+"agency": "USA",
+"launch": 2003,
+"target": "Mars",
+"mtype": "Rover",
+"status": "Ended 2018",
+"summary": "Planned for 90 days, it drove for nearly 15 years.",
+"wiki": "Opportunity_(rover)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "opportunity",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Sojourner",
+"agency": "USA",
+"launch": 1996,
+"target": "Mars",
+"mtype": "Rover",
+"status": "Ended 1997",
+"summary": "The first rover on another planet.",
+"wiki": "Sojourner_(rover)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "sojourner",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Giotto",
+"agency": "ESA",
+"launch": 1985,
+"target": "Halley's Comet",
+"mtype": "Flyby",
+"status": "Completed",
+"summary": "First close images of a comet nucleus (1986).",
+"wiki": "Giotto_(spacecraft)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "giotto",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Stardust",
+"agency": "USA",
+"launch": 1999,
+"target": "Comet Wild 2",
+"mtype": "Sample return",
+"status": "Completed 2006",
+"summary": "Returned comet dust and interstellar dust.",
+"wiki": "Stardust_(spacecraft)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "stardust",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Deep Impact",
+"agency": "USA",
+"launch": 2005,
+"target": "Comet Tempel 1",
+"mtype": "Impactor",
+"status": "Completed",
+"summary": "Fired an impactor into a comet.",
+"wiki": "Deep_Impact_(spacecraft)",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "deep-impact",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "NEAR Shoemaker",
+"agency": "USA",
+"launch": 1996,
+"target": "Eros",
+"mtype": "Orbiter/lander",
+"status": "Completed 2001",
+"summary": "First to orbit and land on an asteroid.",
+"wiki": "NEAR_Shoemaker",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "near-shoemaker",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Hayabusa",
+"agency": "JAXA",
+"launch": 2003,
+"target": "Itokawa",
+"mtype": "Sample return",
+"status": "Completed 2010",
+"summary": "First asteroid sample return.",
+"wiki": "Hayabusa",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "hayabusa",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "SOHO",
+"agency": "ESA/NASA",
+"launch": 1995,
+"target": "Sun–Earth L1",
+"mtype": "Solar observatory",
+"status": "Operating",
+"summary": "Has found over 5,000 comets.",
+"wiki": "Solar_and_Heliospheric_Observatory",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "soho",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "Solar Orbiter",
+"agency": "ESA/NASA",
+"launch": 2020,
+"target": "Sun",
+"mtype": "Orbiter",
+"status": "Operating",
+"summary": "First images of the Sun's poles (2025).",
+"wiki": "Solar_Orbiter",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "solar-orbiter",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
+},
+{
+"name": "SpaDeX",
+"agency": "ISRO",
+"launch": 2024,
+"target": "Earth orbit",
+"mtype": "Docking demonstration",
+"status": "Completed",
+"summary": "India became the fourth country to dock spacecraft in orbit (2025).",
+"wiki": "SpaDeX",
+"group": "Deep space explorers",
+"emoji": "🚀",
+"slug": "spadex",
+"sound_desc": "Launches produce a thunderous roar on Earth; in space, the spacecraft operates in silence and talks to Earth by radio."
 }
 ]

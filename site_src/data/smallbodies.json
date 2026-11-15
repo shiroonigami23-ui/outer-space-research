@@ -9,7 +9,9 @@
 "wiki": "4_Vesta",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "vesta"
+"slug": "vesta",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Pallas",
@@ -21,7 +23,9 @@
 "wiki": "2_Pallas",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "pallas"
+"slug": "pallas",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Hygiea",
@@ -33,7 +37,9 @@
 "wiki": "10_Hygiea",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "hygiea"
+"slug": "hygiea",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Psyche",
@@ -45,7 +51,9 @@
 "wiki": "16_Psyche",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "psyche"
+"slug": "psyche",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Bennu",
@@ -57,7 +65,9 @@
 "wiki": "101955_Bennu",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "bennu"
+"slug": "bennu",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Ryugu",
@@ -69,7 +79,9 @@
 "wiki": "162173_Ryugu",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "ryugu"
+"slug": "ryugu",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Itokawa",
@@ -81,7 +93,9 @@
 "wiki": "25143_Itokawa",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "itokawa"
+"slug": "itokawa",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Eros",
@@ -93,7 +107,9 @@
 "wiki": "433_Eros",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "eros"
+"slug": "eros",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Apophis",
@@ -105,7 +121,9 @@
 "wiki": "99942_Apophis",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "apophis"
+"slug": "apophis",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Didymos",
@@ -117,7 +135,9 @@
 "wiki": "65803_Didymos",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "didymos"
+"slug": "didymos",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Kamoʻoalewa",
@@ -129,7 +149,9 @@
 "wiki": "469219_Kamo%CA%BBoalewa",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "kamo-oalewa"
+"slug": "kamo-oalewa",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "2024 YR4",
@@ -141,7 +163,9 @@
 "wiki": "2024_YR4",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "2024-yr4"
+"slug": "2024-yr4",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Arrokoth",
@@ -153,7 +177,9 @@
 "wiki": "486958_Arrokoth",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "arrokoth"
+"slug": "arrokoth",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Sedna",
@@ -165,7 +191,9 @@
 "wiki": "90377_Sedna",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "sedna"
+"slug": "sedna",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Gonggong",
@@ -177,7 +205,9 @@
 "wiki": "225088_Gonggong",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "gonggong"
+"slug": "gonggong",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Quaoar",
@@ -189,7 +219,9 @@
 "wiki": "50000_Quaoar",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "quaoar"
+"slug": "quaoar",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Chicxulub impactor",
@@ -200,7 +232,9 @@
 "wiki": "Chicxulub_impactor",
 "group": "Asteroids",
 "emoji": "🪨",
-"slug": "chicxulub-impactor"
+"slug": "chicxulub-impactor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Halley's Comet",
@@ -212,7 +246,9 @@
 "wiki": "Halley%27s_Comet",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "halleys-comet"
+"slug": "halleys-comet",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Comet Hale–Bopp",
@@ -224,7 +260,9 @@
 "wiki": "Comet_Hale%E2%80%93Bopp",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-hale-bopp"
+"slug": "comet-hale-bopp",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Comet 67P/Churyumov–Gerasimenko",
@@ -236,7 +274,9 @@
 "wiki": "67P/Churyumov%E2%80%93Gerasimenko",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-67p-churyumov-gerasimenko"
+"slug": "comet-67p-churyumov-gerasimenko",
+"sound_desc": "The 'singing comet': Rosetta's magnetometer detected oscillations in the magnetic field around 67P at 40–50 millihertz, which, sped up, sound like a strange clicking song.",
+"sound": "singing comet Rosetta"
 },
 {
 "name": "Comet Shoemaker–Levy 9",
@@ -247,7 +287,9 @@
 "wiki": "Comet_Shoemaker%E2%80%93Levy_9",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-shoemaker-levy-9"
+"slug": "comet-shoemaker-levy-9",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Comet NEOWISE",
@@ -259,7 +301,9 @@
 "wiki": "C/2020_F3_(NEOWISE)",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-neowise"
+"slug": "comet-neowise",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Comet Tsuchinshan–ATLAS",
@@ -269,7 +313,9 @@
 "wiki": "C/2023_A3_(Tsuchinshan%E2%80%93ATLAS)",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-tsuchinshan-atlas"
+"slug": "comet-tsuchinshan-atlas",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Comet Tempel 1",
@@ -281,7 +327,9 @@
 "wiki": "Tempel_1",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-tempel-1"
+"slug": "comet-tempel-1",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Comet Wild 2",
@@ -293,7 +341,9 @@
 "wiki": "81P/Wild",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-wild-2"
+"slug": "comet-wild-2",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "Comet Encke",
@@ -305,7 +355,9 @@
 "wiki": "Comet_Encke",
 "group": "Comets",
 "emoji": "☄️",
-"slug": "comet-encke"
+"slug": "comet-encke",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "ʻOumuamua",
@@ -317,7 +369,9 @@
 "wiki": "%CA%BBOumuamua",
 "group": "Interstellar objects",
 "emoji": "🛸",
-"slug": "oumuamua"
+"slug": "oumuamua",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "2I/Borisov",
@@ -329,7 +383,9 @@
 "wiki": "2I/Borisov",
 "group": "Interstellar objects",
 "emoji": "🛸",
-"slug": "2i-borisov"
+"slug": "2i-borisov",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 },
 {
 "name": "3I/ATLAS",
@@ -341,6 +397,8 @@
 "wiki": "3I/ATLAS",
 "group": "Interstellar objects",
 "emoji": "🛸",
-"slug": "3i-atlas"
+"slug": "3i-atlas",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Asteroids and comets make no sound; no recording exists.",
+"silent": true
 }
 ]

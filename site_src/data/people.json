@@ -8,7 +8,9 @@
 "wiki": "Neil_Armstrong",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "neil-armstrong"
+"slug": "neil-armstrong",
+"sound_desc": "Archive mission audio of this astronaut exists.",
+"sound": "Apollo 11 one small step"
 },
 {
 "name": "Buzz Aldrin",
@@ -19,7 +21,8 @@
 "wiki": "Buzz_Aldrin",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "buzz-aldrin"
+"slug": "buzz-aldrin",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Pete Conrad",
@@ -30,7 +33,8 @@
 "wiki": "Pete_Conrad",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "pete-conrad"
+"slug": "pete-conrad",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Alan Bean",
@@ -41,7 +45,8 @@
 "wiki": "Alan_Bean",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "alan-bean"
+"slug": "alan-bean",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Alan Shepard",
@@ -52,7 +57,8 @@
 "wiki": "Alan_Shepard",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "alan-shepard"
+"slug": "alan-shepard",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Edgar Mitchell",
@@ -63,7 +69,8 @@
 "wiki": "Edgar_Mitchell",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "edgar-mitchell"
+"slug": "edgar-mitchell",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "David Scott",
@@ -74,7 +81,8 @@
 "wiki": "David_Scott",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "david-scott"
+"slug": "david-scott",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "James Irwin",
@@ -85,7 +93,8 @@
 "wiki": "James_Irwin",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "james-irwin"
+"slug": "james-irwin",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "John Young",
@@ -96,7 +105,8 @@
 "wiki": "John_Young_(astronaut)",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "john-young"
+"slug": "john-young",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Charles Duke",
@@ -107,7 +117,8 @@
 "wiki": "Charles_Duke",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "charles-duke"
+"slug": "charles-duke",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Eugene Cernan",
@@ -118,7 +129,8 @@
 "wiki": "Eugene_Cernan",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "eugene-cernan"
+"slug": "eugene-cernan",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Harrison Schmitt",
@@ -129,7 +141,8 @@
 "wiki": "Harrison_Schmitt",
 "group": "Moonwalkers",
 "emoji": "👨‍🚀",
-"slug": "harrison-schmitt"
+"slug": "harrison-schmitt",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Yuri Gagarin",
@@ -140,7 +153,9 @@
 "wiki": "Yuri_Gagarin",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "yuri-gagarin"
+"slug": "yuri-gagarin",
+"sound_desc": "Archive mission audio of this astronaut exists.",
+"sound": "Gagarin Poyekhali"
 },
 {
 "name": "Valentina Tereshkova",
@@ -151,7 +166,8 @@
 "wiki": "Valentina_Tereshkova",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "valentina-tereshkova"
+"slug": "valentina-tereshkova",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Alexei Leonov",
@@ -162,7 +178,8 @@
 "wiki": "Alexei_Leonov",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "alexei-leonov"
+"slug": "alexei-leonov",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "John Glenn",
@@ -173,7 +190,9 @@
 "wiki": "John_Glenn",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "john-glenn"
+"slug": "john-glenn",
+"sound_desc": "Archive mission audio of this astronaut exists.",
+"sound": "Friendship 7 audio"
 },
 {
 "name": "Sally Ride",
@@ -184,7 +203,8 @@
 "wiki": "Sally_Ride",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "sally-ride"
+"slug": "sally-ride",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Svetlana Savitskaya",
@@ -195,7 +215,8 @@
 "wiki": "Svetlana_Savitskaya",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "svetlana-savitskaya"
+"slug": "svetlana-savitskaya",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Valeri Polyakov",
@@ -206,7 +227,8 @@
 "wiki": "Valeri_Polyakov",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "valeri-polyakov"
+"slug": "valeri-polyakov",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Yang Liwei",
@@ -217,7 +239,8 @@
 "wiki": "Yang_Liwei",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "yang-liwei"
+"slug": "yang-liwei",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Peggy Whitson",
@@ -228,7 +251,8 @@
 "wiki": "Peggy_Whitson",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "peggy-whitson"
+"slug": "peggy-whitson",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Oleg Kononenko",
@@ -239,7 +263,8 @@
 "wiki": "Oleg_Kononenko",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "oleg-kononenko"
+"slug": "oleg-kononenko",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Christina Koch",
@@ -250,7 +275,8 @@
 "wiki": "Christina_Koch",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "christina-koch"
+"slug": "christina-koch",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Victor Glover",
@@ -261,7 +287,8 @@
 "wiki": "Victor_Glover",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "victor-glover"
+"slug": "victor-glover",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Jeremy Hansen",
@@ -272,7 +299,8 @@
 "wiki": "Jeremy_Hansen",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "jeremy-hansen"
+"slug": "jeremy-hansen",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Reid Wiseman",
@@ -283,7 +311,8 @@
 "wiki": "Reid_Wiseman",
 "group": "Space pioneers",
 "emoji": "🧑‍🚀",
-"slug": "reid-wiseman"
+"slug": "reid-wiseman",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Rakesh Sharma",
@@ -294,7 +323,8 @@
 "wiki": "Rakesh_Sharma",
 "group": "Indian astronauts",
 "emoji": "🇮🇳",
-"slug": "rakesh-sharma"
+"slug": "rakesh-sharma",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Kalpana Chawla",
@@ -305,7 +335,8 @@
 "wiki": "Kalpana_Chawla",
 "group": "Indian astronauts",
 "emoji": "🇮🇳",
-"slug": "kalpana-chawla"
+"slug": "kalpana-chawla",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Sunita Williams",
@@ -316,7 +347,8 @@
 "wiki": "Sunita_Williams",
 "group": "Indian astronauts",
 "emoji": "🇮🇳",
-"slug": "sunita-williams"
+"slug": "sunita-williams",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Shubhanshu Shukla",
@@ -327,7 +359,8 @@
 "wiki": "Shubhanshu_Shukla",
 "group": "Indian astronauts",
 "emoji": "🇮🇳",
-"slug": "shubhanshu-shukla"
+"slug": "shubhanshu-shukla",
+"sound_desc": "Mission audio may exist in NASA or agency archives."
 },
 {
 "name": "Fruit flies (1947)",
@@ -338,7 +371,9 @@
 "wiki": "Animals_in_space",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "fruit-flies-1947"
+"slug": "fruit-flies-1947",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Albert II",
@@ -349,7 +384,9 @@
 "wiki": "Albert_II_(monkey)",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "albert-ii"
+"slug": "albert-ii",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Laika",
@@ -360,7 +397,9 @@
 "wiki": "Laika",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "laika"
+"slug": "laika",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Belka and Strelka",
@@ -371,7 +410,9 @@
 "wiki": "Belka_and_Strelka",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "belka-and-strelka"
+"slug": "belka-and-strelka",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Ham the chimp",
@@ -382,7 +423,9 @@
 "wiki": "Ham_(chimpanzee)",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "ham-the-chimp"
+"slug": "ham-the-chimp",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Félicette",
@@ -393,7 +436,9 @@
 "wiki": "F%C3%A9licette",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "f-licette"
+"slug": "f-licette",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Zond 5 tortoises",
@@ -404,7 +449,9 @@
 "wiki": "Zond_5",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "zond-5-tortoises"
+"slug": "zond-5-tortoises",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Arabella and Anita",
@@ -415,7 +462,9 @@
 "wiki": "Arabella_(spider)",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "arabella-and-anita"
+"slug": "arabella-and-anita",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Tardigrades (FOTON-M3)",
@@ -426,7 +475,9 @@
 "wiki": "Tardigrade",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "tardigrades-foton-m3"
+"slug": "tardigrades-foton-m3",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Mice on the ISS",
@@ -437,7 +488,9 @@
 "wiki": "Animals_in_space",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "mice-on-the-iss"
+"slug": "mice-on-the-iss",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Medaka fish",
@@ -448,7 +501,9 @@
 "wiki": "Japanese_rice_fish",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "medaka-fish"
+"slug": "medaka-fish",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 },
 {
 "name": "Jellyfish (STS-40)",
@@ -459,6 +514,8 @@
 "wiki": "Animals_in_space",
 "group": "Animals in space",
 "emoji": "🐒",
-"slug": "jellyfish-sts-40"
+"slug": "jellyfish-sts-40",
+"sound_desc": "No recordings of this animal from its flight are widely available.",
+"silent": true
 }
 ]

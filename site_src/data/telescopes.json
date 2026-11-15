@@ -9,7 +9,9 @@
 "wiki": "Hans_Lipperhey",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "lippersheys-spyglass"
+"slug": "lippersheys-spyglass",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Galileo's telescope",
@@ -21,7 +23,9 @@
 "wiki": "Galileo%27s_telescope",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "galileos-telescope"
+"slug": "galileos-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Kepler's telescope",
@@ -32,7 +36,9 @@
 "wiki": "Keplerian_telescope",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "keplers-telescope"
+"slug": "keplers-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Newton's reflector",
@@ -44,7 +50,9 @@
 "wiki": "Newtonian_telescope",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "newtons-reflector"
+"slug": "newtons-reflector",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Herschel's 40-foot telescope",
@@ -56,7 +64,9 @@
 "wiki": "Herschel%27s_40-foot_telescope",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "herschels-40-foot-telescope"
+"slug": "herschels-40-foot-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Jantar Mantar",
@@ -67,7 +77,9 @@
 "wiki": "Jantar_Mantar,_Jaipur",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "jantar-mantar"
+"slug": "jantar-mantar",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Leviathan of Parsonstown",
@@ -79,7 +91,9 @@
 "wiki": "Leviathan_of_Parsonstown",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "leviathan-of-parsonstown"
+"slug": "leviathan-of-parsonstown",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Yerkes refractor",
@@ -91,7 +105,9 @@
 "wiki": "Yerkes_Observatory",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "yerkes-refractor"
+"slug": "yerkes-refractor",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Hooker Telescope",
@@ -103,7 +119,9 @@
 "wiki": "Hooker_Telescope",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "hooker-telescope"
+"slug": "hooker-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Hale Telescope",
@@ -115,7 +133,9 @@
 "wiki": "Hale_Telescope",
 "group": "Early telescopes & observatories",
 "emoji": "🔭",
-"slug": "hale-telescope"
+"slug": "hale-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Keck Observatory",
@@ -127,7 +147,9 @@
 "wiki": "W._M._Keck_Observatory",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "keck-observatory"
+"slug": "keck-observatory",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Very Large Telescope",
@@ -139,7 +161,9 @@
 "wiki": "Very_Large_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "very-large-telescope"
+"slug": "very-large-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Gran Telescopio Canarias",
@@ -151,7 +175,9 @@
 "wiki": "Gran_Telescopio_Canarias",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "gran-telescopio-canarias"
+"slug": "gran-telescopio-canarias",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Extremely Large Telescope",
@@ -163,7 +189,9 @@
 "wiki": "Extremely_Large_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "extremely-large-telescope"
+"slug": "extremely-large-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Thirty Meter Telescope",
@@ -174,7 +202,9 @@
 "wiki": "Thirty_Meter_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "thirty-meter-telescope"
+"slug": "thirty-meter-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Vera C. Rubin Observatory",
@@ -186,7 +216,9 @@
 "wiki": "Vera_C._Rubin_Observatory",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "vera-c-rubin-observatory"
+"slug": "vera-c-rubin-observatory",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Arecibo Telescope",
@@ -198,7 +230,9 @@
 "wiki": "Arecibo_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "arecibo-telescope"
+"slug": "arecibo-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "FAST",
@@ -210,7 +244,9 @@
 "wiki": "Five-hundred-meter_Aperture_Spherical_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "fast"
+"slug": "fast",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Giant Metrewave Radio Telescope",
@@ -222,7 +258,9 @@
 "wiki": "Giant_Metrewave_Radio_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "giant-metrewave-radio-telescope"
+"slug": "giant-metrewave-radio-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "ALMA",
@@ -234,7 +272,9 @@
 "wiki": "Atacama_Large_Millimeter_Array",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "alma"
+"slug": "alma",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Event Horizon Telescope",
@@ -245,7 +285,9 @@
 "wiki": "Event_Horizon_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "event-horizon-telescope"
+"slug": "event-horizon-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Square Kilometre Array",
@@ -256,7 +298,9 @@
 "wiki": "Square_Kilometre_Array",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "square-kilometre-array"
+"slug": "square-kilometre-array",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "LIGO",
@@ -267,7 +311,9 @@
 "wiki": "LIGO",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "ligo"
+"slug": "ligo",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "IceCube",
@@ -278,7 +324,9 @@
 "wiki": "IceCube_Neutrino_Observatory",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "icecube"
+"slug": "icecube",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Devasthal Optical Telescope",
@@ -290,7 +338,9 @@
 "wiki": "Devasthal_Optical_Telescope",
 "group": "Modern ground observatories",
 "emoji": "🏔",
-"slug": "devasthal-optical-telescope"
+"slug": "devasthal-optical-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Hubble Space Telescope",
@@ -302,7 +352,9 @@
 "wiki": "Hubble_Space_Telescope",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "hubble-space-telescope"
+"slug": "hubble-space-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "James Webb Space Telescope",
@@ -314,7 +366,9 @@
 "wiki": "James_Webb_Space_Telescope",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "james-webb-space-telescope"
+"slug": "james-webb-space-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Chandra X-ray Observatory",
@@ -326,7 +380,9 @@
 "wiki": "Chandra_X-ray_Observatory",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "chandra-x-ray-observatory"
+"slug": "chandra-x-ray-observatory",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Spitzer",
@@ -338,7 +394,9 @@
 "wiki": "Spitzer_Space_Telescope",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "spitzer"
+"slug": "spitzer",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Kepler",
@@ -350,7 +408,9 @@
 "wiki": "Kepler_space_telescope",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "kepler"
+"slug": "kepler",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "TESS",
@@ -362,7 +422,9 @@
 "wiki": "Transiting_Exoplanet_Survey_Satellite",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "tess"
+"slug": "tess",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Gaia",
@@ -374,7 +436,9 @@
 "wiki": "Gaia_(spacecraft)",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "gaia"
+"slug": "gaia",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Planck",
@@ -386,7 +450,9 @@
 "wiki": "Planck_(spacecraft)",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "planck"
+"slug": "planck",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Euclid",
@@ -398,7 +464,9 @@
 "wiki": "Euclid_(spacecraft)",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "euclid"
+"slug": "euclid",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "AstroSat",
@@ -409,7 +477,9 @@
 "wiki": "Astrosat",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "astrosat"
+"slug": "astrosat",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "Nancy Grace Roman Space Telescope",
@@ -421,7 +491,9 @@
 "wiki": "Nancy_Grace_Roman_Space_Telescope",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "nancy-grace-roman-space-telescope"
+"slug": "nancy-grace-roman-space-telescope",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 },
 {
 "name": "XRISM",
@@ -432,6 +504,8 @@
 "wiki": "X-Ray_Imaging_and_Spectroscopy_Mission",
 "group": "Space telescopes",
 "emoji": "🛰",
-"slug": "xrism"
+"slug": "xrism",
+"sound_desc": "Radio telescopes 'listen' to the sky, but what they record is radio light, not sound.",
+"silent": true
 }
 ]

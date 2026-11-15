@@ -1,0 +1,66 @@
+@file exoplanets.json
+@fields name|ptype|star|distance_ly|radius_earth|mass_earth|period_days|method|year|summary|wiki
+# Rocky & Earth-size|🌍
+TRAPPIST-1c|Rocky|TRAPPIST-1|40.7|1.1|1.31|2.4|Transit|2016|JWST found it likely has no thick CO₂ atmosphere.|TRAPPIST-1c
+TRAPPIST-1d|Earth-size, inner habitable zone|TRAPPIST-1|40.7|0.79|0.39|4.05|Transit|2016|A small world at the hot edge of the habitable zone.|TRAPPIST-1d
+TRAPPIST-1g|Earth-size, outer habitable zone|TRAPPIST-1|40.7|1.13|1.32|12.4|Transit|2017|Possibly icy.|TRAPPIST-1g
+TRAPPIST-1h|Cold rocky|TRAPPIST-1|40.7|0.76|0.33|18.8|Transit|2017|The outermost known TRAPPIST-1 planet.|TRAPPIST-1h
+LHS 3844 b|Bare rock|LHS 3844|48.5|1.3|-|0.46|Transit|2019|Spitzer showed it has no thick atmosphere, like a hot Moon.|LHS_3844_b
+GJ 486 b|Hot rocky|GJ 486|26|1.3|3.0|1.47|Transit|2021|JWST saw possible water vapour, or starspots.|Gliese_486_b
+Kepler-62f|Super-Earth, habitable zone|Kepler-62|990|1.41|-|267|Transit|2013|Possibly a water world.|Kepler-62f
+Kepler-442b|Super-Earth, habitable zone|Kepler-442|1206|1.34|2.3|112|Transit|2015|One of the most Earth-like candidates by ESI.|Kepler-442b
+Kepler-1649c|Earth-size, habitable zone|Kepler-1649|301|1.06|-|19.5|Transit|2020|Found in re-analysed Kepler data.|Kepler-1649c
+Wolf 1069 b|Earth-mass, habitable zone|Wolf 1069|31|-|1.26|15.6|Radial velocity|2023|A nearby Earth-mass habitable-zone planet.|Wolf_1069_b
+Ross 128 b|Earth-mass, temperate|Ross 128|11|-|1.4|9.9|Radial velocity|2017|Orbits a quiet red dwarf.|Ross_128_b
+GJ 367 b|Ultra-short period|GJ 367|31|0.7|0.63|0.32|Transit|2021|An iron-rich world orbiting in 7.7 hours.|GJ_367_b
+# Gas giants|🪐
+WASP-17b|Puffy hot Jupiter|WASP-17|1300|21|160|3.7|Transit|2009|JWST detected quartz crystals in its clouds.|WASP-17b
+WASP-107b|Puffy warm Neptune|WASP-107|200|10.6|30|5.7|Transit|2017|Low-density planet with sand clouds and an inflated hot interior.|WASP-107b
+WASP-18b|Ultra-hot Jupiter|WASP-18|400|13|3300|0.94|Transit|2009|A massive planet spiralling toward its star.|WASP-18b
+HD 80606 b|Eccentric giant|HD 80606|217|11|1270|111|Radial velocity|2001|Its orbit is so elliptical its temperature swings by hundreds of degrees.|HD_80606_b
+Gliese 436 b|Warm Neptune|Gliese 436|32|4.2|22|2.64|Radial velocity|2004|Trails a comet-like hydrogen tail.|Gliese_436_b
+TOI-849 b|Exposed core|TOI-849|730|3.4|40|0.77|Transit|2020|Possibly the stripped core of a giant planet.|TOI-849_b
+YZ Ceti b|Rocky (radio star interaction)|YZ Ceti|12|-|0.7|2.0|Radial velocity|2017|Radio bursts suggest its magnetic field interacts with the star.|YZ_Ceti
+AF Leporis b|Directly imaged giant|AF Leporis|88|-|1000|8000|Direct imaging|2023|Found by combining Gaia astrometry with imaging.|AF_Leporis_b
+@file stars.json
+@fields name|constellation|spectral|distance_ly|radius_sun|mass_sun|temp_k|mag|summary|wiki
+# Nearest & brightest stars|⭐
+Wolf 359|Leo|M6V|7.9|0.14|0.11|2800|13.5|One of the nearest stars, a faint flaring red dwarf.|Wolf_359
+Lalande 21185|Ursa Major|M2V|8.3|0.39|0.39|3550|7.5|A bright red dwarf with at least two planets.|Lalande_21185
+Epsilon Eridani|Eridanus|K2V|10.5|0.74|0.82|5084|3.7|A young Sun-like star with a debris disk and a giant planet.|Epsilon_Eridani
+Tau Ceti|Cetus|G8.5V|11.9|0.79|0.78|5344|3.5|A nearby Sun-like star with planet candidates.|Tau_Ceti
+61 Cygni|Cygnus|K5V+K7V|11.4|0.67|0.70|4526|5.2|The first star whose distance was measured (Bessel, 1838).|61_Cygni
+Castor|Gemini|A1V|51|2.4|2.8|10300|1.58|A sextuple star system.|Castor_(star)
+Bellatrix|Orion|B2III|250|5.75|7.7|21800|1.64|Orion's left shoulder.|Bellatrix
+Alnilam|Orion|B0Ia|1200|42|40|27500|1.69|The middle star of Orion's Belt.|Alnilam
+Mira|Cetus|M7IIIe|300|332|1.2|2918|3.5|The first known variable star, with a 13-light-year comet-like tail.|Mira
+Hadar|Centaurus|B1III|390|8|12|25000|0.61|A bright blue giant pointer to the Southern Cross.|Beta_Centauri
+Acrux|Crux|B0.5IV|320|7.8|17.8|28000|0.76|The brightest star of the Southern Cross.|Acrux
+Mintaka|Orion|O9.5II|1200|16.5|24|29500|2.23|The westernmost Belt star, sitting on the celestial equator.|Mintaka
+VY Canis Majoris|Canis Major|M3-4II|3900|1420|17|3490|7.9|A red hypergiant shedding huge amounts of mass.|VY_Canis_Majoris
+Betelgeuse's companion (Siwarha)|Orion|-|550|-|1.5|-|-|A small companion star around Betelgeuse imaged in 2025.|Betelgeuse
+Magnetar SGR 1935+2154|Vulpecula|Magnetar|30000|0.000014|1.4|-|-|The Milky Way magnetar that produced a fast radio burst in 2020.|SGR_1935%2B2154
+Swift J1644+57 host|Draco|Tidal disruption|3900000000|-|-|-|-|A star shredded by a black hole, launching a jet aimed at Earth (2011).|Swift_J1644%2B57
+@file missions.json
+@fields name|agency|launch|target|mtype|status|summary|wiki
+# Deep space explorers|🚀
+Mariner 10|USA|1973|Venus, Mercury|Flyby|Completed|First gravity assist and first Mercury flyby.|Mariner_10
+MESSENGER|USA|2004|Mercury|Orbiter|Completed 2015|First Mercury orbiter; found water ice in polar craters.|MESSENGER
+Magellan|USA|1989|Venus|Orbiter|Completed 1994|Radar-mapped 98% of Venus's surface.|Magellan_(spacecraft)
+Venus Express|ESA|2005|Venus|Orbiter|Completed 2014|Studied Venus's atmosphere and possible active volcanism.|Venus_Express
+Akatsuki|JAXA|2010|Venus|Orbiter|Ended 2024|Reached Venus orbit at the second attempt after five years.|Akatsuki_(spacecraft)
+Mars Reconnaissance Orbiter|USA|2005|Mars|Orbiter|Operating|HiRISE camera images Mars at ~30 cm resolution.|Mars_Reconnaissance_Orbiter
+MAVEN|USA|2013|Mars|Orbiter|Operating|Showed how Mars lost its atmosphere to the solar wind.|MAVEN
+Tianwen-1|CNSA|2020|Mars|Orbiter/lander/rover|Operating|China's first Mars mission, delivering Zhurong.|Tianwen-1
+Hope (Emirates Mars Mission)|UAE|2020|Mars|Orbiter|Operating|The Arab world's first interplanetary mission.|Emirates_Mars_Mission
+Spirit|USA|2003|Mars|Rover|Ended 2010|Found evidence of hot springs on Mars.|Spirit_(rover)
+Opportunity|USA|2003|Mars|Rover|Ended 2018|Planned for 90 days, it drove for nearly 15 years.|Opportunity_(rover)
+Sojourner|USA|1996|Mars|Rover|Ended 1997|The first rover on another planet.|Sojourner_(rover)
+Giotto|ESA|1985|Halley's Comet|Flyby|Completed|First close images of a comet nucleus (1986).|Giotto_(spacecraft)
+Stardust|USA|1999|Comet Wild 2|Sample return|Completed 2006|Returned comet dust and interstellar dust.|Stardust_(spacecraft)
+Deep Impact|USA|2005|Comet Tempel 1|Impactor|Completed|Fired an impactor into a comet.|Deep_Impact_(spacecraft)
+NEAR Shoemaker|USA|1996|Eros|Orbiter/lander|Completed 2001|First to orbit and land on an asteroid.|NEAR_Shoemaker
+Hayabusa|JAXA|2003|Itokawa|Sample return|Completed 2010|First asteroid sample return.|Hayabusa
+SOHO|ESA/NASA|1995|Sun–Earth L1|Solar observatory|Operating|Has found over 5,000 comets.|Solar_and_Heliospheric_Observatory
+Solar Orbiter|ESA/NASA|2020|Sun|Orbiter|Operating|First images of the Sun's poles (2025).|Solar_Orbiter
+SpaDeX|ISRO|2024|Earth orbit|Docking demonstration|Completed|India became the fourth country to dock spacecraft in orbit (2025).|SpaDeX

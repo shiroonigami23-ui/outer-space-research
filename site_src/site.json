@@ -2,7 +2,7 @@
  "name": "Outer Space Research",
  "logo": "🌌",
  "kicker": "The space-science encyclopedia",
- "tagline": "From the Big Bang to black holes, from Galileo's telescope to Artemis II: in-depth, sourced articles and 500+ catalog entries on everything in the universe, with real photos, sounds, animated charts and a live mission tracker.",
+ "tagline": "From the Big Bang to black holes, from Galileo's telescope to Artemis II: in-depth, sourced articles and 550+ catalog entries on everything in the universe, with real photos, sounds, animated charts and a live mission tracker.",
  "footer": "An independent space-science encyclopedia built from NASA, ESA, ISRO, JAXA and CNSA data, peer-reviewed papers and observatory releases.",
  "github": "shiroonigami23-ui/outer-space-research",
  "theme_default": "dark",
@@ -30,7 +30,7 @@
    "farthest humans have travelled (Artemis II)"
   ],
   [
-   "513",
+   "593",
    "catalog entries"
   ]
  ],
@@ -305,7 +305,8 @@
     "Planets",
     "Dwarf planets"
    ],
-   "sound_kind": "object"
+   "sound_kind": "object",
+   "studies": true
   },
   {
    "id": "moons",
@@ -383,13 +384,16 @@
     "ref": 1737,
     "refname": "Earth's Moon",
     "label": "name"
-   }
+   },
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "object"
   },
   {
    "id": "stars",
    "icon": "⭐",
    "title": "Stars",
-   "short": "41 notable stars",
+   "short": "57 notable stars",
    "noun": "stars",
    "desc": "The nearest, brightest, biggest and strangest stars: spectral type, distance, size, mass, temperature and brightness.",
    "file": "data/stars.json",
@@ -489,7 +493,8 @@
    "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
    "sounds": true,
    "vocal_groups": [],
-   "sound_kind": "object"
+   "sound_kind": "object",
+   "studies": true
   },
   {
    "id": "objects",
@@ -547,13 +552,15 @@
    "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
    "sounds": true,
    "vocal_groups": [],
-   "sound_kind": "object"
+   "sound_kind": "object",
+   "studies": true,
+   "study_q": null
   },
   {
    "id": "exoplanets",
    "icon": "🌍",
    "title": "Exoplanets",
-   "short": "40 alien worlds",
+   "short": "60 alien worlds",
    "noun": "exoplanets",
    "desc": "Planets around other stars: hot Jupiters, super-Earths, lava worlds, water worlds, circumbinary and rogue planets, with how they were found.",
    "file": "data/exoplanets.json",
@@ -662,7 +669,10 @@
     "ref": 1,
     "refname": "Earth",
     "label": "name"
-   }
+   },
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "object"
   },
   {
    "id": "galaxies",
@@ -737,7 +747,10 @@
      "https://en.wikipedia.org/wiki/{wiki}"
     ]
    ],
-   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "object"
   },
   {
    "id": "smallbodies",
@@ -805,7 +818,10 @@
      "https://en.wikipedia.org/wiki/{wiki}"
     ]
    ],
-   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "object"
   },
   {
    "id": "rocks",
@@ -854,13 +870,16 @@
      "https://en.wikipedia.org/wiki/{wiki}"
     ]
    ],
-   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "object"
   },
   {
    "id": "missions",
    "icon": "🚀",
    "title": "Missions, Rockets & Satellites",
-   "short": "79 spacecraft, rockets, stations",
+   "short": "99 spacecraft, rockets, stations",
    "noun": "missions",
    "desc": "Every era of spaceflight: firsts, deep-space explorers, Moon and Mars missions (including ISRO's), rockets, space stations and satellites.",
    "file": "data/missions.json",
@@ -958,7 +977,8 @@
    "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
    "sounds": true,
    "vocal_groups": [],
-   "sound_kind": "object"
+   "sound_kind": "object",
+   "studies": true
   },
   {
    "id": "people",
@@ -1033,7 +1053,8 @@
    "vocal_groups": [
     "Moonwalkers"
    ],
-   "sound_kind": "person"
+   "sound_kind": "person",
+   "studies": true
   },
   {
    "id": "telescopes",
@@ -1109,7 +1130,10 @@
      "https://en.wikipedia.org/wiki/{wiki}"
     ]
    ],
-   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text"
+   "prompt": "Ultra-realistic astronomical image of {name}, scientifically accurate, as if photographed by a space telescope, deep black background, 16:9, no text",
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "object"
   },
   {
    "id": "constellations",
@@ -1197,7 +1221,10 @@
      "https://en.wikipedia.org/wiki/{wiki}"
     ]
    ],
-   "prompt": "Realistic night-sky photograph of the constellation {name} ({meaning}) with its main stars subtly connected by thin lines, Milky Way background, 16:9, no text"
+   "prompt": "Realistic night-sky photograph of the constellation {name} ({meaning}) with its main stars subtly connected by thin lines, Milky Way background, 16:9, no text",
+   "studies": true,
+   "sounds": true,
+   "sound_kind": "object"
   },
   {
    "id": "papers",
@@ -1275,7 +1302,8 @@
     }
    ],
    "source_tpl": [],
-   "desc": "Landmark and current space-science papers. Read openly licensed ones in the built-in PDF reader, download them, or open the arXiv/publisher PDF in a new tab."
+   "desc": "Landmark and current space-science papers. Read openly licensed ones in the built-in PDF reader, download them, or open the arXiv/publisher PDF in a new tab.",
+   "studies": false
   }
  ],
  "tracker": [

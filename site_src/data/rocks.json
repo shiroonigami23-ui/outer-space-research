@@ -7,7 +7,9 @@
 "wiki": "Chondrite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "chondrite"
+"slug": "chondrite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Carbonaceous chondrite",
@@ -17,7 +19,9 @@
 "wiki": "Carbonaceous_chondrite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "carbonaceous-chondrite"
+"slug": "carbonaceous-chondrite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Achondrite",
@@ -27,7 +31,9 @@
 "wiki": "Achondrite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "achondrite"
+"slug": "achondrite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "HED meteorites",
@@ -37,7 +43,9 @@
 "wiki": "HED_meteorite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "hed-meteorites"
+"slug": "hed-meteorites",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Iron meteorite",
@@ -47,7 +55,9 @@
 "wiki": "Iron_meteorite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "iron-meteorite"
+"slug": "iron-meteorite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Pallasite",
@@ -57,7 +67,9 @@
 "wiki": "Pallasite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "pallasite"
+"slug": "pallasite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Mesosiderite",
@@ -67,7 +79,9 @@
 "wiki": "Mesosiderite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "mesosiderite"
+"slug": "mesosiderite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Martian meteorite",
@@ -77,7 +91,9 @@
 "wiki": "Martian_meteorite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "martian-meteorite"
+"slug": "martian-meteorite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Lunar meteorite",
@@ -87,7 +103,9 @@
 "wiki": "Lunar_meteorite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "lunar-meteorite"
+"slug": "lunar-meteorite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Hoba meteorite",
@@ -97,7 +115,9 @@
 "wiki": "Hoba_meteorite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "hoba-meteorite"
+"slug": "hoba-meteorite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Murchison meteorite",
@@ -107,7 +127,9 @@
 "wiki": "Murchison_meteorite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "murchison-meteorite"
+"slug": "murchison-meteorite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Allende meteorite",
@@ -117,7 +139,9 @@
 "wiki": "Allende_meteorite",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "allende-meteorite"
+"slug": "allende-meteorite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Chelyabinsk meteor",
@@ -127,7 +151,9 @@
 "wiki": "Chelyabinsk_meteor",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "chelyabinsk-meteor"
+"slug": "chelyabinsk-meteor",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Tunguska event",
@@ -137,7 +163,9 @@
 "wiki": "Tunguska_event",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "tunguska-event"
+"slug": "tunguska-event",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Lonar crater",
@@ -147,7 +175,9 @@
 "wiki": "Lonar_Lake",
 "group": "Meteorite types",
 "emoji": "🌠",
-"slug": "lonar-crater"
+"slug": "lonar-crater",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Lunar basalt",
@@ -157,7 +187,9 @@
 "wiki": "Lunar_mare",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "lunar-basalt"
+"slug": "lunar-basalt",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Anorthosite",
@@ -167,7 +199,9 @@
 "wiki": "Anorthosite",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "anorthosite"
+"slug": "anorthosite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "KREEP",
@@ -177,7 +211,9 @@
 "wiki": "KREEP",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "kreep"
+"slug": "kreep",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Regolith",
@@ -187,7 +223,9 @@
 "wiki": "Regolith",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "regolith"
+"slug": "regolith",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Jarosite",
@@ -197,7 +235,9 @@
 "wiki": "Jarosite",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "jarosite"
+"slug": "jarosite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Hematite 'blueberries'",
@@ -207,7 +247,9 @@
 "wiki": "Martian_spherules",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "hematite-blueberries"
+"slug": "hematite-blueberries",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Vivianite and greigite",
@@ -217,7 +259,9 @@
 "wiki": "Cheyava_Falls",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "vivianite-and-greigite"
+"slug": "vivianite-and-greigite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Moissanite",
@@ -227,7 +271,9 @@
 "wiki": "Moissanite",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "moissanite"
+"slug": "moissanite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Tranquillityite",
@@ -237,7 +283,9 @@
 "wiki": "Tranquillityite",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "tranquillityite"
+"slug": "tranquillityite",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Ice VII and exotic ices",
@@ -247,7 +295,9 @@
 "wiki": "Ice_VII",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "ice-vii-and-exotic-ices"
+"slug": "ice-vii-and-exotic-ices",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Tholins",
@@ -257,7 +307,9 @@
 "wiki": "Tholin",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "tholins"
+"slug": "tholins",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 },
 {
 "name": "Diamond planets and space diamonds",
@@ -267,6 +319,8 @@
 "wiki": "Diamond",
 "group": "Space rocks & minerals",
 "emoji": "🪨",
-"slug": "diamond-planets-and-space-diamonds"
+"slug": "diamond-planets-and-space-diamonds",
+"sound_desc": "Rocks make no sound of their own. Meteors can produce rare 'electrophonic' hissing heard at the same moment they are seen.",
+"silent": true
 }
 ]

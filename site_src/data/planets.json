@@ -21,7 +21,8 @@
 "wiki": "Mercury_(planet)",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "mercury"
+"slug": "mercury",
+"sound_desc": "No atmosphere, so no sound. Data from MESSENGER and BepiColombo can be sonified."
 },
 {
 "name": "Venus",
@@ -42,11 +43,12 @@
 "A day is longer than its year",
 "Phosphine detection (2020) is disputed"
 ],
-"sound": "Venus sonification",
+"sound": "Venus sound Venera",
 "wiki": "Venus",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "venus"
+"slug": "venus",
+"sound_desc": "The Soviet Venera 13 and 14 landers (1982) carried microphones and recorded the noise of their own landing and the thick atmosphere. Sound travels well in Venus's dense CO₂ air but the probes lasted only about an hour."
 },
 {
 "name": "Earth",
@@ -66,11 +68,12 @@
 "Densest planet",
 "Only planet not named after a god"
 ],
-"sound": "Earth sounds",
+"sound": "Earth chorus whistler",
 "wiki": "Earth",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "earth"
+"slug": "earth",
+"sound_desc": "Earth 'sings': its magnetosphere produces chorus and whistler radio waves that sound like birdsong and falling whistles when converted to audio."
 },
 {
 "name": "Mars",
@@ -94,7 +97,8 @@
 "wiki": "Mars",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "mars"
+"slug": "mars",
+"sound_desc": "The first real sounds from another planet: Perseverance's microphones recorded Martian wind, the rover's laser zapping rocks and Ingenuity's rotor hum (2021). Sound is quieter on Mars and high pitches travel faster than low ones."
 },
 {
 "name": "Jupiter",
@@ -118,7 +122,8 @@
 "wiki": "Jupiter",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "jupiter"
+"slug": "jupiter",
+"sound_desc": "Radio waves from Jupiter's magnetosphere, recorded by Voyager and Juno and converted to audio, sound like eerie whoops, whistles and crackles."
 },
 {
 "name": "Saturn",
@@ -142,7 +147,8 @@
 "wiki": "Saturn",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "saturn"
+"slug": "saturn",
+"sound_desc": "Cassini recorded Saturn's radio emissions (auroral kilometric radiation), which sound like haunting rising and falling tones."
 },
 {
 "name": "Uranus",
@@ -166,7 +172,8 @@
 "wiki": "Uranus",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "uranus"
+"slug": "uranus",
+"sound_desc": "Voyager 2's plasma-wave instrument recorded electromagnetic waves near Uranus in 1986, converted into eerie whistles."
 },
 {
 "name": "Neptune",
@@ -190,7 +197,8 @@
 "wiki": "Neptune",
 "group": "Planets",
 "emoji": "🪐",
-"slug": "neptune"
+"slug": "neptune",
+"sound_desc": "Voyager 2 plasma-wave recordings from 1989, converted to audio."
 },
 {
 "name": "Pluto",
@@ -214,7 +222,8 @@
 "wiki": "Pluto",
 "group": "Dwarf planets",
 "emoji": "☄️",
-"slug": "pluto"
+"slug": "pluto",
+"sound_desc": "No real sound: Pluto's atmosphere is too thin. New Horizons data has been sonified."
 },
 {
 "name": "Ceres",
@@ -237,7 +246,9 @@
 "wiki": "Ceres_(dwarf_planet)",
 "group": "Dwarf planets",
 "emoji": "☄️",
-"slug": "ceres"
+"slug": "ceres",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No recording or sonification of this dwarf planet is known yet.",
+"silent": true
 },
 {
 "name": "Eris",
@@ -259,7 +270,9 @@
 "wiki": "Eris_(dwarf_planet)",
 "group": "Dwarf planets",
 "emoji": "☄️",
-"slug": "eris"
+"slug": "eris",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No recording or sonification of this dwarf planet is known yet.",
+"silent": true
 },
 {
 "name": "Haumea",
@@ -281,7 +294,9 @@
 "wiki": "Haumea",
 "group": "Dwarf planets",
 "emoji": "☄️",
-"slug": "haumea"
+"slug": "haumea",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No recording or sonification of this dwarf planet is known yet.",
+"silent": true
 },
 {
 "name": "Makemake",
@@ -303,6 +318,8 @@
 "wiki": "Makemake",
 "group": "Dwarf planets",
 "emoji": "☄️",
-"slug": "makemake"
+"slug": "makemake",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No recording or sonification of this dwarf planet is known yet.",
+"silent": true
 }
 ]

@@ -12,7 +12,9 @@
 "wiki": "Proxima_Centauri_b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "proxima-centauri-b"
+"slug": "proxima-centauri-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "TRAPPIST-1e",
@@ -28,7 +30,9 @@
 "wiki": "TRAPPIST-1e",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "trappist-1e"
+"slug": "trappist-1e",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "TRAPPIST-1b",
@@ -44,7 +48,9 @@
 "wiki": "TRAPPIST-1b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "trappist-1b"
+"slug": "trappist-1b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "TRAPPIST-1f",
@@ -60,7 +66,9 @@
 "wiki": "TRAPPIST-1f",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "trappist-1f"
+"slug": "trappist-1f",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Kepler-186f",
@@ -75,7 +83,9 @@
 "wiki": "Kepler-186f",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "kepler-186f"
+"slug": "kepler-186f",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Kepler-452b",
@@ -90,7 +100,9 @@
 "wiki": "Kepler-452b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "kepler-452b"
+"slug": "kepler-452b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Teegarden's Star b",
@@ -105,7 +117,9 @@
 "wiki": "Teegarden%27s_Star_b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "teegardens-star-b"
+"slug": "teegardens-star-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "LHS 1140 b",
@@ -121,7 +135,9 @@
 "wiki": "LHS_1140_b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "lhs-1140-b"
+"slug": "lhs-1140-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "55 Cancri e",
@@ -137,7 +153,9 @@
 "wiki": "55_Cancri_e",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "55-cancri-e"
+"slug": "55-cancri-e",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Kepler-10b",
@@ -153,7 +171,9 @@
 "wiki": "Kepler-10b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "kepler-10b"
+"slug": "kepler-10b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "CoRoT-7b",
@@ -169,7 +189,9 @@
 "wiki": "CoRoT-7b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "corot-7b"
+"slug": "corot-7b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "GJ 1214 b",
@@ -185,7 +207,9 @@
 "wiki": "GJ_1214_b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "gj-1214-b"
+"slug": "gj-1214-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "K2-18 b",
@@ -201,7 +225,9 @@
 "wiki": "K2-18b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "k2-18-b"
+"slug": "k2-18-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Kepler-22b",
@@ -216,7 +242,9 @@
 "wiki": "Kepler-22b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "kepler-22b"
+"slug": "kepler-22b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "LTT 9779 b",
@@ -232,7 +260,9 @@
 "wiki": "LTT_9779_b",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "ltt-9779-b"
+"slug": "ltt-9779-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Barnard's Star b",
@@ -247,7 +277,9 @@
 "wiki": "Barnard%27s_Star",
 "group": "Rocky & Earth-size",
 "emoji": "🌍",
-"slug": "barnards-star-b"
+"slug": "barnards-star-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "51 Pegasi b",
@@ -263,7 +295,9 @@
 "wiki": "51_Pegasi_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "51-pegasi-b"
+"slug": "51-pegasi-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "HD 209458 b",
@@ -279,7 +313,9 @@
 "wiki": "HD_209458_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "hd-209458-b"
+"slug": "hd-209458-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "HD 189733 b",
@@ -295,7 +331,9 @@
 "wiki": "HD_189733_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "hd-189733-b"
+"slug": "hd-189733-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "WASP-12b",
@@ -311,7 +349,9 @@
 "wiki": "WASP-12b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "wasp-12b"
+"slug": "wasp-12b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "WASP-121b",
@@ -327,7 +367,9 @@
 "wiki": "WASP-121b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "wasp-121b"
+"slug": "wasp-121b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "WASP-39b",
@@ -343,7 +385,9 @@
 "wiki": "WASP-39b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "wasp-39b"
+"slug": "wasp-39b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "WASP-76b",
@@ -359,7 +403,9 @@
 "wiki": "WASP-76b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "wasp-76b"
+"slug": "wasp-76b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "KELT-9b",
@@ -375,7 +421,9 @@
 "wiki": "KELT-9b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "kelt-9b"
+"slug": "kelt-9b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "TrES-2b",
@@ -391,7 +439,9 @@
 "wiki": "TrES-2b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "tres-2b"
+"slug": "tres-2b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "HAT-P-7b",
@@ -407,7 +457,9 @@
 "wiki": "HAT-P-7b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "hat-p-7b"
+"slug": "hat-p-7b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Kepler-16b",
@@ -423,7 +475,9 @@
 "wiki": "Kepler-16b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "kepler-16b"
+"slug": "kepler-16b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Kepler-7b",
@@ -439,7 +493,9 @@
 "wiki": "Kepler-7b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "kepler-7b"
+"slug": "kepler-7b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "TOI-3757 b",
@@ -455,7 +511,9 @@
 "wiki": "TOI-3757_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "toi-3757-b"
+"slug": "toi-3757-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "HR 8799 b",
@@ -471,7 +529,9 @@
 "wiki": "HR_8799",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "hr-8799-b"
+"slug": "hr-8799-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Beta Pictoris b",
@@ -487,7 +547,9 @@
 "wiki": "Beta_Pictoris_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "beta-pictoris-b"
+"slug": "beta-pictoris-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "51 Eridani b",
@@ -503,7 +565,9 @@
 "wiki": "51_Eridani_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "51-eridani-b"
+"slug": "51-eridani-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Epsilon Indi Ab",
@@ -519,7 +583,9 @@
 "wiki": "Epsilon_Indi_Ab",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "epsilon-indi-ab"
+"slug": "epsilon-indi-ab",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "TOI-1338 b",
@@ -535,7 +601,9 @@
 "wiki": "TOI-1338_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "toi-1338-b"
+"slug": "toi-1338-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "PSR B1257+12 b",
@@ -550,7 +618,9 @@
 "wiki": "PSR_B1257%2B12",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "psr-b1257-12-b"
+"slug": "psr-b1257-12-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "PSR B1620-26 b",
@@ -565,7 +635,9 @@
 "wiki": "PSR_B1620%E2%88%9226_b",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "psr-b1620-26-b"
+"slug": "psr-b1620-26-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "OGLE-2005-BLG-390Lb",
@@ -580,7 +652,9 @@
 "wiki": "OGLE-2005-BLG-390Lb",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "ogle-2005-blg-390lb"
+"slug": "ogle-2005-blg-390lb",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Rogue planet OTS 44",
@@ -593,7 +667,9 @@
 "wiki": "OTS_44",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "rogue-planet-ots-44"
+"slug": "rogue-planet-ots-44",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "TOI-700 d",
@@ -608,7 +684,9 @@
 "wiki": "TOI-700_d",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "toi-700-d"
+"slug": "toi-700-d",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 },
 {
 "name": "Gliese 581c",
@@ -623,6 +701,361 @@
 "wiki": "Gliese_581c",
 "group": "Gas giants",
 "emoji": "🪐",
-"slug": "gliese-581c"
+"slug": "gliese-581c",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "TRAPPIST-1c",
+"ptype": "Rocky",
+"star": "TRAPPIST-1",
+"distance_ly": 40.7,
+"radius_earth": 1.1,
+"mass_earth": 1.31,
+"period_days": 2.4,
+"method": "Transit",
+"year": 2016,
+"summary": "JWST found it likely has no thick CO₂ atmosphere.",
+"wiki": "TRAPPIST-1c",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "trappist-1c",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "TRAPPIST-1d",
+"ptype": "Earth-size, inner habitable zone",
+"star": "TRAPPIST-1",
+"distance_ly": 40.7,
+"radius_earth": 0.79,
+"mass_earth": 0.39,
+"period_days": 4.05,
+"method": "Transit",
+"year": 2016,
+"summary": "A small world at the hot edge of the habitable zone.",
+"wiki": "TRAPPIST-1d",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "trappist-1d",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "TRAPPIST-1g",
+"ptype": "Earth-size, outer habitable zone",
+"star": "TRAPPIST-1",
+"distance_ly": 40.7,
+"radius_earth": 1.13,
+"mass_earth": 1.32,
+"period_days": 12.4,
+"method": "Transit",
+"year": 2017,
+"summary": "Possibly icy.",
+"wiki": "TRAPPIST-1g",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "trappist-1g",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "TRAPPIST-1h",
+"ptype": "Cold rocky",
+"star": "TRAPPIST-1",
+"distance_ly": 40.7,
+"radius_earth": 0.76,
+"mass_earth": 0.33,
+"period_days": 18.8,
+"method": "Transit",
+"year": 2017,
+"summary": "The outermost known TRAPPIST-1 planet.",
+"wiki": "TRAPPIST-1h",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "trappist-1h",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "LHS 3844 b",
+"ptype": "Bare rock",
+"star": "LHS 3844",
+"distance_ly": 48.5,
+"radius_earth": 1.3,
+"period_days": 0.46,
+"method": "Transit",
+"year": 2019,
+"summary": "Spitzer showed it has no thick atmosphere, like a hot Moon.",
+"wiki": "LHS_3844_b",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "lhs-3844-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "GJ 486 b",
+"ptype": "Hot rocky",
+"star": "GJ 486",
+"distance_ly": 26,
+"radius_earth": 1.3,
+"mass_earth": 3.0,
+"period_days": 1.47,
+"method": "Transit",
+"year": 2021,
+"summary": "JWST saw possible water vapour, or starspots.",
+"wiki": "Gliese_486_b",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "gj-486-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "Kepler-62f",
+"ptype": "Super-Earth, habitable zone",
+"star": "Kepler-62",
+"distance_ly": 990,
+"radius_earth": 1.41,
+"period_days": 267,
+"method": "Transit",
+"year": 2013,
+"summary": "Possibly a water world.",
+"wiki": "Kepler-62f",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "kepler-62f",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "Kepler-442b",
+"ptype": "Super-Earth, habitable zone",
+"star": "Kepler-442",
+"distance_ly": 1206,
+"radius_earth": 1.34,
+"mass_earth": 2.3,
+"period_days": 112,
+"method": "Transit",
+"year": 2015,
+"summary": "One of the most Earth-like candidates by ESI.",
+"wiki": "Kepler-442b",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "kepler-442b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "Kepler-1649c",
+"ptype": "Earth-size, habitable zone",
+"star": "Kepler-1649",
+"distance_ly": 301,
+"radius_earth": 1.06,
+"period_days": 19.5,
+"method": "Transit",
+"year": 2020,
+"summary": "Found in re-analysed Kepler data.",
+"wiki": "Kepler-1649c",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "kepler-1649c",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "Wolf 1069 b",
+"ptype": "Earth-mass, habitable zone",
+"star": "Wolf 1069",
+"distance_ly": 31,
+"mass_earth": 1.26,
+"period_days": 15.6,
+"method": "Radial velocity",
+"year": 2023,
+"summary": "A nearby Earth-mass habitable-zone planet.",
+"wiki": "Wolf_1069_b",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "wolf-1069-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "Ross 128 b",
+"ptype": "Earth-mass, temperate",
+"star": "Ross 128",
+"distance_ly": 11,
+"mass_earth": 1.4,
+"period_days": 9.9,
+"method": "Radial velocity",
+"year": 2017,
+"summary": "Orbits a quiet red dwarf.",
+"wiki": "Ross_128_b",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "ross-128-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "GJ 367 b",
+"ptype": "Ultra-short period",
+"star": "GJ 367",
+"distance_ly": 31,
+"radius_earth": 0.7,
+"mass_earth": 0.63,
+"period_days": 0.32,
+"method": "Transit",
+"year": 2021,
+"summary": "An iron-rich world orbiting in 7.7 hours.",
+"wiki": "GJ_367_b",
+"group": "Rocky & Earth-size",
+"emoji": "🌍",
+"slug": "gj-367-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "WASP-17b",
+"ptype": "Puffy hot Jupiter",
+"star": "WASP-17",
+"distance_ly": 1300,
+"radius_earth": 21,
+"mass_earth": 160,
+"period_days": 3.7,
+"method": "Transit",
+"year": 2009,
+"summary": "JWST detected quartz crystals in its clouds.",
+"wiki": "WASP-17b",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "wasp-17b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "WASP-107b",
+"ptype": "Puffy warm Neptune",
+"star": "WASP-107",
+"distance_ly": 200,
+"radius_earth": 10.6,
+"mass_earth": 30,
+"period_days": 5.7,
+"method": "Transit",
+"year": 2017,
+"summary": "Low-density planet with sand clouds and an inflated hot interior.",
+"wiki": "WASP-107b",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "wasp-107b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "WASP-18b",
+"ptype": "Ultra-hot Jupiter",
+"star": "WASP-18",
+"distance_ly": 400,
+"radius_earth": 13,
+"mass_earth": 3300,
+"period_days": 0.94,
+"method": "Transit",
+"year": 2009,
+"summary": "A massive planet spiralling toward its star.",
+"wiki": "WASP-18b",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "wasp-18b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "HD 80606 b",
+"ptype": "Eccentric giant",
+"star": "HD 80606",
+"distance_ly": 217,
+"radius_earth": 11,
+"mass_earth": 1270,
+"period_days": 111,
+"method": "Radial velocity",
+"year": 2001,
+"summary": "Its orbit is so elliptical its temperature swings by hundreds of degrees.",
+"wiki": "HD_80606_b",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "hd-80606-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "Gliese 436 b",
+"ptype": "Warm Neptune",
+"star": "Gliese 436",
+"distance_ly": 32,
+"radius_earth": 4.2,
+"mass_earth": 22,
+"period_days": 2.64,
+"method": "Radial velocity",
+"year": 2004,
+"summary": "Trails a comet-like hydrogen tail.",
+"wiki": "Gliese_436_b",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "gliese-436-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "TOI-849 b",
+"ptype": "Exposed core",
+"star": "TOI-849",
+"distance_ly": 730,
+"radius_earth": 3.4,
+"mass_earth": 40,
+"period_days": 0.77,
+"method": "Transit",
+"year": 2020,
+"summary": "Possibly the stripped core of a giant planet.",
+"wiki": "TOI-849_b",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "toi-849-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "YZ Ceti b",
+"ptype": "Rocky (radio star interaction)",
+"star": "YZ Ceti",
+"distance_ly": 12,
+"mass_earth": 0.7,
+"period_days": 2.0,
+"method": "Radial velocity",
+"year": 2017,
+"summary": "Radio bursts suggest its magnetic field interacts with the star.",
+"wiki": "YZ_Ceti",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "yz-ceti-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
+},
+{
+"name": "AF Leporis b",
+"ptype": "Directly imaged giant",
+"star": "AF Leporis",
+"distance_ly": 88,
+"mass_earth": 1000,
+"period_days": 8000,
+"method": "Direct imaging",
+"year": 2023,
+"summary": "Found by combining Gaia astrometry with imaging.",
+"wiki": "AF_Leporis_b",
+"group": "Gas giants",
+"emoji": "🪐",
+"slug": "af-leporis-b",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No sound has ever been recorded from an exoplanet; they are known only from starlight.",
+"silent": true
 }
 ]

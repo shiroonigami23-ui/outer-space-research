@@ -10,7 +10,9 @@
 "wiki": "Aries_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "aries"
+"slug": "aries",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Taurus",
@@ -23,7 +25,9 @@
 "wiki": "Taurus_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "taurus"
+"slug": "taurus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Gemini",
@@ -36,7 +40,9 @@
 "wiki": "Gemini_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "gemini"
+"slug": "gemini",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Cancer",
@@ -49,7 +55,9 @@
 "wiki": "Cancer_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "cancer"
+"slug": "cancer",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Leo",
@@ -62,7 +70,9 @@
 "wiki": "Leo_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "leo"
+"slug": "leo",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Virgo",
@@ -75,7 +85,9 @@
 "wiki": "Virgo_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "virgo"
+"slug": "virgo",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Libra",
@@ -88,7 +100,9 @@
 "wiki": "Libra_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "libra"
+"slug": "libra",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Scorpius",
@@ -101,7 +115,9 @@
 "wiki": "Scorpius",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "scorpius"
+"slug": "scorpius",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Ophiuchus",
@@ -114,7 +130,9 @@
 "wiki": "Ophiuchus",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "ophiuchus"
+"slug": "ophiuchus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Sagittarius",
@@ -127,7 +145,9 @@
 "wiki": "Sagittarius_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "sagittarius"
+"slug": "sagittarius",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Capricornus",
@@ -140,7 +160,9 @@
 "wiki": "Capricornus",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "capricornus"
+"slug": "capricornus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Aquarius",
@@ -153,7 +175,9 @@
 "wiki": "Aquarius_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "aquarius"
+"slug": "aquarius",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Pisces",
@@ -166,7 +190,9 @@
 "wiki": "Pisces_(constellation)",
 "group": "Zodiac",
 "emoji": "♈",
-"slug": "pisces"
+"slug": "pisces",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Ursa Major",
@@ -179,7 +205,9 @@
 "wiki": "Ursa_Major",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "ursa-major"
+"slug": "ursa-major",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Ursa Minor",
@@ -192,7 +220,9 @@
 "wiki": "Ursa_Minor",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "ursa-minor"
+"slug": "ursa-minor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Cassiopeia",
@@ -205,7 +235,9 @@
 "wiki": "Cassiopeia_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "cassiopeia"
+"slug": "cassiopeia",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Cepheus",
@@ -218,7 +250,9 @@
 "wiki": "Cepheus_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "cepheus"
+"slug": "cepheus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Draco",
@@ -231,7 +265,9 @@
 "wiki": "Draco_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "draco"
+"slug": "draco",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Cygnus",
@@ -244,7 +280,9 @@
 "wiki": "Cygnus_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "cygnus"
+"slug": "cygnus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Lyra",
@@ -257,7 +295,9 @@
 "wiki": "Lyra",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "lyra"
+"slug": "lyra",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Aquila",
@@ -270,7 +310,9 @@
 "wiki": "Aquila_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "aquila"
+"slug": "aquila",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Perseus",
@@ -283,7 +325,9 @@
 "wiki": "Perseus_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "perseus"
+"slug": "perseus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Andromeda",
@@ -296,7 +340,9 @@
 "wiki": "Andromeda_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "andromeda"
+"slug": "andromeda",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Pegasus",
@@ -309,7 +355,9 @@
 "wiki": "Pegasus_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "pegasus"
+"slug": "pegasus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Auriga",
@@ -322,7 +370,9 @@
 "wiki": "Auriga",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "auriga"
+"slug": "auriga",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Boötes",
@@ -335,7 +385,9 @@
 "wiki": "Bo%C3%B6tes",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "bo-tes"
+"slug": "bo-tes",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Hercules",
@@ -348,7 +400,9 @@
 "wiki": "Hercules_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "hercules"
+"slug": "hercules",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Corona Borealis",
@@ -361,7 +415,9 @@
 "wiki": "Corona_Borealis",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "corona-borealis"
+"slug": "corona-borealis",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Canes Venatici",
@@ -374,7 +430,9 @@
 "wiki": "Canes_Venatici",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "canes-venatici"
+"slug": "canes-venatici",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Coma Berenices",
@@ -387,7 +445,9 @@
 "wiki": "Coma_Berenices",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "coma-berenices"
+"slug": "coma-berenices",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Lynx",
@@ -400,7 +460,9 @@
 "wiki": "Lynx_(constellation)",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "lynx"
+"slug": "lynx",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Camelopardalis",
@@ -413,7 +475,9 @@
 "wiki": "Camelopardalis",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "camelopardalis"
+"slug": "camelopardalis",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Leo Minor",
@@ -426,7 +490,9 @@
 "wiki": "Leo_Minor",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "leo-minor"
+"slug": "leo-minor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Lacerta",
@@ -439,7 +505,9 @@
 "wiki": "Lacerta",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "lacerta"
+"slug": "lacerta",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Vulpecula",
@@ -452,7 +520,9 @@
 "wiki": "Vulpecula",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "vulpecula"
+"slug": "vulpecula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Sagitta",
@@ -465,7 +535,9 @@
 "wiki": "Sagitta",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "sagitta"
+"slug": "sagitta",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Delphinus",
@@ -478,7 +550,9 @@
 "wiki": "Delphinus",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "delphinus"
+"slug": "delphinus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Equuleus",
@@ -491,7 +565,9 @@
 "wiki": "Equuleus",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "equuleus"
+"slug": "equuleus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Triangulum",
@@ -504,7 +580,9 @@
 "wiki": "Triangulum",
 "group": "Northern sky",
 "emoji": "✨",
-"slug": "triangulum"
+"slug": "triangulum",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Orion",
@@ -517,7 +595,9 @@
 "wiki": "Orion_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "orion"
+"slug": "orion",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Canis Major",
@@ -530,7 +610,9 @@
 "wiki": "Canis_Major",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "canis-major"
+"slug": "canis-major",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Canis Minor",
@@ -543,7 +625,9 @@
 "wiki": "Canis_Minor",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "canis-minor"
+"slug": "canis-minor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Monoceros",
@@ -556,7 +640,9 @@
 "wiki": "Monoceros",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "monoceros"
+"slug": "monoceros",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Lepus",
@@ -569,7 +655,9 @@
 "wiki": "Lepus_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "lepus"
+"slug": "lepus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Eridanus",
@@ -582,7 +670,9 @@
 "wiki": "Eridanus_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "eridanus"
+"slug": "eridanus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Cetus",
@@ -595,7 +685,9 @@
 "wiki": "Cetus",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "cetus"
+"slug": "cetus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Hydra",
@@ -608,7 +700,9 @@
 "wiki": "Hydra_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "hydra"
+"slug": "hydra",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Crater",
@@ -621,7 +715,9 @@
 "wiki": "Crater_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "crater"
+"slug": "crater",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Corvus",
@@ -634,7 +730,9 @@
 "wiki": "Corvus_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "corvus"
+"slug": "corvus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Sextans",
@@ -647,7 +745,9 @@
 "wiki": "Sextans",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "sextans"
+"slug": "sextans",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Serpens",
@@ -660,7 +760,9 @@
 "wiki": "Serpens",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "serpens"
+"slug": "serpens",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Scutum",
@@ -673,7 +775,9 @@
 "wiki": "Scutum_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "scutum"
+"slug": "scutum",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Centaurus",
@@ -686,7 +790,9 @@
 "wiki": "Centaurus",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "centaurus"
+"slug": "centaurus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Crux",
@@ -699,7 +805,9 @@
 "wiki": "Crux",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "crux"
+"slug": "crux",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Carina",
@@ -712,7 +820,9 @@
 "wiki": "Carina_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "carina"
+"slug": "carina",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Vela",
@@ -725,7 +835,9 @@
 "wiki": "Vela_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "vela"
+"slug": "vela",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Puppis",
@@ -738,7 +850,9 @@
 "wiki": "Puppis",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "puppis"
+"slug": "puppis",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Pyxis",
@@ -751,7 +865,9 @@
 "wiki": "Pyxis",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "pyxis"
+"slug": "pyxis",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Columba",
@@ -764,7 +880,9 @@
 "wiki": "Columba_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "columba"
+"slug": "columba",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Lupus",
@@ -777,7 +895,9 @@
 "wiki": "Lupus_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "lupus"
+"slug": "lupus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Ara",
@@ -790,7 +910,9 @@
 "wiki": "Ara_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "ara"
+"slug": "ara",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Corona Australis",
@@ -803,7 +925,9 @@
 "wiki": "Corona_Australis",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "corona-australis"
+"slug": "corona-australis",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Triangulum Australe",
@@ -816,7 +940,9 @@
 "wiki": "Triangulum_Australe",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "triangulum-australe"
+"slug": "triangulum-australe",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Norma",
@@ -829,7 +955,9 @@
 "wiki": "Norma_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "norma"
+"slug": "norma",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Circinus",
@@ -842,7 +970,9 @@
 "wiki": "Circinus_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "circinus"
+"slug": "circinus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Musca",
@@ -855,7 +985,9 @@
 "wiki": "Musca",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "musca"
+"slug": "musca",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Chamaeleon",
@@ -868,7 +1000,9 @@
 "wiki": "Chamaeleon",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "chamaeleon"
+"slug": "chamaeleon",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Apus",
@@ -881,7 +1015,9 @@
 "wiki": "Apus",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "apus"
+"slug": "apus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Octans",
@@ -894,7 +1030,9 @@
 "wiki": "Octans",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "octans"
+"slug": "octans",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Pavo",
@@ -907,7 +1045,9 @@
 "wiki": "Pavo_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "pavo"
+"slug": "pavo",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Grus",
@@ -920,7 +1060,9 @@
 "wiki": "Grus_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "grus"
+"slug": "grus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Phoenix",
@@ -933,7 +1075,9 @@
 "wiki": "Phoenix_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "phoenix"
+"slug": "phoenix",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Tucana",
@@ -946,7 +1090,9 @@
 "wiki": "Tucana",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "tucana"
+"slug": "tucana",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Hydrus",
@@ -959,7 +1105,9 @@
 "wiki": "Hydrus",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "hydrus"
+"slug": "hydrus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Dorado",
@@ -972,7 +1120,9 @@
 "wiki": "Dorado",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "dorado"
+"slug": "dorado",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Mensa",
@@ -985,7 +1135,9 @@
 "wiki": "Mensa_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "mensa"
+"slug": "mensa",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Volans",
@@ -998,7 +1150,9 @@
 "wiki": "Volans",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "volans"
+"slug": "volans",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Pictor",
@@ -1011,7 +1165,9 @@
 "wiki": "Pictor",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "pictor"
+"slug": "pictor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Caelum",
@@ -1024,7 +1180,9 @@
 "wiki": "Caelum",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "caelum"
+"slug": "caelum",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Horologium",
@@ -1037,7 +1195,9 @@
 "wiki": "Horologium_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "horologium"
+"slug": "horologium",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Reticulum",
@@ -1050,7 +1210,9 @@
 "wiki": "Reticulum",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "reticulum"
+"slug": "reticulum",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Fornax",
@@ -1063,7 +1225,9 @@
 "wiki": "Fornax",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "fornax"
+"slug": "fornax",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Sculptor",
@@ -1076,7 +1240,9 @@
 "wiki": "Sculptor_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "sculptor"
+"slug": "sculptor",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Antlia",
@@ -1089,7 +1255,9 @@
 "wiki": "Antlia",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "antlia"
+"slug": "antlia",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Telescopium",
@@ -1102,7 +1270,9 @@
 "wiki": "Telescopium",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "telescopium"
+"slug": "telescopium",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Microscopium",
@@ -1115,7 +1285,9 @@
 "wiki": "Microscopium",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "microscopium"
+"slug": "microscopium",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Indus",
@@ -1128,7 +1300,9 @@
 "wiki": "Indus_(constellation)",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "indus"
+"slug": "indus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 },
 {
 "name": "Piscis Austrinus",
@@ -1141,6 +1315,8 @@
 "wiki": "Piscis_Austrinus",
 "group": "Equatorial & southern sky",
 "emoji": "🌠",
-"slug": "piscis-austrinus"
+"slug": "piscis-austrinus",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. Constellations are patterns of stars at very different distances and make no sound.",
+"silent": true
 }
 ]

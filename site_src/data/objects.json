@@ -8,7 +8,8 @@
 "wiki": "Main_sequence",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "main-sequence-star"
+"slug": "main-sequence-star",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Red dwarf",
@@ -19,7 +20,8 @@
 "wiki": "Red_dwarf",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "red-dwarf"
+"slug": "red-dwarf",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Brown dwarf",
@@ -30,7 +32,8 @@
 "wiki": "Brown_dwarf",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "brown-dwarf"
+"slug": "brown-dwarf",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Red giant",
@@ -41,7 +44,8 @@
 "wiki": "Red_giant",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "red-giant"
+"slug": "red-giant",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Supergiant and hypergiant",
@@ -52,7 +56,8 @@
 "wiki": "Supergiant_star",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "supergiant-and-hypergiant"
+"slug": "supergiant-and-hypergiant",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "White dwarf",
@@ -63,7 +68,8 @@
 "wiki": "White_dwarf",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "white-dwarf"
+"slug": "white-dwarf",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Black dwarf",
@@ -74,7 +80,8 @@
 "wiki": "Black_dwarf",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "black-dwarf"
+"slug": "black-dwarf",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Neutron star",
@@ -85,7 +92,8 @@
 "wiki": "Neutron_star",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "neutron-star"
+"slug": "neutron-star",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Pulsar",
@@ -97,7 +105,8 @@
 "wiki": "Pulsar",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "pulsar"
+"slug": "pulsar",
+"sound_desc": "Radio pulses played as sound make rhythmic clicks, buzzes or tones depending on spin speed."
 },
 {
 "name": "Magnetar",
@@ -108,7 +117,8 @@
 "wiki": "Magnetar",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "magnetar"
+"slug": "magnetar",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Variable star (Cepheid)",
@@ -119,7 +129,8 @@
 "wiki": "Cepheid_variable",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "variable-star-cepheid"
+"slug": "variable-star-cepheid",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Wolf–Rayet star",
@@ -130,7 +141,8 @@
 "wiki": "Wolf%E2%80%93Rayet_star",
 "group": "Stars & stellar types",
 "emoji": "⭐",
-"slug": "wolf-rayet-star"
+"slug": "wolf-rayet-star",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Supernova (core-collapse)",
@@ -141,7 +153,8 @@
 "wiki": "Supernova",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "supernova-core-collapse"
+"slug": "supernova-core-collapse",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Type Ia supernova",
@@ -152,7 +165,8 @@
 "wiki": "Type_Ia_supernova",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "type-ia-supernova"
+"slug": "type-ia-supernova",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Kilonova",
@@ -163,7 +177,8 @@
 "wiki": "Kilonova",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "kilonova"
+"slug": "kilonova",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Gamma-ray burst",
@@ -174,7 +189,8 @@
 "wiki": "Gamma-ray_burst",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "gamma-ray-burst"
+"slug": "gamma-ray-burst",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Nova",
@@ -185,7 +201,8 @@
 "wiki": "Nova",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "nova"
+"slug": "nova",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Stellar collision",
@@ -196,7 +213,8 @@
 "wiki": "Stellar_collision",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "stellar-collision"
+"slug": "stellar-collision",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Galaxy collision",
@@ -207,7 +225,8 @@
 "wiki": "Galaxy_merger",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "galaxy-collision"
+"slug": "galaxy-collision",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Black hole merger",
@@ -219,7 +238,8 @@
 "wiki": "Binary_black_hole",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "black-hole-merger"
+"slug": "black-hole-merger",
+"sound_desc": "A rising 'chirp' lasting a fraction of a second when the gravitational-wave signal is played as sound."
 },
 {
 "name": "Fast radio burst",
@@ -230,7 +250,8 @@
 "wiki": "Fast_radio_burst",
 "group": "Explosions & collisions",
 "emoji": "💥",
-"slug": "fast-radio-burst"
+"slug": "fast-radio-burst",
+"sound_desc": "A single millisecond pop when converted to audio."
 },
 {
 "name": "Black hole",
@@ -242,7 +263,8 @@
 "wiki": "Black_hole",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "black-hole"
+"slug": "black-hole",
+"sound_desc": "Black holes are silent, but the gas around the Perseus cluster's black hole carries real pressure waves 57 octaves below middle C. NASA's sonification shifts them up to be audible: a deep, ghostly groan."
 },
 {
 "name": "Stellar-mass black hole",
@@ -253,7 +275,8 @@
 "wiki": "Stellar_black_hole",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "stellar-mass-black-hole"
+"slug": "stellar-mass-black-hole",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Supermassive black hole",
@@ -265,7 +288,8 @@
 "wiki": "Supermassive_black_hole",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "supermassive-black-hole"
+"slug": "supermassive-black-hole",
+"sound_desc": "NASA sonified the jet of M87's black hole from Chandra, Hubble and ALMA data."
 },
 {
 "name": "Intermediate-mass black hole",
@@ -276,7 +300,8 @@
 "wiki": "Intermediate-mass_black_hole",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "intermediate-mass-black-hole"
+"slug": "intermediate-mass-black-hole",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Primordial black hole",
@@ -287,7 +312,8 @@
 "wiki": "Primordial_black_hole",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "primordial-black-hole"
+"slug": "primordial-black-hole",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Hawking radiation",
@@ -298,7 +324,8 @@
 "wiki": "Hawking_radiation",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "hawking-radiation"
+"slug": "hawking-radiation",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Accretion disk and jets",
@@ -309,7 +336,8 @@
 "wiki": "Accretion_disk",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "accretion-disk-and-jets"
+"slug": "accretion-disk-and-jets",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Quasar",
@@ -320,7 +348,8 @@
 "wiki": "Quasar",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "quasar"
+"slug": "quasar",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "White hole",
@@ -331,7 +360,8 @@
 "wiki": "White_hole",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "white-hole"
+"slug": "white-hole",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Wormhole",
@@ -342,7 +372,8 @@
 "wiki": "Wormhole",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "wormhole"
+"slug": "wormhole",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Gravitational waves",
@@ -354,7 +385,8 @@
 "wiki": "Gravitational_wave",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "gravitational-waves"
+"slug": "gravitational-waves",
+"sound_desc": "Gravitational waves are not sound, but their frequencies fall in the audio range. Played as audio, a black-hole merger is a short rising 'chirp'."
 },
 {
 "name": "Gravitational lensing",
@@ -365,7 +397,8 @@
 "wiki": "Gravitational_lens",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "gravitational-lensing"
+"slug": "gravitational-lensing",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Spaghettification",
@@ -376,7 +409,8 @@
 "wiki": "Spaghettification",
 "group": "Black holes & spacetime",
 "emoji": "🕳",
-"slug": "spaghettification"
+"slug": "spaghettification",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Cosmic microwave background",
@@ -384,11 +418,12 @@
 "summary": "The afterglow of the Big Bang, light released 380,000 years after it began.",
 "how": "When the universe cooled to ~3,000 K, atoms formed and light travelled freely; expansion stretched it to microwaves (2.7 K).",
 "evidence": "Discovered by Penzias and Wilson (1965); mapped by COBE, WMAP and Planck.",
-"sound": "cosmic microwave background sonification",
+"sound": "Big Bang sound",
 "wiki": "Cosmic_microwave_background",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "cosmic-microwave-background"
+"slug": "cosmic-microwave-background",
+"sound_desc": "Played as sound, the CMB's fluctuations have been turned into a 'Big Bang sound', a deepening roar, by physicist John Cramer."
 },
 {
 "name": "Dark matter",
@@ -399,7 +434,8 @@
 "wiki": "Dark_matter",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "dark-matter"
+"slug": "dark-matter",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Dark energy",
@@ -410,7 +446,8 @@
 "wiki": "Dark_energy",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "dark-energy"
+"slug": "dark-energy",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Cosmic void",
@@ -421,7 +458,8 @@
 "wiki": "Void_(astronomy)",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "cosmic-void"
+"slug": "cosmic-void",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "The vacuum of space",
@@ -432,7 +470,8 @@
 "wiki": "Outer_space",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "the-vacuum-of-space"
+"slug": "the-vacuum-of-space",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Cosmic web",
@@ -443,7 +482,8 @@
 "wiki": "Observable_universe",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "cosmic-web"
+"slug": "cosmic-web",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Cosmic rays",
@@ -454,7 +494,8 @@
 "wiki": "Cosmic_ray",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "cosmic-rays"
+"slug": "cosmic-rays",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Nebula",
@@ -465,7 +506,8 @@
 "wiki": "Nebula",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "nebula"
+"slug": "nebula",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 },
 {
 "name": "Stardust (cosmic dust)",
@@ -476,6 +518,7 @@
 "wiki": "Cosmic_dust",
 "group": "The universe at large",
 "emoji": "🌌",
-"slug": "stardust-cosmic-dust"
+"slug": "stardust-cosmic-dust",
+"sound_desc": "Space is a near-perfect vacuum, so no sound travels through it. No natural sound; scientists sometimes turn data on objects like this into sonifications."
 }
 ]

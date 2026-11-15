@@ -8,11 +8,11 @@
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) ![Last commit](https://img.shields.io/github/last-commit/shiroonigami23-ui/outer-space-research?style=flat-square) ![Repo size](https://img.shields.io/github/repo-size/shiroonigami23-ui/outer-space-research?style=flat-square) ![Top language](https://img.shields.io/github/languages/top/shiroonigami23-ui/outer-space-research?style=flat-square) ![Status](https://img.shields.io/badge/status-growing-blueviolet?style=flat-square) [![Validate](https://github.com/shiroonigami23-ui/outer-space-research/actions/workflows/validate.yml/badge.svg)](https://github.com/shiroonigami23-ui/outer-space-research/actions/workflows/validate.yml) ![Tracker](https://img.shields.io/badge/tracker-15_Nov_2026-orange?style=flat-square)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) ![Last commit](https://img.shields.io/github/last-commit/shiroonigami23-ui/outer-space-research?style=flat-square) ![Repo size](https://img.shields.io/github/repo-size/shiroonigami23-ui/outer-space-research?style=flat-square) ![Top language](https://img.shields.io/github/languages/top/shiroonigami23-ui/outer-space-research?style=flat-square) ![Status](https://img.shields.io/badge/status-growing-blueviolet?style=flat-square) [![Validate](https://github.com/shiroonigami23-ui/outer-space-research/actions/workflows/validate.yml/badge.svg)](https://github.com/shiroonigami23-ui/outer-space-research/actions/workflows/validate.yml) ![Tracker](https://img.shields.io/badge/tracker-15_Nov_2026-orange?style=flat-square) [![Hub site](https://img.shields.io/badge/hub-live_site-6ea8fe?style=flat-square)](https://shiroonigami23-ui.github.io/outer-space-research/)
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/shiroonigami23-ui/outer-space-research?quickstart=1) [![Download ZIP](https://img.shields.io/badge/Download-ZIP-2ea44f?style=flat-square&logo=github)](https://github.com/shiroonigami23-ui/outer-space-research/archive/refs/heads/main.zip)
 
-[**Overview**](#-overview) · [**Tracks**](#-research-tracks) · [**Tracker**](#-latest-tracker) · [**Lab**](#-interactive-orbital-mechanics-lab) · [**Architecture**](#-architecture) · [**Getting Started**](#-getting-started) · [**Roadmap**](#-roadmap)
+[**🌐 Hub site**](https://shiroonigami23-ui.github.io/outer-space-research/) · [**Overview**](#-overview) · [**Tracks**](#-research-tracks) · [**Papers**](#-paper-library) · [**Tracker**](#-latest-tracker) · [**Lab**](#-interactive-orbital-mechanics-lab) · [**Architecture**](#-architecture) · [**Getting Started**](#-getting-started) · [**Roadmap**](#-roadmap)
 
 </div>
 
@@ -26,11 +26,15 @@ and space exploration. Every factual claim has a dated source, and every figure 
 (`connected/outer-space-research/`) by the hub's `sync-research-nodes.yml` workflow, using the same model and
 template as its sister node [under-water-deep-research](https://github.com/shiroonigami23-ui/under-water-deep-research).
 
+🌐 **Browse it as a website:** <https://shiroonigami23-ui.github.io/outer-space-research/> · 🌊 Sister hub: [under-water-deep-research](https://github.com/shiroonigami23-ui/under-water-deep-research)
+
 ### ✨ Highlights
 
-- **Five research tracks**: stellar, planetary, cosmology, exploration and astrobiology. Each one goes concepts → open questions → dated studies → sources.
+- **Eight research tracks**: stellar, planetary, cosmology, exploration, astrobiology, **small bodies**, **black holes & gravitational waves** and **heliophysics**. Each one goes concepts → open questions → dated studies → sources.
+- **Paper library**: 8 structured deep reads (DESI DR2, MoM-z14, CCHP H₀, GW250114, 3I/ATLAS, Sapphire Canyon, K2-18 b, TRAPPIST-1 e) plus a reading list
+- **Two labs**: orbital mechanics and exoplanet transits
 - **Live mission tracker** with status and next milestones for Artemis, Gaganyaan, Chandrayaan, Europa Clipper, Tianwen-2, Rubin, DESI and JWST
-- **12 original figures + an animated GIF**, all rebuilt by one script (`scripts/generate_figures.py`)
+- **18 original figures + an animated GIF**, all rebuilt by one script (`scripts/generate_figures.py`)
 - **Interactive orbital-mechanics lab** (single HTML file): Hohmann transfers, Δv, launch windows
 - **CI** regenerates every figure and checks every Markdown link on each push
 
@@ -48,7 +52,25 @@ template as its sister node [under-water-deep-research](https://github.com/shiro
 | 🪐 [**planetary/**](planetary/) | Mars (Sapphire Canyon), Europa, Enceladus, Titan, Kamoʻoalewa | [solar-system-worlds.md](planetary/solar-system-worlds.md) | <img src="planetary/png/habitable_zones_generated.png" width="180"> |
 | 🌌 [**cosmology/**](cosmology/) | CMB, ΛCDM, DESI evolving dark energy, Hubble tension, MoM-z14 | [cosmology-core.md](cosmology/cosmology-core.md) | <img src="cosmology/png/dark_energy_evolution_generated.png" width="180"> |
 | 🚀 [**exploration/**](exploration/) | Artemis, Gaganyaan, Chandrayaan, Europa Clipper, Tianwen-2, Rubin | [missions-and-instruments.md](exploration/missions-and-instruments.md) | <img src="exploration/png/hohmann_earth_mars_generated.png" width="180"> |
-| 🧬 [**astrobiology/**](astrobiology/) | Biosignatures, CoLD scale, K2-18 b debate, Mars, Venus, Enceladus | [biosignatures-and-habitability.md](astrobiology/biosignatures-and-habitability.md) | <img src="astrobiology/png/cold_scale_generated.png" width="180"> |
+| 🧬 [**astrobiology/**](astrobiology/) | Biosignatures, CoLD scale, K2-18 b, TRAPPIST-1 e, Mars, Venus, Enceladus | [biosignatures-and-habitability.md](astrobiology/biosignatures-and-habitability.md) | <img src="astrobiology/png/cold_scale_generated.png" width="180"> |
+| ☄️ [**small-bodies/**](small-bodies/) | 3I/ATLAS and interstellar objects, sample return | [interstellar-objects-and-asteroids.md](small-bodies/interstellar-objects-and-asteroids.md) | <img src="small-bodies/png/hyperbolic_orbit_3i_generated.png" width="180"> |
+| 🕳 [**black-holes-gw/**](black-holes-gw/) | GW250114, Hawking area law, Kerr ringdown | [gravitational-waves-and-black-holes.md](black-holes-gw/gravitational-waves-and-black-holes.md) | <img src="black-holes-gw/png/gw250114_area_law_generated.png" width="180"> |
+| ☀️ [**heliophysics/**](heliophysics/) | Parker Solar Probe, solar wind, space weather | [parker-and-space-weather.md](heliophysics/parker-and-space-weather.md) | <img src="heliophysics/png/sun_approach_records_generated.png" width="180"> |
+
+## 📚 Paper Library
+
+[`papers/`](papers/) holds structured deep reads. Every file states what it was based on (abstract, releases, coverage) and links the original:
+
+| Paper | Topic |
+|---|---|
+| [DESI DR2 (2025)](papers/desi-2025-dr2-dark-energy.md) | Evolving dark energy at 2.8–4.2σ |
+| [Naidu et al. 2026](papers/naidu-2026-mom-z14.md) | MoM-z14, z = 14.44 |
+| [Freedman et al. 2025](papers/freedman-2025-cchp-h0.md) | CCHP H₀ = 70.4 vs SH0ES 73 |
+| [LVK 2025](papers/lvk-2025-gw250114.md) | GW250114: Hawking area law |
+| [Seligman et al. 2025](papers/seligman-2025-3i-atlas.md) | 3I/ATLAS discovery |
+| [Hurowitz et al. 2025](papers/hurowitz-2025-sapphire-canyon.md) | Mars potential biosignature |
+| [K2-18 b debate](papers/k2-18b-2025-debate.md) | DMS claim vs instrument systematics |
+| [TRAPPIST-1 e (2025)](papers/trappist-1e-2025-jwst.md) | Does an Earth-size HZ planet have air? |
 
 ## 🗓 Latest Tracker
 
@@ -63,7 +85,16 @@ Snapshot from **[LATEST-ONGOING-RESEARCH-TRACKER.md](LATEST-ONGOING-RESEARCH-TRA
 | Rubin LSST | 10-year survey started 30 Jun 2026 | First data previews |
 | DESI | Dark energy may be weakening (2.8–4.2σ) | More data, Euclid |
 
-## 🛰 Interactive Orbital-Mechanics Lab
+## 🛰 Interactive Labs
+
+| Lab | What you can do |
+|---|---|
+| [`labs/orbital-mechanics-lab.html`](labs/orbital-mechanics-lab.html) | Hohmann transfers, Δv, phase angle, launch windows |
+| [`labs/transit-lab.html`](labs/transit-lab.html) | Exoplanet transit light curves with limb darkening and noise; presets for TRAPPIST-1 e, K2-18 b, Earth, Jupiter |
+
+<div align="center"><img src="docs/transit-lab-screenshot.png" alt="Transit lab" width="85%"></div>
+
+### Orbital-mechanics lab
 
 [`labs/orbital-mechanics-lab.html`](labs/orbital-mechanics-lab.html) is a single file with no dependencies. Download it and open it in any browser.
 Pick Earth→Mars, Venus↔Earth, Earth→Jupiter or LEO→GEO, drag the orbit radii, and watch the transfer, Δv, transfer time,
@@ -123,7 +154,13 @@ outer-space-research/
 ├── cosmology/      README.md · cosmology-core.md · png/
 ├── exploration/    README.md · missions-and-instruments.md · png/
 ├── astrobiology/   README.md · biosignatures-and-habitability.md · png/
-├── labs/orbital-mechanics-lab.html      # interactive Hohmann-transfer lab
+├── small-bodies/   README.md · interstellar-objects-and-asteroids.md · png/
+├── black-holes-gw/ README.md · gravitational-waves-and-black-holes.md · png/
+├── heliophysics/   README.md · parker-and-space-weather.md · png/
+├── papers/         structured paper deep reads + reading list
+├── index.html      GitHub Pages hub homepage
+├── GLOSSARY.md
+├── labs/           orbital-mechanics-lab.html · transit-lab.html
 ├── gifs/hohmann_transfer.gif
 ├── scripts/        generate_figures.py · check_links.py · requirements.txt
 ├── docs/           ARCHITECTURE.md · ROADMAP.md · orbital-lab-screenshot.png
@@ -190,9 +227,11 @@ Or just read the tracks on GitHub, or browse the mirrored copy in Research-Vault
 
 - [x] Interactive orbital-mechanics lab (HTML/JS)
 - [x] Reproducible figure pipeline + CI link check
+- [x] Second lab: exoplanet transit light-curve simulator
+- [x] GitHub Pages hub homepage + paper library + glossary
+- [x] Three more tracks: small bodies, black holes & GW, heliophysics
 - [ ] Public-domain NASA image gallery per track
 - [ ] Monthly digest in the tracker (first entry: Nov 2026, so keep it going)
-- [ ] Second lab: exoplanet transit light-curve simulator
 
 ➡️ Details: **[docs/ROADMAP.md](docs/ROADMAP.md)**
 

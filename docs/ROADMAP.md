@@ -26,14 +26,17 @@ Status: **growing**.
 
 - [x] Interactive orbital-mechanics lab (HTML/JS)
 - [x] Reproducible figure pipeline (`scripts/generate_figures.py`) + CI link check
+- [x] Exoplanet transit light-curve simulator (`labs/transit-lab.html`)
+- [x] GitHub Pages hub homepage (`index.html`), paper library, glossary
+- [x] New tracks: small bodies, black holes & GW, heliophysics
 - [ ] Public-domain NASA image gallery per track
 - [ ] Monthly digest in the tracker (started Nov 2026)
-- [ ] Exoplanet transit light-curve simulator (second lab)
 
 ### Phase 4 — Depth
 
 - [ ] Per-track "open questions" pages with competing hypotheses side by side
-- [ ] Cross-links with the deep-ocean node (vent chemistry ↔ ocean worlds)
+- [x] Cross-links with the deep-ocean hub (hadal chemosynthesis ↔ ocean worlds; dark oxygen ↔ biosignature logic)
+- [ ] Euclid DR1 results write-up (after late-Oct 2026 release)
 - [ ] Short explainer write-ups suitable for the Research-Vault papers folder
 
 ## 🔭 Long-term Vision

@@ -37,6 +37,15 @@ Status date: November 15, 2026.
 - A reported phosphine line in the cloud deck. Later reanalyses questioned the calibration and suggested sulfur dioxide or non-biological explanations.
 - **Status: disputed.**
 
+### TRAPPIST-1 e — does a habitable-zone Earth-size planet have air?
+- JWST NIRSpec/PRISM, 4 transits analysed (DREAMS collaboration; Espinoza et al. and Glidden et al., *ApJL* 990, Sept 2025).
+- Results:
+  - A primordial hydrogen atmosphere is ruled out, and a CO₂-dominated (Venus/Mars-like) atmosphere is unlikely.
+  - The best fit is an **N₂-rich atmosphere with trace CH₄**, *but* a bare rock still cannot be rejected.
+  - Starspots on the host star contaminate the spectra. A new program pairs back-to-back transits of TRAPPIST-1 e and the airless TRAPPIST-1 b to subtract the star's signal.
+  - ~15 more transits are planned.
+- **Status: habitability test in progress; no biosignature claim.**
+
 ### Enceladus — plume chemistry
 - Organics, salts and phosphates in ocean spray show the ocean is habitable (energy + chemistry). That is not a life signal in itself.
 - **Status: strong habitability evidence; no biosignature claim.**
@@ -58,4 +67,7 @@ Status date: November 15, 2026.
 - NASA, Sapphire Canyon potential biosignature (2025-09-10):
   https://nasa.gov/news-release/nasa-says-mars-rover-discovered-potential-biosignature-last-year
 - Green et al. 2021, "Call for a framework for reporting evidence for life beyond Earth", *Nature* 598: https://doi.org/10.1038/s41586-021-03804-9
+- NASA, Webb looks at TRAPPIST-1 e: https://science.nasa.gov/missions/webb/nasa-webb-looks-at-earth-sized-habitable-zone-exoplanet-trappist-1-e
+- AAS Nova, Glidden et al. 2025 (doi:10.3847/2041-8213/adf62e): https://aasnova.org/?p=14537
+- Paper analyses: [`../papers/hurowitz-2025-sapphire-canyon.md`](../papers/hurowitz-2025-sapphire-canyon.md), [`../papers/k2-18b-2025-debate.md`](../papers/k2-18b-2025-debate.md), [`../papers/trappist-1e-2025-jwst.md`](../papers/trappist-1e-2025-jwst.md)
 - Background: https://en.wikipedia.org/wiki/Phosphine_in_the_atmosphere_of_Venus · https://en.wikipedia.org/wiki/Biosignature

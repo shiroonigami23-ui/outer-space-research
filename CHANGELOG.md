@@ -3,6 +3,21 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and [Semantic Versioning](https://semver.org/).
 
+## [2.0.0] - 2026-11-15 — Research hub
+
+### Added
+- Tracks: `small-bodies/` (3I/ATLAS), `black-holes-gw/` (GW250114), `heliophysics/` (Parker Solar Probe)
+- `papers/`: 8 structured deep reads + reading list
+- `labs/transit-lab.html`: exoplanet transit simulator
+- `index.html` GitHub Pages hub homepage, `GLOSSARY.md`
+- 6 new generated figures (interstellar objects, 3I orbit, GW area law, chirp, Sun approach records, Hubble tension)
+
+### Changed
+- Cosmology: Hubble-tension section (SH0ES vs CCHP) and Euclid DR1
+- Astrobiology: TRAPPIST-1 e JWST results
+- Tracker: 6 new streams (rows 10–15)
+- README, ROADMAP, ARCHITECTURE updated; cross-linked with the under-water hub
+
 ## [1.1.0] - 2026-11-15
 
 ### Added

@@ -20,6 +20,13 @@ Every `*_generated.png` and `gifs/hohmann_transfer.gif` is made by [`scripts/gen
 | `exploration/png/hohmann_earth_mars_generated.png`, `gifs/hohmann_transfer.gif` | Vis-viva equation and Kepler's equation, μ☉ = 1.327×10²⁰ m³/s² |
 | `astrobiology/png/cold_scale_generated.png` | CoLD levels from Green et al., *Nature* 598 (2021); case placement is the author's working reading |
 
+| `small-bodies/png/interstellar_objects_generated.png` | Published e and v∞ for 1I, 2I, 3I |
+| `small-bodies/png/hyperbolic_orbit_3i_generated.png` | Conic with e = 6.1, q = 1.36 AU (Seligman et al. 2025) |
+| `black-holes-gw/png/gw250114_area_law_generated.png` | Horizon areas from published masses (A = 8π(GM/c²)²(1+√(1−χ²))), remnant area as reported |
+| `black-holes-gw/png/chirp_schematic_generated.png` | Newtonian chirp f ∝ τ^(−3/8) + damped ringdown (schematic) |
+| `heliophysics/png/sun_approach_records_generated.png` | NASA/APL Parker distances (+ solar radius), Helios 2, Mercury |
+| `cosmology/png/hubble_tension_generated.png` | Planck 2018, CCHP 2025, SH0ES values (rounded 1σ) |
+
 ## Downloaded images
 
 - `assets/hubble-extreme-deep-field.jpg`: Hubble eXtreme Deep Field. Credit: NASA, ESA (public domain), via scikit-image sample data.
@@ -27,3 +34,4 @@ Every `*_generated.png` and `gifs/hohmann_transfer.gif` is made by [`scripts/gen
 ## Screenshots
 
 - `docs/orbital-lab-screenshot.png`: real headless-Chrome capture of `labs/orbital-mechanics-lab.html`.
+- `docs/transit-lab-screenshot.png`: real headless-Chrome capture of `labs/transit-lab.html#full`.

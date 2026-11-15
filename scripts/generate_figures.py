@@ -322,10 +322,114 @@ def cold_scale():
     save(fig, out("astrobiology", "cold_scale_generated.png"))
 
 
+# ---------------------------------------------------------------- small bodies
+def interstellar_objects():
+    objs = [("1I/ʻOumuamua (2017)", 1.20, 26.3), ("2I/Borisov (2019)", 3.36, 32.2), ("3I/ATLAS (2025)", 6.1, 58.0)]
+    fig, (a1, a2) = plt.subplots(1, 2, figsize=(11, 4.6))
+    names = [o[0] for o in objs]
+    a1.bar(names, [o[1] for o in objs], color=[C[5], C[0], C[2]])
+    a1.axhline(1, color=C[1], ls="--"); a1.text(-0.4, 1.15, "e = 1: escape threshold", color=C[1], fontsize=9)
+    a1.set_ylabel("Orbital eccentricity e"); a1.set_title("How unbound?")
+    a2.bar(names, [o[2] for o in objs], color=[C[5], C[0], C[2]])
+    a2.set_ylabel("Speed far from the Sun, v∞ (km/s)"); a2.set_title("How fast?")
+    for a in (a1, a2):
+        a.tick_params(axis="x", labelsize=9)
+    fig.suptitle("The three known interstellar objects", fontweight="bold")
+    save(fig, out("small-bodies", "interstellar_objects_generated.png"))
+
+
+def hyperbolic_orbit():
+    fig, ax = plt.subplots(figsize=(7.5, 7.5))
+    th = np.linspace(0, 2 * np.pi, 300)
+    for r, c, n in [(1.0, C[0], "Earth"), (1.524, C[2], "Mars"), (5.2, C[1], "Jupiter")]:
+        ax.plot(r * np.cos(th), r * np.sin(th), color=c, lw=1, alpha=0.7)
+        ax.text(r * 0.72, r * 0.72, n, color=c, fontsize=9)
+    q, e = 1.36, 6.1
+    p_ = q * (1 + e); nu_max = np.arccos(-1 / e) - 0.02
+    nu = np.linspace(-nu_max * 0.97, nu_max * 0.97, 400); r = p_ / (1 + e * np.cos(nu))
+    m = r < 7
+    ax.plot((r * np.cos(nu))[m], (r * np.sin(nu))[m], color=C[2], lw=2.5, label="3I/ATLAS (e ≈ 6.1, q ≈ 1.36 AU)")
+    ax.scatter(0, 0, color="#ffd34d", s=200, zorder=5); ax.scatter(q, 0, color=C[2], s=50, zorder=6)
+    ax.annotate("Perihelion 29 Oct 2025", (q, 0), xytext=(10, -18), textcoords="offset points", fontsize=9)
+    ax.set_aspect("equal"); ax.set_xlim(-6, 6); ax.set_ylim(-6, 6); ax.set_xlabel("AU"); ax.set_ylabel("AU")
+    ax.legend(loc="lower left", fontsize=9); ax.set_title("A one-way pass: 3I/ATLAS's hyperbolic path")
+    save(fig, out("small-bodies", "hyperbolic_orbit_3i_generated.png"))
+
+
+# ---------------------------------------------------------------- black holes / GW
+def gw250114():
+    G, c, Ms = 6.674e-11, 2.998e8, 1.989e30
+    def area_km2(M, chi=0.0):  # Kerr horizon area A = 8 pi (GM/c^2)^2 (1 + sqrt(1 - chi^2))
+        rg = G * M * Ms / c ** 2
+        return 8 * np.pi * rg ** 2 * (1 + np.sqrt(1 - chi ** 2)) / 1e6
+    a1, a2 = area_km2(33.6), area_km2(32.2)
+    fig, ax = plt.subplots(figsize=(8.5, 5))
+    ax.bar(["BH 1\n33.6 M☉", "BH 2\n32.2 M☉"], [a1, a2], color=[C[0], C[4]])
+    ax.bar(["Before\n(sum)"], [a1 + a2], color=C[5])
+    ax.bar(["After\n(remnant)"], [400000], color=C[2])
+    for i, v in enumerate([a1, a2, a1 + a2, 400000]):
+        ax.text(i, v + 6000, f"{v/1000:,.0f}k km²", ha="center", weight="bold")
+    ax.set_ylabel("Event-horizon area (km²)")
+    ax.set_title("GW250114: total horizon area grew (Hawking's area law)")
+    ax.text(0.02, 0.92, "Pre-merger areas: non-spinning Kerr estimate from published masses\nRemnant ≈ 400,000 km² as reported by LVK coverage",
+            transform=ax.transAxes, fontsize=8.5, color=MUTED)
+    save(fig, out("black-holes-gw", "gw250114_area_law_generated.png"))
+
+
+def chirp():
+    t = np.linspace(-0.25, 0.02, 4000)
+    tc = 0.0
+    tau = np.clip(tc - t, 1e-4, None)
+    f = 30 * (tau / 0.25) ** (-3 / 8)
+    phase = 2 * np.pi * np.cumsum(f) * (t[1] - t[0])
+    amp = np.where(t < tc, (tau / 0.25) ** (-1 / 4), np.exp(-(t - tc) / 0.004) * (1e-4 / 0.25) ** (-1 / 4) * 0)
+    ring = np.where(t >= tc, np.exp(-(t - tc) / 0.004) * np.cos(2 * np.pi * 250 * (t - tc)), 0)
+    h = np.where(t < tc, amp * np.cos(phase), 0) / 12 + ring * 0.9
+    fig, ax = plt.subplots(figsize=(10, 4))
+    ax.plot(t * 1000, h, color=C[0], lw=1)
+    ax.set_xlabel("Time relative to merger (ms)"); ax.set_ylabel("Strain (arbitrary units)")
+    ax.text(-240, 0.8, "Inspiral: frequency and amplitude rise (chirp)", color=MUTED, fontsize=9)
+    ax.text(2, 0.8, "Ringdown", color=C[2], fontsize=9)
+    ax.set_title("Schematic binary black-hole chirp (Newtonian inspiral + damped ringdown)")
+    save(fig, out("black-holes-gw", "chirp_schematic_generated.png"))
+
+
+# ---------------------------------------------------------------- heliophysics
+def sun_distances():
+    # all measured from the Sun's CENTRE (Parker's surface distances + 0.7 million km solar radius)
+    rows = [("Mercury (perihelion)", 46.0), ("Helios 2 (1976 record)", 43.4), ("Parker Solar Probe, 2023", 7.96),
+            ("Parker Solar Probe, Dec 2024", 6.8)]
+    fig, ax = plt.subplots(figsize=(9, 4.4))
+    ax.barh([r[0] for r in rows], [r[1] for r in rows], color=[MUTED, C[5], C[0], C[2]])
+    for i, (_, d) in enumerate(rows):
+        ax.text(d + 0.6, i, f"{d} million km", va="center")
+    ax.set_xlim(0, 56); ax.invert_yaxis()
+    ax.set_xlabel("Closest distance from the Sun's centre (million km)")
+    ax.text(30, 3.3, "Parker: 6.1 million km from the surface", color=MUTED, fontsize=9)
+    ax.set_title("Getting close to a star")
+    save(fig, out("heliophysics", "sun_approach_records_generated.png"))
+
+
+def h0_tension():
+    rows = [("Planck CMB + ΛCDM", 67.4, 0.5, C[4]), ("CCHP TRGB+JWST (Freedman 2025)", 70.39, 1.9, C[1]),
+            ("CCHP Cepheids subset", 72.04, 2.0, C[5]), ("SH0ES Cepheids+JWST (Riess)", 73.2, 1.0, C[2])]
+    fig, ax = plt.subplots(figsize=(9, 4.6))
+    for i, (n, v, e, c) in enumerate(rows):
+        ax.errorbar(v, i, xerr=e, fmt="o", color=c, ms=9, capsize=5, lw=2)
+        ax.text(v, i + 0.25, f"{v}", ha="center", fontsize=10)
+    ax.set_yticks(range(len(rows))); ax.set_yticklabels([r[0] for r in rows])
+    ax.axvspan(66.9, 67.9, color=C[4], alpha=0.12); ax.axvspan(72.2, 74.2, color=C[2], alpha=0.12)
+    ax.set_xlabel("H₀ (km/s/Mpc)"); ax.set_xlim(64, 77); ax.invert_yaxis()
+    ax.set_title("The Hubble tension: early-universe vs local measurements")
+    ax.text(74.4, -0.35, "1σ error bars, rounded", fontsize=8.5, color=MUTED)
+    save(fig, out("cosmology", "hubble_tension_generated.png"))
+
+
 if __name__ == "__main__":
     hr_diagram(); stellar_lifetimes(); exoplanet_milestones()
     planet_sizes(); habitable_zones()
     energy_budget(); dark_energy_evolution(); cosmic_timeline()
     mission_timeline(); dv = hohmann_figure(); hohmann_gif()
     cold_scale()
+    interstellar_objects(); hyperbolic_orbit(); gw250114(); chirp(); sun_distances(); h0_tension()
     print("Hohmann Earth->Mars: dv1=%.3f km/s dv2=%.3f km/s tof=%.1f d" % (dv[0]/1e3, dv[1]/1e3, dv[2]/86400))

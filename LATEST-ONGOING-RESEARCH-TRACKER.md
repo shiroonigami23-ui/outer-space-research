@@ -15,6 +15,12 @@ Last updated: November 15, 2026. Each item has a status, the next dated mileston
 | 7 | Dark energy (DESI) | 2.8–4.2σ hint of evolution (DR2, Mar 2025) | Further DESI analyses; Euclid cosmology |
 | 8 | Early galaxies (JWST) | Record MoM-z14, z = 14.44 | Attempts at z > 15 |
 | 9 | Biosignatures | K2-18 b DMS contested; Mars Sapphire Canyon "potential" | MIRI systematics follow-ups; Mars sample-return plan |
+| 10 | Hubble tension | SH0ES ≈73 vs CCHP ≈70.4 vs Planck ≈67.4 | Larger TRGB/JAGB samples; lensing time delays |
+| 11 | Euclid | DR1 (first cosmology release, ~2,000 deg²) scheduled late Oct 2026 | DR1 weak-lensing dark-energy results |
+| 12 | Interstellar objects | 3I/ATLAS passed perihelion 29 Oct 2025; outbound | LSST discoveries of new ISOs |
+| 13 | TRAPPIST-1 e (JWST) | 4 transits: N₂+CH₄ fits, bare rock not excluded | ~15 more transits incl. b/e back-to-back |
+| 14 | Gravitational waves | GW250114 confirms the area law at ~99.999% | LVK O4/O5 catalogues |
+| 15 | Parker Solar Probe | Repeating 6.1–6.2 million km perihelia (27th on 11 Mar 2026) | Extended-mission decision (late 2026) |
 
 ## Details
 
@@ -49,7 +55,7 @@ Last updated: November 15, 2026. Each item has a status, the next dated mileston
 - ~10 TB/night and up to ~7 million alerts/night.
 - Source: https://www.ifae.es/news/2026/06/30/action-nsfdoe-vera-c.-rubin-observatory-begins-the-greatest-cosmic-movie-ever-made/
 
-7–9. See [`cosmology/cosmology-core.md`](cosmology/cosmology-core.md) and [`astrobiology/biosignatures-and-habitability.md`](astrobiology/biosignatures-and-habitability.md).
+7–15. See [`cosmology/cosmology-core.md`](cosmology/cosmology-core.md), [`astrobiology/biosignatures-and-habitability.md`](astrobiology/biosignatures-and-habitability.md), [`small-bodies/`](small-bodies/), [`black-holes-gw/`](black-holes-gw/), [`heliophysics/`](heliophysics/) and the [`papers/`](papers/) library.
 
 ## Monthly Digest
 
@@ -57,6 +63,7 @@ Last updated: November 15, 2026. Each item has a status, the next dated mileston
 - Gaganyaan G1 is in its launch window (NET November). Watch for an ISRO date announcement.
 - Europa Clipper's Earth flyby is in 18 days (2026-12-03).
 - NASA is preparing a year-end SLS tanking test ahead of Artemis III.
+- Euclid DR1 was scheduled for late October 2026. Check for the published cosmology results and add them to `cosmology/`.
 
 ## Next Data Pull Targets
 
@@ -64,3 +71,5 @@ Last updated: November 15, 2026. Each item has a status, the next dated mileston
 - Europa Clipper Earth-flyby science and calibration release (Dec 2026).
 - Tianwen-2 sampling confirmation.
 - Artemis III crew/lander readiness updates.
+- Euclid DR1 cosmology papers; DESI further analyses.
+- New TRAPPIST-1 e transit results.

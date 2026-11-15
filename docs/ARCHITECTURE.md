@@ -26,6 +26,11 @@ flowchart LR
 | **Orbital lab** | `labs/orbital-mechanics-lab.html` | Self-contained canvas app: vis-viva, Kepler's equation, launch windows |
 | **Attribution** | `IMAGE-SOURCES.md` | How each image was made or where it came from |
 | **CI** | `.github/workflows/validate.yml` | Regenerates figures and checks links on every push/PR |
+| **New tracks** | `small-bodies/`, `black-holes-gw/`, `heliophysics/` | Same template as the original five |
+| **Paper library** | `papers/` | One file per paper, fixed template, states its analysis basis |
+| **Transit lab** | `labs/transit-lab.html` | Grid-integrated limb-darkened transit light curves |
+| **Hub homepage** | `index.html` + `.nojekyll` | GitHub Pages landing page; shared generator with the under-water hub |
+| **Glossary** | `GLOSSARY.md` | Shared vocabulary |
 | **Hub link** | `connected/Research-Vault-README.md` | Pointer to the Vault |
 
 ## 3. Data / Control Flow

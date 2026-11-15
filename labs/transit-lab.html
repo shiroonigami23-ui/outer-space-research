@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exoplanet Transit Lab — Outer Space Research</title>
+<style>
+  :root { --bg:#0b1020; --panel:#121a33; --fg:#e8ecf8; --muted:#9aa4c2; --line:#24304f; --a:#6ea8fe; --b:#ff7a90; --t:#f6b94c; --g:#5ad1a4; }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; background:var(--bg); color:var(--fg); }
+  header { padding:18px 22px 4px; } h1 { margin:0; font-size:1.35rem; }
+  header p { margin:6px 0 0; color:var(--muted); font-size:.92rem; max-width:74ch; }
+  main { display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:16px; padding:14px 22px 24px; }
+  @media (max-width:860px){ main{ grid-template-columns:1fr; } }
+  .card { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px; }
+  canvas { width:100%; display:block; border-radius:10px; background:#070b18; }
+  #sky { aspect-ratio:2/1; } #lc { aspect-ratio:2/1; margin-top:12px; }
+  label { display:flex; justify-content:space-between; font-size:.85rem; color:var(--muted); margin:12px 0 4px; }
+  label b { color:var(--fg); font-variant-numeric:tabular-nums; }
+  input[type=range], select { width:100%; }
+  select { background:#0b1226; color:var(--fg); border:1px solid var(--line); border-radius:8px; padding:7px; }
+  table { width:100%; border-collapse:collapse; margin-top:10px; font-size:.9rem; }
+  td { padding:6px 4px; border-bottom:1px solid var(--line); } td:last-child { text-align:right; font-weight:600; font-variant-numeric:tabular-nums; }
+  .chk { display:flex; gap:8px; align-items:center; font-size:.85rem; color:var(--muted); margin-top:10px; }
+  .note { font-size:.78rem; color:var(--muted); margin-top:10px; line-height:1.45; } a { color:var(--a); }
+</style>
+</head>
+<body>
+<header>
+  <h1>🪐 Exoplanet Transit Lab</h1>
+  <p>This is how the transit method finds most known exoplanets. A planet crossing its star blocks a fraction (R<sub>p</sub>/R<sub>★</sub>)² of the light.
+     Change the planet size, the impact parameter and limb darkening, and see why Earth-size planets are easy to find around tiny red dwarfs
+     like TRAPPIST-1 and hard to find around Sun-like stars.</p>
+</header>
+<main>
+  <div class="card">
+    <canvas id="sky" width="1000" height="500" aria-label="Star and transiting planet"></canvas>
+    <canvas id="lc" width="1000" height="500" aria-label="Light curve"></canvas>
+  </div>
+  <div class="card">
+    <label>Preset</label>
+    <select id="preset">
+      <option value="0.0707,0.2">TRAPPIST-1 e (Earth-size, red dwarf)</option>
+      <option value="0.0583,0.4">K2-18 b (sub-Neptune, red dwarf)</option>
+      <option value="0.1005,0.3">Jupiter transiting the Sun</option>
+      <option value="0.00916,0.3">Earth transiting the Sun</option>
+      <option value="0.15,0.0">Hot Jupiter (inflated)</option>
+    </select>
+    <label><span>Radius ratio R<sub>p</sub>/R<sub>★</sub></span> <b id="kv"></b></label>
+    <input id="k" type="range" min="0.005" max="0.25" step="0.0005" value="0.0707">
+    <label><span>Impact parameter b (0 = centre)</span> <b id="bv"></b></label>
+    <input id="b" type="range" min="0" max="1.2" step="0.01" value="0.2">
+    <div class="chk"><input id="ld" type="checkbox" checked><span>Limb darkening (quadratic, u₁=0.40, u₂=0.25)</span></div>
+    <div class="chk"><input id="noise" type="checkbox" checked><span>Add photometric noise (≈ 200 ppm per point)</span></div>
+    <table>
+      <tr><td>Geometric depth (R<sub>p</sub>/R<sub>★</sub>)²</td><td id="depth"></td></tr>
+      <tr><td>Measured depth (with limb darkening)</td><td id="mdepth"></td></tr>
+      <tr><td>Planet size if the star were the Sun</td><td id="sun"></td></tr>
+      <tr><td>Signal-to-noise per transit (≈)</td><td id="snr"></td></tr>
+    </table>
+    <p class="note">Flux is computed by integrating a limb-darkened stellar disk on a grid, which is accurate to a few ppm.
+      Radius ratios: TRAPPIST-1 e 0.92 R⊕ / 0.119 R☉; K2-18 b 2.61 R⊕ / 0.41 R☉. The noise model is white noise only; real
+      data also have stellar spots and instrument systematics (see the K2-18 b debate in this repo).
+      Part of <a href="https://github.com/shiroonigami23-ui/outer-space-research">outer-space-research</a>.</p>
+  </div>
+</main>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const sky = $("sky").getContext("2d"), lc = $("lc").getContext("2d");
+  const N = 260, R_SUN_K = 1 / 109.2; // R_earth/R_sun
+  let t = 0, last = null;
+  // precompute stellar grid
+  const cells = [];
+  for (let i = 0; i < N; i++) for (let j = 0; j < N; j++) {
+    const x = -1 + (2 * i + 1) / N, y = -1 + (2 * j + 1) / N, r2 = x * x + y * y;
+    if (r2 <= 1) cells.push([x, y, Math.sqrt(1 - r2)]);
+  }
+  const I = (mu, ld) => ld ? 1 - 0.40 * (1 - mu) - 0.25 * (1 - mu) ** 2 : 1;
+  function flux(xp, yp, k, ld) {
+    let tot = 0, blk = 0;
+    for (const [x, y, mu] of cells) { const w = I(mu, ld); tot += w; if ((x - xp) ** 2 + (y - yp) ** 2 <= k * k) blk += w; }
+    return 1 - blk / tot;
+  }
+  function gauss() { let u = 0, v = 0; while (!u) u = Math.random(); v = Math.random(); return Math.sqrt(-2 * Math.log(u)) * Math.cos(2 * Math.PI * v); }
+  let curve = [], noisy = [];
+  function compute() {
+    const k = +$("k").value, b = +$("b").value, ld = $("ld").checked;
+    curve = []; noisy = [];
+    for (let i = 0; i <= 240; i++) {
+      const x = -1.6 + 3.2 * i / 240, f = Math.abs(b) > 1 + k ? 1 : flux(x, b, k, ld);
+      curve.push([x, f]); noisy.push([x, f + ($("noise").checked ? 2e-4 * gauss() : 0)]);
+    }
+    const geo = k * k, meas = 1 - Math.min(...curve.map(c => c[1]));
+    $("kv").textContent = k.toFixed(4); $("bv").textContent = b.toFixed(2);
+    $("depth").textContent = fmt(geo); $("mdepth").textContent = meas > 0 ? fmt(meas) : "no transit (b > 1 + k)";
+    $("sun").textContent = (k / R_SUN_K).toFixed(2) + " R⊕";
+    const inTr = curve.filter(c => c[1] < 1).length;
+    $("snr").textContent = meas > 0 ? (meas / 2e-4 * Math.sqrt(Math.max(inTr, 1))).toFixed(0) : "—";
+  }
+  const fmt = d => d >= 0.001 ? (100 * d).toFixed(3) + " %" : (d * 1e6).toFixed(0) + " ppm";
+  function drawSky(xp) {
+    const W = 1000, H = 500, cx = W / 2, cy = H / 2, R = 200, k = +$("k").value, b = +$("b").value, ld = $("ld").checked;
+    sky.clearRect(0, 0, W, H);
+    const g = sky.createRadialGradient(cx, cy, 0, cx, cy, R);
+    if (ld) { g.addColorStop(0, "#fff4d6"); g.addColorStop(0.7, "#ffd27a"); g.addColorStop(1, "#d9822b"); }
+    else { g.addColorStop(0, "#ffe7a8"); g.addColorStop(1, "#ffe7a8"); }
+    sky.fillStyle = g; sky.beginPath(); sky.arc(cx, cy, R, 0, 7); sky.fill();
+    sky.fillStyle = "#05070f"; sky.beginPath(); sky.arc(cx + xp * R, cy - b * R, Math.max(k * R, 1.5), 0, 7); sky.fill();
+    sky.strokeStyle = "rgba(110,168,254,.4)"; sky.setLineDash([6, 6]); sky.beginPath(); sky.moveTo(0, cy - b * R); sky.lineTo(W, cy - b * R); sky.stroke(); sky.setLineDash([]);
+    sky.fillStyle = "#9aa4c2"; sky.font = "22px system-ui"; sky.fillText("Star (disk-integrated light)", 20, 34);
+  }
+  function drawLC(xp) {
+    const W = 1000, H = 500, L = 130, Rm = 20, T = 40, B = 60;
+    lc.clearRect(0, 0, W, H);
+    const minF = Math.min(...curve.map(c => c[1]));
+    const lo = 1 - Math.max(1 - minF, 3e-4) * 1.6, hi = 1 + Math.max(1 - minF, 3e-4) * 0.35;
+    const X = x => L + (W - L - Rm) * (x + 1.6) / 3.2, Y = f => T + (H - T - B) * (hi - f) / (hi - lo);
+    lc.strokeStyle = "#24304f"; lc.lineWidth = 1;
+    for (let i = 0; i <= 4; i++) { const f = lo + (hi - lo) * i / 4; lc.beginPath(); lc.moveTo(L, Y(f)); lc.lineTo(W - Rm, Y(f)); lc.stroke();
+      lc.fillStyle = "#9aa4c2"; lc.font = "18px system-ui"; lc.textAlign = "right"; lc.fillText(((f - 1) * 1e6).toFixed(0) + " ppm", L - 8, Y(f) + 6); }
+    lc.textAlign = "left";
+    lc.fillStyle = "rgba(246,185,76,.55)"; noisy.forEach(([x, f]) => { if (x <= xp) lc.fillRect(X(x) - 2, Y(f) - 2, 4, 4); });
+    lc.strokeStyle = "#6ea8fe"; lc.lineWidth = 3; lc.beginPath();
+    curve.forEach(([x, f], i) => { if (x > xp) return; i ? lc.lineTo(X(x), Y(f)) : lc.moveTo(X(x), Y(f)); }); lc.stroke();
+    lc.fillStyle = "#e8ecf8"; lc.font = "20px system-ui"; lc.fillText("Relative brightness (light curve)", L, 22);
+    lc.fillStyle = "#9aa4c2"; lc.fillText("Time →", W - 100, H - 20);
+  }
+  function frame(ts) {
+    if (last != null) t += (ts - last) / 1000; last = ts;
+    const xp = -1.6 + ((t / 6) % 1) * 3.2;
+    drawSky(xp); drawLC(xp); requestAnimationFrame(frame);
+  }
+  $("preset").onchange = e => { const [k, b] = e.target.value.split(",").map(Number); $("k").value = k; $("b").value = b; compute(); t = 0; };
+  for (const id of ["k", "b", "ld", "noise"]) $(id).oninput = () => { compute(); t = 0; };
+  if (location.hash === "#full") t = 5.4;
+  compute(); requestAnimationFrame(frame);
+})();
+</script>
+</body>
+</html>

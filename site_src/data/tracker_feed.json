@@ -3,185 +3,94 @@
  "streams": {
   "artemis": [
    {
-    "title": "Ion temperature anisotropy and instability in the plasma sheet",
-    "date": "2026-11-13",
-    "venue": "Earth Planets and Space",
-    "url": "https://doi.org/10.1186/s40623-026-02569-7"
+    "title": "Lunar Dielectric Analyzer (LDA) for the Artemis First Landing Mission: Instrument Design and Operational Concept for In Situ Permittivity Measurements",
+    "date": "2026-10-01",
+    "venue": "The Planetary Science Journal",
+    "url": "https://doi.org/10.3847/psj/aeaff9"
    },
    {
-    "title": "Impact of artificial gravity on spaceflight-induced skeletal deterioration in male mice",
-    "date": "2026-11-13",
-    "venue": "npj Microgravity",
-    "url": "https://doi.org/10.1038/s41526-026-00670-5"
+    "title": "Spacecraft Thermal Control in Crewed Lunar Missions: A Review from Apollo to Artemis",
+    "date": "2026-09-15",
+    "venue": "Acceleron Aerospace Journal",
+    "url": "https://doi.org/10.61359/11.2106-2627"
    },
    {
-    "title": "The MegaWave Radio Surveyor",
-    "date": "2026-11-12",
-    "venue": "Bulletin of the American Astronomical Society",
-    "url": "https://doi.org/10.3847/25c2cfeb.a79c380e"
+    "title": "CARD as a Mission Assurance Dataset for Autonomous Lunar Surface Operations under Artemis and CLPS",
+    "date": "2026-08-01",
+    "venue": "Journal of the British Interplanetary Society",
+    "url": "https://doi.org/10.59332/jbis-079-08-0308"
    }
   ],
   "gaganyaan": [
    {
-    "title": "Beyond Earth, Within Reach: Human Spaceflight and Societal Impact in India",
-    "date": "2026-11-09",
-    "venue": "Acceleron Aerospace Journal",
-    "url": "https://doi.org/10.61359/11.2106-2633"
-   },
-   {
-    "title": "One Rocket Family for Africa: Sizing a Shared Reusable Launcher for Satellites, the Moon and Human Spaceflight",
-    "date": "2026-10-31",
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.23834530"
-   },
-   {
-    "title": "Technological Advancements and Mission Objectives Across the Chandrayaan Missions: India’s Progress and Achievements in Lunar Exploration",
-    "date": "2026-09-04",
-    "venue": "International Journal of Research & Technology",
-    "url": "https://openalex.org/W7218331616"
+    "title": "Challenges in Gaganyaan Mission: an Analysis of India’s Human Spaceflight Endeavour",
+    "date": "2026-01-01",
+    "venue": "Russian Aeronautics",
+    "url": "https://doi.org/10.3103/s1068799826010010"
    }
   ],
-  "chandrayaan-4-5": [
-   {
-    "title": "Hemispherical Descent Imaging – an Observation Concept Capable of Enabling New Planetary Surface Imaging Opportunities",
-    "date": "2026-11-12",
-    "venue": "Space Science Reviews",
-    "url": "https://doi.org/10.1007/s11214-026-01337-z"
-   },
-   {
-    "title": "Beyond Earth, Within Reach: Human Spaceflight and Societal Impact in India",
-    "date": "2026-11-09",
-    "venue": "Acceleron Aerospace Journal",
-    "url": "https://doi.org/10.61359/11.2106-2633"
-   },
-   {
-    "title": "Chronology, geochemistry, and tectonic controls of lunar farside mare basalts from multisource remote sensing data",
-    "date": "2026-11-05",
-    "venue": "Frontiers in Astronomy and Space Sciences",
-    "url": "https://doi.org/10.3389/fspas.2026.1922370"
-   }
-  ],
+  "chandrayaan-4-5": [],
   "europa-clipper": [
    {
-    "title": "Salt chemistry regulates liquid environments and microsphere distribution in brinicles",
-    "date": "2026-11-15",
-    "venue": "Scientific Reports",
-    "url": "https://doi.org/10.1038/s41598-026-80468-3"
+    "title": "Preliminary Contingency Trajectory Design for Multi-Moon Tours: Application to Europa Clipper",
+    "date": "2026-08-20",
+    "venue": "Journal of Guidance Control and Dynamics",
+    "url": "https://doi.org/10.2514/1.g009868"
    },
    {
-    "title": "Design Blueprint: A Resistively Heated Electric Melt Probe for Europa: Melt Power, Descent Rate and Cable Energy Budget",
-    "date": "2026-11-13",
+    "title": "Detecting an Ocean Inside Callisto With Geodetic Measurements From Europa Clipper and Juice",
+    "date": "2026-08-06",
+    "venue": "Geophysical Research Letters",
+    "url": "https://doi.org/10.1029/2025gl120835"
+   },
+   {
+    "title": "Predictive Framework for Upcoming Planetary Flyby Anomalies: JUICE 2026, Europa Clipper 2026, and JUICE 2029",
+    "date": "2026-07-06",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24207682"
-   },
-   {
-    "title": "Hemispherical Descent Imaging – an Observation Concept Capable of Enabling New Planetary Surface Imaging Opportunities",
-    "date": "2026-11-12",
-    "venue": "Space Science Reviews",
-    "url": "https://doi.org/10.1007/s11214-026-01337-z"
+    "url": "https://doi.org/10.5281/zenodo.21216678"
    }
   ],
   "tianwen-2": [
    {
-    "title": "Hemispherical Descent Imaging – an Observation Concept Capable of Enabling New Planetary Surface Imaging Opportunities",
-    "date": "2026-11-12",
-    "venue": "Space Science Reviews",
-    "url": "https://doi.org/10.1007/s11214-026-01337-z"
+    "title": "A second-order curved wave approach to surface clutter simulation for Tianwen-2 asteroid radar",
+    "date": "2026-10-23",
+    "venue": "Icarus",
+    "url": "https://doi.org/10.1016/j.icarus.2026.117357"
    },
    {
-    "title": "Autonomous Reconfiguration of Spacecraft Formation Near Irregular Asteroids with Unidirectional Ring Topology",
-    "date": "2026-11-01",
-    "venue": "Aerospace Science and Technology",
-    "url": "https://doi.org/10.1016/j.ast.2026.114213"
+    "title": "Shape, Regolith Size and Thickness, SMFe 0 Content, and Spectral Type of Tianwen-2 Target Asteroid (469219) Kamo‘oalewa",
+    "date": "2026-06-24",
+    "venue": "The Astrophysical Journal",
+    "url": "https://doi.org/10.3847/1538-4357/ae707c"
    },
    {
-    "title": "Assessing China’s Space Diplomacy in Southeast Asia, 2020–2025",
-    "date": "2026-10-30",
-    "venue": "The RUSI Journal",
-    "url": "https://doi.org/10.1080/03071847.2026.2755288"
+    "title": "Shape and spin axis determination of the Tianwen-2 target asteroid (469219) Kamo’oalewa from light-curve inversion",
+    "date": "2026-06-01",
+    "venue": "Astronomy and Astrophysics",
+    "url": "https://doi.org/10.1051/0004-6361/202659932"
    }
   ],
   "rubin-lsst": [
    {
-    "title": "Globular Cluster Color/Metallicity Bimodality read in a Causally Accreting Cosmology M(t)",
-    "date": "2026-11-14",
+    "title": "Discovery of an SX Phe Star in the Euclid Deep Field South from Rubin Observatory LSST Alerts",
+    "date": "2026-05-06",
+    "venue": "Research Notes of the AAS",
+    "url": "https://doi.org/10.3847/2515-5172/ae685b"
+   },
+   {
+    "title": "Rubin Observatory LSST as a large-scale photometric variability survey",
+    "date": "2026-01-02",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24227844"
+    "url": "https://doi.org/10.5281/zenodo.18130241"
    },
    {
-    "title": "Constraining Galaxy Cluster Triaxiality via Weak Lensing. I. Preparation for the Rubin Data beyond Leading Order",
-    "date": "2026-11-13",
-    "venue": "The Astrophysical Journal",
-    "url": "https://doi.org/10.3847/1538-4357/aeb09e"
-   },
-   {
-    "title": "Dwarf Galaxy Halo Masses from Spectroscopic and Photometric Lensing in DESI and DES",
-    "date": "2026-11-12",
-    "venue": "The Astrophysical Journal",
-    "url": "https://doi.org/10.3847/1538-4357/aeb49b"
+    "title": "Discovering Cataclysmic Variables from the Rubin Observatory LSST",
+    "date": "2025-10-22",
+    "venue": "The Astrophysical Journal Supplement Series",
+    "url": "https://doi.org/10.3847/1538-4365/ae061b"
    }
   ],
   "dark-energy": [
-   {
-    "title": "Reconstruction and Renaissance of Dongbei China:A Multimodal Metaphor Analysis of New Media on Harbin",
-    "date": "2026-12-01",
-    "venue": "Research Explorer (The University of Manchester)",
-    "url": "https://openalex.org/W7130910808"
-   },
-   {
-    "title": "When Lawyers Attack the Rule of Law: The Rise of Autocracy in America",
-    "date": "2026-12-01",
-    "venue": "eYLS (Yale Law School)",
-    "url": "https://openalex.org/W7167861593"
-   },
-   {
-    "title": "Computational Studies of Triplet State Formation in Zinc Dipyrrin Complexes",
-    "date": "2026-12-01",
-    "venue": "Digital Commons - East Tennessee State University (East Tennessee State University)",
-    "url": "https://openalex.org/W7203730873"
-   }
-  ],
-  "early-galaxies": [
-   {
-    "title": "\"None of This Is Normal\": The Golden Age of Legal Bribery",
-    "date": "2026-12-01",
-    "venue": "eYLS (Yale Law School)",
-    "url": "https://openalex.org/W7167871313"
-   },
-   {
-    "title": "Cross-sectional study of facial bone wall thickness of maxillary incisors in healthy and periodontitis populations based on CBCT analysis",
-    "date": "2026-11-15",
-    "venue": "Scientific Reports",
-    "url": "https://doi.org/10.1038/s41598-026-75510-3"
-   },
-   {
-    "title": "Ragnarok: A flexible and RApid GeNe annotation (ROcKs) pipeline deployed through Nextflow",
-    "date": "2026-11-14",
-    "venue": "The Plant Genome",
-    "url": "https://doi.org/10.1002/tpg2.70338"
-   }
-  ],
-  "biosignatures": [
-   {
-    "title": "Salt chemistry regulates liquid environments and microsphere distribution in brinicles",
-    "date": "2026-11-15",
-    "venue": "Scientific Reports",
-    "url": "https://doi.org/10.1038/s41598-026-80468-3"
-   },
-   {
-    "title": "A Stormy Planet and a Network of Oases: A Quantitative Framework for the Cronin–Tour Debate (2024–2027)/Штормовая планета и сеть оазисов: количественная рамка для спора Кронин– Тур (2024–2027)",
-    "date": "2026-11-14",
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24228383"
-   },
-   {
-    "title": "In-Situ Astrobiological and Chemical Characterization of Martian Regolith: A Comprehensive Review of Rover-Based NPK, Spectral, Carbon, and Amino Acid Analysis",
-    "date": "2026-11-13",
-    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24191898"
-   }
-  ],
-  "hubble-tension": [
    {
     "title": "Gravitational Hydrodynamics of the Continuous Substrate with Action Resistance (X): From the Casimir Effect and Resolution of the Vacuum Catastrophe to the Mechanical Derivation of G and Galactic Dynamics Without Dark Ma",
     "date": "2026-11-15",
@@ -189,56 +98,116 @@
     "url": "https://doi.org/10.5281/zenodo.24231816"
    },
    {
-    "title": "Three advanced lectures on inflation",
-    "date": "2026-11-14",
-    "venue": "The European Physical Journal Plus",
-    "url": "https://doi.org/10.1140/epjp/s13360-026-08405-x"
+    "title": "On the Unified Field Equation: From Principal Bundle Geometry to Dark Matter, Dark Energy, and Fermion Generations (V3)",
+    "date": "2026-11-15",
+    "venue": "",
+    "url": "https://doi.org/10.13140/rg.2.2.29670.59206"
    },
    {
-    "title": "The Bounded Gear-Spiral & Elastic Time-Plane Model: A Unified Mechanical, Geometric, and Retrocausal Framework for Cosmology and Quantum Dynamics",
-    "date": "2026-11-14",
+    "title": "Cosmological Coupling and Gravitational Ingestion: A Theoretical Inquiry into Black Holes as Potential Drivers of Dark Energy",
+    "date": "2026-11-15",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24226263"
+    "url": "https://doi.org/10.5281/zenodo.24236183"
+   }
+  ],
+  "early-galaxies": [
+   {
+    "title": "The Nitrogen Excess in Early Galaxies as a Test of Enrichment by Very Massive Stars",
+    "date": "2026-11-13",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24183086"
+   },
+   {
+    "title": "FROM THE INCEPTION OF MATTER TO JWST'S EARLY GALAXIES AND NGC 628",
+    "date": "2026-11-12",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24165833"
+   },
+   {
+    "title": "No Blue without Red: Evolutionary Properties of Super-Early Galaxies",
+    "date": "2026-10-30",
+    "venue": "The Open Journal of Astrophysics",
+    "url": "https://doi.org/10.33232/001c.173391"
+   }
+  ],
+  "biosignatures": [
+   {
+    "title": "Boron isotope fractionation in siliceous hot spring sinters: Geochemical implications for biosignatures",
+    "date": "2026-10-08",
+    "venue": "Geochimica et Cosmochimica Acta",
+    "url": "https://doi.org/10.1016/j.gca.2026.09.023"
+   },
+   {
+    "title": "Host Immune Biosignatures Predict Septic Shock and Mortality in Solid Organ Transplant Recipients With Gram-Negative Bacteremia",
+    "date": "2026-10-05",
+    "venue": "The Journal of Infectious Diseases",
+    "url": "https://doi.org/10.1093/infdis/jiag466"
+   },
+   {
+    "title": "The Effects of M Star Age-dependent Ultraviolet Emission on Detecting and Interpreting Exoplanet Biosignatures",
+    "date": "2026-09-29",
+    "venue": "The Astrophysical Journal",
+    "url": "https://doi.org/10.3847/1538-4357/ae994a"
+   }
+  ],
+  "hubble-tension": [
+   {
+    "title": "The Hubble Tension",
+    "date": "2026-11-13",
+    "venue": "Journal of Electrical Electronics Engineering",
+    "url": "https://doi.org/10.33140/jeee.05.06.02"
+   },
+   {
+    "title": "Covariant Unification of Curved Space-Time and Planar Gauge-Thermodynamic Submanifolds within the Sovereign 16 × 16 Matrix (ˆ︂ M ToE 16×16 ): Analytical Resolution of the Hubble Tension via the SNFCU/SLGEMM/SCUMM Framewo",
+    "date": "2026-11-13",
+    "venue": "",
+    "url": "https://doi.org/10.13140/rg.2.2.16753.44646"
+   },
+   {
+    "title": "Testing a Transient Extended Cuscuton as a Solution to the Hubble Tension",
+    "date": "2026-11-13",
+    "venue": "Symmetry",
+    "url": "https://doi.org/10.3390/sym18111904"
    }
   ],
   "euclid": [
    {
-    "title": "Bayesian morphometric analysis of Recurring Esthetic Dental (RED) and Golden Proportions in the maxillary anterior dentition using AutoCAD software",
-    "date": "2026-11-14",
-    "venue": "Scientific Reports",
-    "url": "https://doi.org/10.1038/s41598-026-79759-6"
+    "title": "Polar-structure galaxies beyond the local Universe: First results from Euclid",
+    "date": "2026-11-13",
+    "venue": "Astronomy and Astrophysics",
+    "url": "https://doi.org/10.1051/0004-6361/202662552"
    },
    {
-    "title": "Constraining Galaxy Cluster Triaxiality via Weak Lensing. I. Preparation for the Rubin Data beyond Leading Order",
-    "date": "2026-11-13",
-    "venue": "The Astrophysical Journal",
-    "url": "https://doi.org/10.3847/1538-4357/aeb09e"
+    "title": "Forecast Discrimination Between a Bounce and Standard Expansion with DESI and Euclid",
+    "date": "2026-11-11",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24142305"
    },
    {
-    "title": "Revisiting the enigmatic sixth star cluster in the Fornax dwarf spheroidal galaxy",
-    "date": "2026-11-13",
-    "venue": "Monthly Notices of the Royal Astronomical Society",
-    "url": "https://doi.org/10.1093/mnras/stag2189"
+    "title": "A Synthetic Tracking Search for Solar System Objects in the Euclid Q1 and Q2 Releases",
+    "date": "2026-11-10",
+    "venue": "Research Notes of the AAS",
+    "url": "https://doi.org/10.3847/2515-5172/aebe27"
    }
   ],
   "interstellar-objects": [
    {
-    "title": "Dimming and pulsation shock of the coalesced star V838 Monocerotis",
-    "date": "2026-11-14",
-    "venue": "Astronomy and Astrophysics",
-    "url": "https://doi.org/10.1051/0004-6361/202661349"
+    "title": "The Spatial Density of Interstellar Objects Implied by Single-Detection Surveys",
+    "date": "2026-11-13",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24193618"
    },
    {
-    "title": "Warp Drive in a De Sitter Universe",
+    "title": "Encounter Rates of Interstellar Objects with the Inner Solar System from Their Velocity Dispersion",
     "date": "2026-11-13",
-    "venue": "International Journal of Modern Physics D",
-    "url": "https://doi.org/10.1142/s0218271826500732"
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24193694"
    },
    {
-    "title": "The Synthetic Absorption Line Spectral Almanac (SALSA)",
+    "title": "The Probability of Striking a Macroscopic Interstellar Object on the Way to Proxima Centauri",
     "date": "2026-11-13",
-    "venue": "The Open Journal of Astrophysics",
-    "url": "https://doi.org/10.33232/001c.175274"
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24193575"
    }
   ],
   "trappist-1-e": [
@@ -249,56 +218,56 @@
     "url": "https://doi.org/10.5281/zenodo.24213345"
    },
    {
-    "title": "Tidal Heating Fluxes Across the TRAPPIST-1 System: Computed Surface Fluxes for Seven Planets",
-    "date": "2026-11-14",
+    "title": "Rapid Interstellar Travel with the Bergmann-Bounce-Drive: Journey Times to Proxima Centauri b, TRAPPIST-1 e, TOI-715 b, and Kepler-442b with Refueling at Stellar Bloom Stations",
+    "date": "2026-02-20",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24222491"
+    "url": "https://doi.org/10.5281/zenodo.18712691"
    },
    {
-    "title": "Stellar Flares Rather than High T int as Possible Cause for the Missing Methane in Young Exoplanets: The Case Study of V1298 Tau b",
-    "date": "2026-11-13",
-    "venue": "The Astrophysical Journal Letters",
-    "url": "https://doi.org/10.3847/2041-8213/aeb6e0"
+    "title": "JWST TRAPPIST-1 e/b Program: Motivation and First Observations",
+    "date": "2026-01-22",
+    "venue": "The Astronomical Journal",
+    "url": "https://doi.org/10.3847/1538-3881/ae28cb"
    }
   ],
   "gravitational-waves": [
    {
-    "title": "How to Calculate Dimensionless Numbers in Fluid Mechanics and Their Applications in Chemical Engineering Processes: Reynolds, Mach, Froude, Euler, Power, Stokes, Weber, Capillary, and Cavitation Numbers",
-    "date": "2026-12-01",
-    "venue": "ASEAN Journal for Science and Engineering in Materials",
-    "url": "https://openalex.org/W7220144095"
+    "title": "Isothermal Cluster Lensing Time Delays for Gravitational Waves: Month-to-Year Delay Budgets and Follow-Up Windows",
+    "date": "2026-11-14",
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24222005"
    },
    {
-    "title": "Optical Wave-Tunneling & Bernoulli Clamping: A Hydrodynamic Proof of Arthur Ashkin's Optical Tweezers via Swan's Equation",
-    "date": "2026-11-15",
+    "title": "Morse Phase and Waveform Distortion in Type II Lensed Gravitational-Wave Images: Detectability Budgets",
+    "date": "2026-11-14",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24242227"
+    "url": "https://doi.org/10.5281/zenodo.24221959"
    },
    {
-    "title": "Geometric Wave-Exclusion & Vacuum Pressure Clamping: Resolving the Casimir Effect Without Virtual Particles via Swan's Equation",
-    "date": "2026-11-15",
+    "title": "Redshift Evolution of the Gravitational-Wave Lensing Optical Depth: Source-Redshift Budgets to Redshift Five",
+    "date": "2026-11-14",
     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-    "url": "https://doi.org/10.5281/zenodo.24242470"
+    "url": "https://doi.org/10.5281/zenodo.24221858"
    }
   ],
   "parker-solar-probe": [
    {
-    "title": "A new approach to dark photon",
+    "title": "Interplanetary Magnetic Field Strength Falloff: A Flux-Conserving Bound Against Parker Solar Probe Values",
     "date": "2026-11-13",
-    "venue": "Journal of High Energy Physics",
-    "url": "https://doi.org/10.1007/jhep11(2026)148"
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "url": "https://doi.org/10.5281/zenodo.24189069"
    },
    {
-    "title": "TDDFT Gradients and Nonadiabatic Couplings with Minimal Auxiliary Basis Set Approximation for Fewest-Switches Surface Hopping Dynamics",
-    "date": "2026-11-13",
-    "venue": "Journal of Chemical Theory and Computation",
-    "url": "https://doi.org/10.1021/acs.jctc.6c00986"
+    "title": "Effects of Alfvénicity on the compressible energy cascade in magnetohydrodynamic solar-wind turbulence: Evidence from Parker Solar Probe, Solar Orbiter, and WIND observations",
+    "date": "2026-11-05",
+    "venue": "Astronomy and Astrophysics",
+    "url": "https://doi.org/10.1051/0004-6361/202662102"
    },
    {
-    "title": "Growth and optical properties of α‑(AlGa)2O3/α‑Al2O3 multiple quantum wells",
-    "date": "2026-11-13",
-    "venue": "Journal of Crystal Growth",
-    "url": "https://doi.org/10.1016/j.jcrysgro.2026.128911"
+    "title": "Solar Mass Loss due to Solar Wind, According to Ulysses, Solar Orbiter, and Parker Solar Probe Data",
+    "date": "2026-11-04",
+    "venue": "Vestnik St Petersburg University Mathematics",
+    "url": "https://doi.org/10.1134/s1063454126700482"
    }
   ]
  }

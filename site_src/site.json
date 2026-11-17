@@ -1312,42 +1312,48 @@
    "icon": "🌙",
    "name": "Artemis (NASA)",
    "status": "Artemis II flown (Apr 1–10, 2026)",
-   "next": "Artemis III LEO docking test, target mid-2027; first landing (Artemis IV) target 2028"
+   "next": "Artemis III LEO docking test, target mid-2027; first landing (Artemis IV) target 2028",
+   "query": "Artemis lunar mission"
   },
   {
    "id": "gaganyaan",
    "icon": "🇮🇳",
    "name": "Gaganyaan (ISRO)",
    "status": "Separation tests done (Oct 2026)",
-   "next": "G1 uncrewed flight, Q4 2026 (NET Nov); crewed H1 2027"
+   "next": "G1 uncrewed flight, Q4 2026 (NET Nov); crewed H1 2027",
+   "query": "Gaganyaan human spaceflight"
   },
   {
    "id": "chandrayaan-4-5",
    "icon": "🌕",
    "name": "Chandrayaan-4 / -5 (ISRO, JAXA)",
    "status": "Development / design",
-   "next": "Sample return ~2027–28; LUPEX ~2028"
+   "next": "Sample return ~2027–28; LUPEX ~2028",
+   "query": "Chandrayaan lunar sample return"
   },
   {
    "id": "europa-clipper",
    "icon": "🧊",
    "name": "Europa Clipper (NASA)",
    "status": "Cruise, healthy",
-   "next": "Earth gravity assist 2026-12-03; Jupiter Apr 2030"
+   "next": "Earth gravity assist 2026-12-03; Jupiter Apr 2030",
+   "query": "Europa Clipper"
   },
   {
    "id": "tianwen-2",
    "icon": "🪨",
    "name": "Tianwen-2 (CNSA)",
    "status": "Operating at Kamoʻoalewa since Jul 2026",
-   "next": "Sampling; departure Apr 2027; capsule return Nov 2027"
+   "next": "Sampling; departure Apr 2027; capsule return Nov 2027",
+   "query": "Tianwen-2 asteroid"
   },
   {
    "id": "rubin-lsst",
    "icon": "🔭",
    "name": "Rubin LSST",
    "status": "Survey running since 2026-06-29/30",
-   "next": "Early data previews and alert-broker results"
+   "next": "Early data previews and alert-broker results",
+   "query": "Rubin Observatory LSST"
   },
   {
    "id": "dark-energy",
@@ -1432,5 +1438,52 @@
    "title": "Missions"
   }
  ],
- "prompt_style": "Ultra-realistic astronomical illustration, scientifically accurate, 16:9, no text or labels"
+ "prompt_style": "Ultra-realistic astronomical illustration, scientifically accurate, 16:9, no text or labels",
+ "home_groups": [
+  {
+   "icon": "🪐",
+   "title": "Solar System",
+   "ids": [
+    "planets",
+    "moons",
+    "smallbodies",
+    "rocks"
+   ]
+  },
+  {
+   "icon": "✨",
+   "title": "Stars & galaxies",
+   "ids": [
+    "stars",
+    "objects",
+    "exoplanets",
+    "galaxies",
+    "constellations"
+   ]
+  },
+  {
+   "icon": "🚀",
+   "title": "Exploration",
+   "ids": [
+    "missions",
+    "telescopes",
+    "people"
+   ]
+  },
+  {
+   "icon": "🔬",
+   "title": "Evidence",
+   "ids": [
+    "papers"
+   ]
+  }
+ ],
+ "search_hints": [
+  "Black hole",
+  "Mars",
+  "Chandrayaan-3",
+  "James Webb",
+  "Andromeda",
+  "Betelgeuse"
+ ]
 }
